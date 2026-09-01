@@ -1012,8 +1012,46 @@
                     120,
                     22
                   ],
-                  "text": "prepend send",
+                  "text": "prepend script send",
                   "varname": "mcp_psend_n"
+                }
+              },
+              {
+                "box": {
+                  "id": "obj-47",
+                  "maxclass": "newobj",
+                  "numinlets": 1,
+                  "numoutlets": 1,
+                  "outlettype": [
+                    ""
+                  ],
+                  "patching_rect": [
+                    610,
+                    300,
+                    70,
+                    22
+                  ],
+                  "text": "tosymbol",
+                  "varname": "mcp_send_tosymbol"
+                }
+              },
+              {
+                "box": {
+                  "id": "obj-48",
+                  "maxclass": "newobj",
+                  "numinlets": 1,
+                  "numoutlets": 1,
+                  "outlettype": [
+                    ""
+                  ],
+                  "patching_rect": [
+                    610,
+                    340,
+                    80,
+                    22
+                  ],
+                  "text": "fromsymbol",
+                  "varname": "mcp_send_fromsymbol"
                 }
               },
               {
@@ -1493,6 +1531,30 @@
                   "source": [
                     "obj-2",
                     5
+                  ],
+                  "destination": [
+                    "obj-47",
+                    0
+                  ]
+                }
+              },
+              {
+                "patchline": {
+                  "source": [
+                    "obj-47",
+                    0
+                  ],
+                  "destination": [
+                    "obj-48",
+                    0
+                  ]
+                }
+              },
+              {
+                "patchline": {
+                  "source": [
+                    "obj-48",
+                    0
                   ],
                   "destination": [
                     "obj-35",
