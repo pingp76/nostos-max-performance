@@ -25,6 +25,7 @@
 - 修改 Max 对象、属性、连线或布局时，直接编辑 `.maxpat` 文件并验证。
 - Max MCP 仅用于读取运行时状态、诊断和调整已有参数；不得使用 `max_save` 重建现有 Patch。
 - 同一 Max 实例只保留一个监听 UDP 7400 的 `p mcp_server`；演出主 Patch 已内嵌 MCP 时，不要同时打开独立 `mcp_host.maxpat` 或其他带 MCP 的 Patch。
+- 读取真实 Max Console 时，使用主 Patch 中的 `mcp_console_reader` 写入临时文件后读取；不要把 MCP 的服务器端 `max_console_log` 误当成 Max Console。
 - 手势输入不得承担录音、换段、紧急静音或最终回归等关键操作。
 
 ## Max Patch 技术规范

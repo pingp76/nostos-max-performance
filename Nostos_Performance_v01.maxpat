@@ -1878,6 +1878,36 @@
       },
       {
         "box": {
+          "id": "label_mcp_console_reader",
+          "maxclass": "comment",
+          "patching_rect": [
+            2020,
+            175,
+            170,
+            20
+          ],
+          "varname": "label_mcp_console_reader",
+          "text": "MCP读取Max Console",
+          "fontsize": 11,
+          "fontface": 0
+        }
+      },
+      {
+        "box": {
+          "id": "mcp_console_reader",
+          "maxclass": "newobj",
+          "patching_rect": [
+            2020,
+            200,
+            70,
+            22
+          ],
+          "varname": "mcp_console_reader",
+          "text": "console"
+        }
+      },
+      {
+        "box": {
           "id": "label_mcp",
           "maxclass": "comment",
           "patching_rect": [

@@ -21,6 +21,8 @@ TouchOSC 默认监听 UDP 9000。没有 TouchOSC 或摄像头时，也可以完�
 
 使用 MCP 时，只打开主 Patch 内嵌的 `p mcp_server`；不要同时打开独立 `mcp_host.maxpat` 或其他带 MCP 的 Patch，否则 UDP 7400 会发生端口争用。当前 MCP 参数控制已通过 RESET、重新录音和第一阶段背景／前景分离测试；TouchOSC 的 `oscparse` 运行时错误仍待修复。
 
+主 Patch 内的 `mcp_console_reader` 已实测可由 MCP 请求将完整的真实 Max Console 写入临时文本文件，供外部代理读取和自行诊断；MCP 自带的 `max_console_log` 只记录服务器端 OSC 命令。
+
 声音控制分为三层：`BED`控制持续背景，`AUTO VOICE`控制自动循环／切片，EVENT A／B／HOLD负责手动语言事件。关闭AUTO VOICE后，背景和手动事件仍可独立使用。
 
 ## 当前状态

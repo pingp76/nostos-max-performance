@@ -3,3 +3,5 @@
 *.maxbackup
 *.maxsnap
 
+# Local checkout used to contribute fixes upstream.
+maxmsp-mcp/

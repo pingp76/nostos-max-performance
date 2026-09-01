@@ -1,6 +1,6 @@
 # 《Nostos：一句话的返航》工作文档
 
-> 当前版本：v0.12  
+> 当前版本：v0.13
 > 更新日期：2026-09-01  
 > 性质：本项目的持续更新工作文档。已经形成阶段性共识时，应先更新本文档，再继续设计或实现。
 
@@ -315,6 +315,7 @@ BED和VOICE均保留为演出推子，使背景与前景能够分开塑形；背
 - 已验证：`BED` 与 `AUTO VOICE` 可独立控制；关闭 AUTO 后背景继续；AUTO 关闭时 `EVENT B` 仍可单次召回录音；`BED = 0` 只移除背景；恢复两项控制后两层声音均恢复。
 - 主 Patch 内嵌 MCP 的 `/send` 路径必须使用 `tosymbol → fromsymbol → prepend script send`，以把 MCP 传来的数字文本恢复为 Max 数值，并按 Scripting Name 驱动现有 UI 对象。
 - MCP 工具当前返回的“sent to `[r name]`”文字与实际实现不一致；本项目按 Scripting Name 使用该功能。
+- 主 Patch 提供命名对象 `mcp_console_reader`（`console`）；已实测可由 MCP 向它发送 `write <临时文件路径>`，再读取该文件获得完整的真实 Max Console 内容。Python 端的 `max_console_log` 仅是 OSC 命令日志，不能替代此功能。
 
 ## 10. 尚待决定或验证
 
