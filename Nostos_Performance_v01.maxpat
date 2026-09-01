@@ -1863,7 +1863,7 @@
             26
           ],
           "varname": "label_control_help",
-          "text": "按钮选择内部场景；line~ 在 500 ms 内交叉淡化。推子 0–100 会转换成标准化 0.0–1.0。",
+          "text": "按钮选择内部场景；line~ 在 500 ms 内交叉淡化。BED独立控制背景，AUTO VOICE开关自动语音；EVENT仍可手动触发。",
           "fontsize": 13,
           "fontface": 0
         }
@@ -3272,7 +3272,7 @@
             35
           ],
           "varname": "label_osc",
-          "text": "TouchOSC：UDP 9000；/nostos/stage 1..4，/transform /density /voice，/gesture x y，/event 1|2，/record /play /mute /hold /pause /reset。",
+          "text": "TouchOSC：UDP 9000；/nostos/stage 1..4，/transform /density /voice /bed /auto，/gesture x y，/event 1|2，/record /play /mute /hold /pause /reset。",
           "fontsize": 12,
           "fontface": 0
         }
@@ -3344,7 +3344,7 @@
             22
           ],
           "varname": "osc_route",
-          "text": "route stage transform density voice gesture event record play mute hold pause reset"
+          "text": "route stage transform density voice gesture event record play mute hold pause reset bed auto"
         }
       },
       {
@@ -3643,6 +3643,51 @@
       },
       {
         "box": {
+          "id": "osc_bed_clip",
+          "maxclass": "newobj",
+          "patching_rect": [1720, 2740, 70, 22],
+          "varname": "osc_bed_clip",
+          "text": "clip 0. 1."
+        }
+      },
+      {
+        "box": {
+          "id": "osc_bed_mul",
+          "maxclass": "newobj",
+          "patching_rect": [1720, 2780, 60, 22],
+          "varname": "osc_bed_mul",
+          "text": "* 100."
+        }
+      },
+      {
+        "box": {
+          "id": "osc_bed_ui_send",
+          "maxclass": "newobj",
+          "patching_rect": [1800, 2780, 100, 22],
+          "varname": "osc_bed_ui_send",
+          "text": "s ui_bed_raw"
+        }
+      },
+      {
+        "box": {
+          "id": "osc_auto_clip",
+          "maxclass": "newobj",
+          "patching_rect": [1930, 2740, 65, 22],
+          "varname": "osc_auto_clip",
+          "text": "clip 0 1"
+        }
+      },
+      {
+        "box": {
+          "id": "osc_auto_ui_send",
+          "maxclass": "newobj",
+          "patching_rect": [1930, 2780, 130, 22],
+          "varname": "osc_auto_ui_send",
+          "text": "s ui_auto_voice_raw"
+        }
+      },
+      {
+        "box": {
           "id": "label_debug_remote",
           "maxclass": "comment",
           "patching_rect": [
@@ -3879,7 +3924,7 @@
         "box": {
           "id": "reset_master_value",
           "maxclass": "message",
-          "patching_rect": [540, 940, 40, 22],
+          "patching_rect": [540, 970, 40, 22],
           "varname": "reset_master_value",
           "text": "97",
           "numinlets": 2,
@@ -3891,7 +3936,7 @@
         "box": {
           "id": "reset_mute_receive",
           "maxclass": "newobj",
-          "patching_rect": [1040, 945, 85, 22],
+          "patching_rect": [1040, 970, 85, 22],
           "varname": "reset_mute_receive",
           "text": "r ctl_reset"
         }
@@ -3900,7 +3945,7 @@
         "box": {
           "id": "reset_mute_value",
           "maxclass": "message",
-          "patching_rect": [1140, 945, 35, 22],
+          "patching_rect": [1140, 970, 35, 22],
           "varname": "reset_mute_value",
           "text": "0",
           "numinlets": 2,
@@ -3975,7 +4020,7 @@
         "box": {
           "id": "reset_pause_receive",
           "maxclass": "newobj",
-          "patching_rect": [1200, 945, 85, 22],
+          "patching_rect": [1200, 970, 85, 22],
           "varname": "reset_pause_receive",
           "text": "r ctl_reset"
         }
@@ -3984,7 +4029,7 @@
         "box": {
           "id": "reset_pause_value",
           "maxclass": "message",
-          "patching_rect": [1300, 945, 35, 22],
+          "patching_rect": [1300, 970, 35, 22],
           "varname": "reset_pause_value",
           "text": "0",
           "numinlets": 2,
@@ -4071,9 +4116,9 @@
         "box": {
           "id": "scene_preset_s1",
           "maxclass": "message",
-          "patching_rect": [1700, 800, 130, 22],
+          "patching_rect": [1700, 800, 170, 22],
           "varname": "scene_preset_s1",
-          "text": "25 35 75 50 50 0",
+          "text": "25 35 75 50 50 0 55 1",
           "numinlets": 2,
           "numoutlets": 1,
           "outlettype": [""]
@@ -4083,9 +4128,9 @@
         "box": {
           "id": "scene_preset_s2",
           "maxclass": "message",
-          "patching_rect": [1700, 830, 130, 22],
+          "patching_rect": [1700, 830, 170, 22],
           "varname": "scene_preset_s2",
-          "text": "70 55 70 50 55 0",
+          "text": "70 55 70 50 55 0 45 1",
           "numinlets": 2,
           "numoutlets": 1,
           "outlettype": [""]
@@ -4095,9 +4140,9 @@
         "box": {
           "id": "scene_preset_s3",
           "maxclass": "message",
-          "patching_rect": [1700, 860, 130, 22],
+          "patching_rect": [1700, 860, 170, 22],
           "varname": "scene_preset_s3",
-          "text": "85 30 80 50 45 0",
+          "text": "85 30 80 50 45 0 40 1",
           "numinlets": 2,
           "numoutlets": 1,
           "outlettype": [""]
@@ -4107,9 +4152,9 @@
         "box": {
           "id": "scene_preset_return",
           "maxclass": "message",
-          "patching_rect": [1700, 890, 130, 22],
+          "patching_rect": [1700, 890, 170, 22],
           "varname": "scene_preset_return",
-          "text": "0 20 100 50 100 0",
+          "text": "0 20 100 50 100 0 20 0",
           "numinlets": 2,
           "numoutlets": 1,
           "outlettype": [""]
@@ -4119,9 +4164,9 @@
         "box": {
           "id": "scene_preset_reset",
           "maxclass": "message",
-          "patching_rect": [1700, 920, 130, 22],
+          "patching_rect": [1700, 920, 170, 22],
           "varname": "scene_preset_reset",
-          "text": "25 35 75 50 50 0",
+          "text": "25 35 75 50 50 0 50 1",
           "numinlets": 2,
           "numoutlets": 1,
           "outlettype": [""]
@@ -4131,16 +4176,16 @@
         "box": {
           "id": "scene_preset_unpack",
           "maxclass": "newobj",
-          "patching_rect": [1850, 860, 150, 22],
+          "patching_rect": [1890, 860, 165, 22],
           "varname": "scene_preset_unpack",
-          "text": "unpack 0 0 0 0 0 0"
+          "text": "unpack 0 0 0 0 0 0 0 0"
         }
       },
       {
         "box": {
           "id": "preset_transform_send",
           "maxclass": "newobj",
-          "patching_rect": [2020, 800, 130, 22],
+          "patching_rect": [2070, 790, 130, 22],
           "varname": "preset_transform_send",
           "text": "s ui_transform_raw"
         }
@@ -4149,7 +4194,7 @@
         "box": {
           "id": "preset_density_send",
           "maxclass": "newobj",
-          "patching_rect": [2020, 830, 120, 22],
+          "patching_rect": [2070, 815, 120, 22],
           "varname": "preset_density_send",
           "text": "s ui_density_raw"
         }
@@ -4158,7 +4203,7 @@
         "box": {
           "id": "preset_voice_send",
           "maxclass": "newobj",
-          "patching_rect": [2020, 860, 110, 22],
+          "patching_rect": [2070, 840, 110, 22],
           "varname": "preset_voice_send",
           "text": "s ui_voice_raw"
         }
@@ -4167,7 +4212,7 @@
         "box": {
           "id": "preset_x_send",
           "maxclass": "newobj",
-          "patching_rect": [2020, 890, 90, 22],
+          "patching_rect": [2070, 865, 90, 22],
           "varname": "preset_x_send",
           "text": "s ui_x_raw"
         }
@@ -4176,7 +4221,7 @@
         "box": {
           "id": "preset_y_send",
           "maxclass": "newobj",
-          "patching_rect": [2020, 920, 90, 22],
+          "patching_rect": [2070, 890, 90, 22],
           "varname": "preset_y_send",
           "text": "s ui_y_raw"
         }
@@ -4185,7 +4230,7 @@
         "box": {
           "id": "preset_hold_send",
           "maxclass": "newobj",
-          "patching_rect": [2020, 950, 100, 22],
+          "patching_rect": [2070, 915, 100, 22],
           "varname": "preset_hold_send",
           "text": "s ui_hold_raw"
         }
@@ -4194,11 +4239,147 @@
         "box": {
           "id": "label_stage_presets",
           "maxclass": "comment",
-          "patching_rect": [1700, 975, 450, 23],
+          "patching_rect": [1700, 950, 350, 38],
           "varname": "label_stage_presets",
-          "text": "Stage预设顺序：TRANSFORM DENSITY VOICE X Y HOLD；切换时自动召回。",
+          "text": "Stage预设顺序：TRANSFORM DENSITY VOICE X Y HOLD BED AUTO；切换时自动召回。",
           "fontsize": 11,
           "fontface": 0
+        }
+      },
+      {
+        "box": {
+          "id": "label_bed",
+          "maxclass": "comment",
+          "patching_rect": [40, 940, 120, 42],
+          "varname": "label_bed",
+          "text": "控: BED\n背景音量 0—100",
+          "fontsize": 13,
+          "fontface": 1,
+          "textcolor": [0.65, 0.2, 0.85, 1.0],
+          "presentation": 1,
+          "presentation_rect": [330, 205, 110, 40]
+        }
+      },
+      {
+        "box": {
+          "id": "ui_bed",
+          "maxclass": "slider",
+          "patching_rect": [170, 945, 160, 22],
+          "varname": "ui_bed",
+          "size": 101,
+          "numinlets": 1,
+          "numoutlets": 1,
+          "outlettype": ["int"],
+          "presentation": 1,
+          "presentation_rect": [350, 250, 38, 190]
+        }
+      },
+      {
+        "box": {
+          "id": "bed_norm",
+          "maxclass": "newobj",
+          "patching_rect": [350, 945, 60, 22],
+          "varname": "bed_norm",
+          "text": "/ 100."
+        }
+      },
+      {
+        "box": {
+          "id": "bed_send",
+          "maxclass": "newobj",
+          "patching_rect": [430, 945, 80, 22],
+          "varname": "bed_send",
+          "text": "s ctl_bed"
+        }
+      },
+      {
+        "box": {
+          "id": "bed_default",
+          "maxclass": "newobj",
+          "patching_rect": [530, 945, 95, 22],
+          "varname": "bed_default",
+          "text": "loadmess 50"
+        }
+      },
+      {
+        "box": {
+          "id": "bed_raw_receive",
+          "maxclass": "newobj",
+          "patching_rect": [645, 945, 90, 22],
+          "varname": "bed_raw_receive",
+          "text": "r ui_bed_raw"
+        }
+      },
+      {
+        "box": {
+          "id": "label_auto_voice",
+          "maxclass": "comment",
+          "patching_rect": [755, 940, 185, 42],
+          "varname": "label_auto_voice",
+          "text": "控: AUTO VOICE\n1自动语音 0仅背景／手动事件",
+          "fontsize": 13,
+          "fontface": 1,
+          "textcolor": [0.65, 0.2, 0.85, 1.0],
+          "presentation": 1,
+          "presentation_rect": [20, 390, 180, 42]
+        }
+      },
+      {
+        "box": {
+          "id": "ui_auto_voice",
+          "maxclass": "toggle",
+          "patching_rect": [950, 945, 44, 44],
+          "varname": "ui_auto_voice",
+          "numinlets": 1,
+          "numoutlets": 1,
+          "outlettype": ["int"],
+          "presentation": 1,
+          "presentation_rect": [210, 390, 52, 52]
+        }
+      },
+      {
+        "box": {
+          "id": "auto_voice_send",
+          "maxclass": "newobj",
+          "patching_rect": [1010, 945, 105, 22],
+          "varname": "auto_voice_send",
+          "text": "s ctl_auto_voice"
+        }
+      },
+      {
+        "box": {
+          "id": "auto_voice_default",
+          "maxclass": "newobj",
+          "patching_rect": [1135, 945, 90, 22],
+          "varname": "auto_voice_default",
+          "text": "loadmess 1"
+        }
+      },
+      {
+        "box": {
+          "id": "auto_voice_raw_receive",
+          "maxclass": "newobj",
+          "patching_rect": [1245, 945, 125, 22],
+          "varname": "auto_voice_raw_receive",
+          "text": "r ui_auto_voice_raw"
+        }
+      },
+      {
+        "box": {
+          "id": "preset_bed_send",
+          "maxclass": "newobj",
+          "patching_rect": [2070, 940, 100, 22],
+          "varname": "preset_bed_send",
+          "text": "s ui_bed_raw"
+        }
+      },
+      {
+        "box": {
+          "id": "preset_auto_voice_send",
+          "maxclass": "newobj",
+          "patching_rect": [2070, 965, 130, 22],
+          "varname": "preset_auto_voice_send",
+          "text": "s ui_auto_voice_raw"
         }
       },
       {
@@ -4234,7 +4415,7 @@
             26
           ],
           "varname": "label_s1_help",
-          "text": "TRANSFORM 改变循环速度；DENSITY 改变 55 Hz 底音的脉动速度；EVENT A 倒放 1.2 秒；EVENT B 短暂失速。",
+          "text": "TRANSFORM改变循环速度；DENSITY改变脉动；BED控制55 Hz背景；AUTO VOICE关闭连续语音，但EVENT A/B仍会短暂显现。",
           "fontsize": 13,
           "fontface": 0
         }
@@ -4517,6 +4698,93 @@
       },
       {
         "box": {
+          "id": "s1_auto_gain",
+          "maxclass": "newobj",
+          "patching_rect": [1380, 1165, 35, 22],
+          "varname": "s1_auto_gain",
+          "text": "*~"
+        }
+      },
+      {
+        "box": {
+          "id": "s1_auto_receive",
+          "maxclass": "newobj",
+          "patching_rect": [1000, 1235, 105, 22],
+          "varname": "s1_auto_receive",
+          "text": "r ctl_auto_voice"
+        }
+      },
+      {
+        "box": {
+          "id": "s1_auto_store",
+          "maxclass": "newobj",
+          "patching_rect": [1125, 1235, 45, 22],
+          "varname": "s1_auto_store",
+          "text": "f 1."
+        }
+      },
+      {
+        "box": {
+          "id": "s1_auto_pack",
+          "maxclass": "newobj",
+          "patching_rect": [1190, 1235, 85, 22],
+          "varname": "s1_auto_pack",
+          "text": "pack 0. 50"
+        }
+      },
+      {
+        "box": {
+          "id": "s1_auto_line",
+          "maxclass": "newobj",
+          "patching_rect": [1295, 1235, 70, 22],
+          "varname": "s1_auto_line",
+          "text": "line~ 1."
+        }
+      },
+      {
+        "box": {
+          "id": "s1_auto_event_on",
+          "maxclass": "message",
+          "patching_rect": [1000, 1270, 55, 22],
+          "varname": "s1_auto_event_on",
+          "text": "1. 20",
+          "numinlets": 2,
+          "numoutlets": 1,
+          "outlettype": [""]
+        }
+      },
+      {
+        "box": {
+          "id": "s1_auto_event_delay",
+          "maxclass": "newobj",
+          "patching_rect": [1075, 1270, 80, 22],
+          "varname": "s1_auto_event_delay",
+          "text": "delay 1400"
+        }
+      },
+      {
+        "box": {
+          "id": "s1_auto_on_select",
+          "maxclass": "newobj",
+          "patching_rect": [1385, 1235, 45, 22],
+          "varname": "s1_auto_on_select",
+          "text": "sel 1"
+        }
+      },
+      {
+        "box": {
+          "id": "s1_auto_restart",
+          "maxclass": "message",
+          "patching_rect": [1385, 1270, 65, 22],
+          "varname": "s1_auto_restart",
+          "text": "startloop",
+          "numinlets": 2,
+          "numoutlets": 1,
+          "outlettype": [""]
+        }
+      },
+      {
+        "box": {
           "id": "s1_event_a",
           "maxclass": "newobj",
           "patching_rect": [
@@ -4789,6 +5057,42 @@
       },
       {
         "box": {
+          "id": "s1_bed_user_gain",
+          "maxclass": "newobj",
+          "patching_rect": [400, 1280, 35, 22],
+          "varname": "s1_bed_user_gain",
+          "text": "*~"
+        }
+      },
+      {
+        "box": {
+          "id": "s1_bed_receive",
+          "maxclass": "newobj",
+          "patching_rect": [40, 1320, 80, 22],
+          "varname": "s1_bed_receive",
+          "text": "r ctl_bed"
+        }
+      },
+      {
+        "box": {
+          "id": "s1_bed_pack",
+          "maxclass": "newobj",
+          "patching_rect": [150, 1320, 85, 22],
+          "varname": "s1_bed_pack",
+          "text": "pack 0. 50"
+        }
+      },
+      {
+        "box": {
+          "id": "s1_bed_line",
+          "maxclass": "newobj",
+          "patching_rect": [250, 1320, 70, 22],
+          "varname": "s1_bed_line",
+          "text": "line~ 0.5"
+        }
+      },
+      {
+        "box": {
           "id": "s1_mix",
           "maxclass": "newobj",
           "patching_rect": [
@@ -4897,7 +5201,7 @@
             35
           ],
           "varname": "label_s1_chain",
-          "text": "groove~ 读取共享 buffer；*~ 0.35 是固定安全增益；VOICE 再控制表现音量；场景 gain 最后决定本模块是否可听。",
+          "text": "自动语音与背景分别经过AUTO VOICE和BED控制，再汇入场景gain；重新开启AUTO VOICE时从loop起点开始。",
           "fontsize": 11,
           "fontface": 0
         }
@@ -4935,7 +5239,7 @@
             26
           ],
           "varname": "label_s2_help",
-          "text": "DENSITY 控制自动切片间隔；TRANSFORM 控制切片长度；X 控制声像；Y 控制亮度。EVENT A 立即切片，EVENT B 召回清晰开头，HOLD 重复短残片。",
+          "text": "AUTO VOICE控制自动切片计时器；关闭后BED继续，EVENT A/B/HOLD仍可独立发声。DENSITY、TRANSFORM、X、Y控制切片行为。",
           "fontsize": 13,
           "fontface": 0
         }
@@ -5046,6 +5350,42 @@
           ],
           "varname": "s2_metro",
           "text": "metro 700"
+        }
+      },
+      {
+        "box": {
+          "id": "s2_auto_receive",
+          "maxclass": "newobj",
+          "patching_rect": [480, 1460, 105, 22],
+          "varname": "s2_auto_receive",
+          "text": "r ctl_auto_voice"
+        }
+      },
+      {
+        "box": {
+          "id": "s2_auto_pak",
+          "maxclass": "newobj",
+          "patching_rect": [480, 1490, 70, 22],
+          "varname": "s2_auto_pak",
+          "text": "pak 0 1"
+        }
+      },
+      {
+        "box": {
+          "id": "s2_auto_expr",
+          "maxclass": "newobj",
+          "patching_rect": [600, 1460, 105, 22],
+          "varname": "s2_auto_expr",
+          "text": "expr $i1 && $i2"
+        }
+      },
+      {
+        "box": {
+          "id": "s2_auto_change",
+          "maxclass": "newobj",
+          "patching_rect": [725, 1460, 55, 22],
+          "varname": "s2_auto_change",
+          "text": "change"
         }
       },
       {
@@ -5877,6 +6217,42 @@
       },
       {
         "box": {
+          "id": "s2_bed_user_gain",
+          "maxclass": "newobj",
+          "patching_rect": [335, 1710, 35, 22],
+          "varname": "s2_bed_user_gain",
+          "text": "*~"
+        }
+      },
+      {
+        "box": {
+          "id": "s2_bed_receive",
+          "maxclass": "newobj",
+          "patching_rect": [40, 1750, 80, 22],
+          "varname": "s2_bed_receive",
+          "text": "r ctl_bed"
+        }
+      },
+      {
+        "box": {
+          "id": "s2_bed_pack",
+          "maxclass": "newobj",
+          "patching_rect": [150, 1750, 85, 22],
+          "varname": "s2_bed_pack",
+          "text": "pack 0. 50"
+        }
+      },
+      {
+        "box": {
+          "id": "s2_bed_line",
+          "maxclass": "newobj",
+          "patching_rect": [250, 1750, 70, 22],
+          "varname": "s2_bed_line",
+          "text": "line~ 0.5"
+        }
+      },
+      {
+        "box": {
           "id": "s2_mix_l",
           "maxclass": "newobj",
           "patching_rect": [
@@ -6028,7 +6404,7 @@
             35
           ],
           "varname": "label_s2_chain",
-          "text": "切片用 trigger 保证先计算 end，再由 start 触发 pack；X 通过互补增益完成简单立体声声像。",
+          "text": "自动切片与手动EVENT分离；BED只控制噪声背景。X通过互补增益完成简单立体声声像。",
           "fontsize": 11,
           "fontface": 0
         }
@@ -6066,7 +6442,7 @@
             26
           ],
           "varname": "label_s3_help",
-          "text": "把 TRANSFORM 从高位拉向 0：速度回到 1、滤波打开、语言恢复。EVENT A 触发 3 秒显现；EVENT B 召回清晰开头。",
+          "text": "TRANSFORM从高位拉向0使语言恢复；BED独立控制双振荡背景；AUTO VOICE关闭循环，EVENT A/B仍可显现或召回。",
           "fontsize": 13,
           "fontface": 0
         }
@@ -6405,6 +6781,93 @@
       },
       {
         "box": {
+          "id": "s3_auto_gain",
+          "maxclass": "newobj",
+          "patching_rect": [1530, 1990, 35, 22],
+          "varname": "s3_auto_gain",
+          "text": "*~"
+        }
+      },
+      {
+        "box": {
+          "id": "s3_auto_receive",
+          "maxclass": "newobj",
+          "patching_rect": [600, 2020, 105, 22],
+          "varname": "s3_auto_receive",
+          "text": "r ctl_auto_voice"
+        }
+      },
+      {
+        "box": {
+          "id": "s3_auto_store",
+          "maxclass": "newobj",
+          "patching_rect": [725, 2020, 45, 22],
+          "varname": "s3_auto_store",
+          "text": "f 1."
+        }
+      },
+      {
+        "box": {
+          "id": "s3_auto_pack",
+          "maxclass": "newobj",
+          "patching_rect": [790, 2020, 85, 22],
+          "varname": "s3_auto_pack",
+          "text": "pack 0. 50"
+        }
+      },
+      {
+        "box": {
+          "id": "s3_auto_line",
+          "maxclass": "newobj",
+          "patching_rect": [895, 2020, 70, 22],
+          "varname": "s3_auto_line",
+          "text": "line~ 1."
+        }
+      },
+      {
+        "box": {
+          "id": "s3_auto_event_on",
+          "maxclass": "message",
+          "patching_rect": [600, 2060, 55, 22],
+          "varname": "s3_auto_event_on",
+          "text": "1. 20",
+          "numinlets": 2,
+          "numoutlets": 1,
+          "outlettype": [""]
+        }
+      },
+      {
+        "box": {
+          "id": "s3_auto_event_delay",
+          "maxclass": "newobj",
+          "patching_rect": [675, 2060, 80, 22],
+          "varname": "s3_auto_event_delay",
+          "text": "delay 3100"
+        }
+      },
+      {
+        "box": {
+          "id": "s3_auto_on_select",
+          "maxclass": "newobj",
+          "patching_rect": [790, 2060, 45, 22],
+          "varname": "s3_auto_on_select",
+          "text": "sel 1"
+        }
+      },
+      {
+        "box": {
+          "id": "s3_auto_restart",
+          "maxclass": "message",
+          "patching_rect": [855, 2060, 65, 22],
+          "varname": "s3_auto_restart",
+          "text": "startloop",
+          "numinlets": 2,
+          "numoutlets": 1,
+          "outlettype": [""]
+        }
+      },
+      {
+        "box": {
           "id": "s3_event_a",
           "maxclass": "newobj",
           "patching_rect": [
@@ -6583,6 +7046,42 @@
       },
       {
         "box": {
+          "id": "s3_bed_user_gain",
+          "maxclass": "newobj",
+          "patching_rect": [520, 2025, 35, 22],
+          "varname": "s3_bed_user_gain",
+          "text": "*~"
+        }
+      },
+      {
+        "box": {
+          "id": "s3_bed_receive",
+          "maxclass": "newobj",
+          "patching_rect": [40, 2080, 80, 22],
+          "varname": "s3_bed_receive",
+          "text": "r ctl_bed"
+        }
+      },
+      {
+        "box": {
+          "id": "s3_bed_pack",
+          "maxclass": "newobj",
+          "patching_rect": [150, 2080, 85, 22],
+          "varname": "s3_bed_pack",
+          "text": "pack 0. 50"
+        }
+      },
+      {
+        "box": {
+          "id": "s3_bed_line",
+          "maxclass": "newobj",
+          "patching_rect": [250, 2080, 70, 22],
+          "varname": "s3_bed_line",
+          "text": "line~ 0.5"
+        }
+      },
+      {
+        "box": {
           "id": "s3_mix",
           "maxclass": "newobj",
           "patching_rect": [
@@ -6691,7 +7190,7 @@
             30
           ],
           "varname": "label_s3_chain",
-          "text": "TRANSFORM 同时映射速度与截止频率，因此一个推子就能产生清楚的“从破碎到归返”。",
+          "text": "TRANSFORM同时映射速度与截止频率；AUTO VOICE重新开启时从loop起点开始，RETURN不受其限制。",
           "fontsize": 11,
           "fontface": 0
         }
@@ -7361,6 +7860,71 @@
       }
     ],
     "lines": [
+      {"patchline": {"source": ["s1_auto_receive", 0], "destination": ["s1_auto_on_select", 0]}},
+      {"patchline": {"source": ["s1_auto_on_select", 0], "destination": ["s1_auto_restart", 0]}},
+      {"patchline": {"source": ["s1_auto_restart", 0], "destination": ["s1_player", 0]}},
+      {"patchline": {"source": ["s3_auto_receive", 0], "destination": ["s3_auto_on_select", 0]}},
+      {"patchline": {"source": ["s3_auto_on_select", 0], "destination": ["s3_auto_restart", 0]}},
+      {"patchline": {"source": ["s3_auto_restart", 0], "destination": ["s3_player", 0]}},
+      {"patchline": {"source": ["osc_route", 12], "destination": ["osc_bed_clip", 0]}},
+      {"patchline": {"source": ["osc_bed_clip", 0], "destination": ["osc_bed_mul", 0]}},
+      {"patchline": {"source": ["osc_bed_mul", 0], "destination": ["osc_bed_ui_send", 0]}},
+      {"patchline": {"source": ["osc_route", 13], "destination": ["osc_auto_clip", 0]}},
+      {"patchline": {"source": ["osc_auto_clip", 0], "destination": ["osc_auto_ui_send", 0]}},
+      {"patchline": {"source": ["s1_auto_receive", 0], "destination": ["s1_auto_store", 1]}},
+      {"patchline": {"source": ["s1_auto_receive", 0], "destination": ["s1_auto_pack", 0]}},
+      {"patchline": {"source": ["s1_auto_store", 0], "destination": ["s1_auto_pack", 0]}},
+      {"patchline": {"source": ["s1_auto_pack", 0], "destination": ["s1_auto_line", 0]}},
+      {"patchline": {"source": ["s1_event_a", 0], "destination": ["s1_auto_event_on", 0]}},
+      {"patchline": {"source": ["s1_event_a", 0], "destination": ["s1_auto_event_delay", 0]}},
+      {"patchline": {"source": ["s1_event_b", 0], "destination": ["s1_auto_event_on", 0]}},
+      {"patchline": {"source": ["s1_event_b", 0], "destination": ["s1_auto_event_delay", 0]}},
+      {"patchline": {"source": ["s1_auto_event_on", 0], "destination": ["s1_auto_line", 0]}},
+      {"patchline": {"source": ["s1_auto_event_delay", 0], "destination": ["s1_auto_store", 0]}},
+      {"patchline": {"source": ["s1_auto_line", 0], "destination": ["s1_auto_gain", 1]}},
+      {"patchline": {"source": ["s1_voice_gain", 0], "destination": ["s1_auto_gain", 0]}},
+      {"patchline": {"source": ["s1_auto_gain", 0], "destination": ["s1_mix", 0]}},
+      {"patchline": {"source": ["s1_bed_receive", 0], "destination": ["s1_bed_pack", 0]}},
+      {"patchline": {"source": ["s1_bed_pack", 0], "destination": ["s1_bed_line", 0]}},
+      {"patchline": {"source": ["s1_bed_line", 0], "destination": ["s1_bed_user_gain", 1]}},
+      {"patchline": {"source": ["s1_bed_pulse", 0], "destination": ["s1_bed_user_gain", 0]}},
+      {"patchline": {"source": ["s1_bed_user_gain", 0], "destination": ["s1_mix", 1]}},
+      {"patchline": {"source": ["s2_change", 0], "destination": ["s2_auto_pak", 0]}},
+      {"patchline": {"source": ["s2_auto_receive", 0], "destination": ["s2_auto_pak", 1]}},
+      {"patchline": {"source": ["s2_auto_pak", 0], "destination": ["s2_auto_expr", 0]}},
+      {"patchline": {"source": ["s2_auto_expr", 0], "destination": ["s2_auto_change", 0]}},
+      {"patchline": {"source": ["s2_auto_change", 0], "destination": ["s2_sel", 0]}},
+      {"patchline": {"source": ["s2_bed_receive", 0], "destination": ["s2_bed_pack", 0]}},
+      {"patchline": {"source": ["s2_bed_pack", 0], "destination": ["s2_bed_line", 0]}},
+      {"patchline": {"source": ["s2_bed_line", 0], "destination": ["s2_bed_user_gain", 1]}},
+      {"patchline": {"source": ["s2_noise_level", 0], "destination": ["s2_bed_user_gain", 0]}},
+      {"patchline": {"source": ["s2_bed_user_gain", 0], "destination": ["s2_mix_l", 1]}},
+      {"patchline": {"source": ["s2_bed_user_gain", 0], "destination": ["s2_mix_r", 1]}},
+      {"patchline": {"source": ["s3_auto_receive", 0], "destination": ["s3_auto_store", 1]}},
+      {"patchline": {"source": ["s3_auto_receive", 0], "destination": ["s3_auto_pack", 0]}},
+      {"patchline": {"source": ["s3_auto_store", 0], "destination": ["s3_auto_pack", 0]}},
+      {"patchline": {"source": ["s3_auto_pack", 0], "destination": ["s3_auto_line", 0]}},
+      {"patchline": {"source": ["s3_event_a", 0], "destination": ["s3_auto_event_on", 0]}},
+      {"patchline": {"source": ["s3_event_a", 0], "destination": ["s3_auto_event_delay", 0]}},
+      {"patchline": {"source": ["s3_auto_event_on", 0], "destination": ["s3_auto_line", 0]}},
+      {"patchline": {"source": ["s3_auto_event_delay", 0], "destination": ["s3_auto_store", 0]}},
+      {"patchline": {"source": ["s3_auto_line", 0], "destination": ["s3_auto_gain", 1]}},
+      {"patchline": {"source": ["s3_voice_gain", 0], "destination": ["s3_auto_gain", 0]}},
+      {"patchline": {"source": ["s3_auto_gain", 0], "destination": ["s3_voice_mix", 0]}},
+      {"patchline": {"source": ["s3_bed_receive", 0], "destination": ["s3_bed_pack", 0]}},
+      {"patchline": {"source": ["s3_bed_pack", 0], "destination": ["s3_bed_line", 0]}},
+      {"patchline": {"source": ["s3_bed_line", 0], "destination": ["s3_bed_user_gain", 1]}},
+      {"patchline": {"source": ["s3_bed_mix", 0], "destination": ["s3_bed_user_gain", 0]}},
+      {"patchline": {"source": ["s3_bed_user_gain", 0], "destination": ["s3_mix", 1]}},
+      {"patchline": {"source": ["ui_bed", 0], "destination": ["bed_norm", 0]}},
+      {"patchline": {"source": ["bed_norm", 0], "destination": ["bed_send", 0]}},
+      {"patchline": {"source": ["bed_default", 0], "destination": ["ui_bed", 0]}},
+      {"patchline": {"source": ["bed_raw_receive", 0], "destination": ["ui_bed", 0]}},
+      {"patchline": {"source": ["ui_auto_voice", 0], "destination": ["auto_voice_send", 0]}},
+      {"patchline": {"source": ["auto_voice_default", 0], "destination": ["ui_auto_voice", 0]}},
+      {"patchline": {"source": ["auto_voice_raw_receive", 0], "destination": ["ui_auto_voice", 0]}},
+      {"patchline": {"source": ["scene_preset_unpack", 6], "destination": ["preset_bed_send", 0]}},
+      {"patchline": {"source": ["scene_preset_unpack", 7], "destination": ["preset_auto_voice_send", 0]}},
       {"patchline": {"source": ["rec_stop_receive", 0], "destination": ["rec_stop_message", 0]}},
       {"patchline": {"source": ["rec_stop_message", 0], "destination": ["rec_player", 0]}},
       {"patchline": {"source": ["reset_stop_receive", 0], "destination": ["reset_stop_send", 0]}},
@@ -9032,30 +9596,6 @@
       {
         "patchline": {
           "source": [
-            "s1_voice_gain",
-            0
-          ],
-          "destination": [
-            "s1_mix",
-            0
-          ]
-        }
-      },
-      {
-        "patchline": {
-          "source": [
-            "s1_bed_pulse",
-            0
-          ],
-          "destination": [
-            "s1_mix",
-            1
-          ]
-        }
-      },
-      {
-        "patchline": {
-          "source": [
             "s1_gain_cmd",
             0
           ],
@@ -9145,18 +9685,6 @@
           ],
           "destination": [
             "s2_change",
-            0
-          ]
-        }
-      },
-      {
-        "patchline": {
-          "source": [
-            "s2_change",
-            0
-          ],
-          "destination": [
-            "s2_sel",
             0
           ]
         }
@@ -9968,36 +10496,12 @@
       {
         "patchline": {
           "source": [
-            "s2_noise_level",
-            0
-          ],
-          "destination": [
-            "s2_mix_l",
-            1
-          ]
-        }
-      },
-      {
-        "patchline": {
-          "source": [
             "s2_pan_r",
             0
           ],
           "destination": [
             "s2_mix_r",
             0
-          ]
-        }
-      },
-      {
-        "patchline": {
-          "source": [
-            "s2_noise_level",
-            0
-          ],
-          "destination": [
-            "s2_mix_r",
-            1
           ]
         }
       },
@@ -10460,18 +10964,6 @@
       {
         "patchline": {
           "source": [
-            "s3_voice_gain",
-            0
-          ],
-          "destination": [
-            "s3_voice_mix",
-            0
-          ]
-        }
-      },
-      {
-        "patchline": {
-          "source": [
             "s3_recall_level",
             0
           ],
@@ -10538,18 +11030,6 @@
           "destination": [
             "s3_mix",
             0
-          ]
-        }
-      },
-      {
-        "patchline": {
-          "source": [
-            "s3_bed_mix",
-            0
-          ],
-          "destination": [
-            "s3_mix",
-            1
           ]
         }
       },
