@@ -2,6 +2,15 @@
 .DS_Store
 *.maxbackup
 *.maxsnap
+*.swp
+*.swo
+*~
+.idea/
+.vscode/
+.env
+.env.*
+!.env.example
+chat.config.json
 
 # Local checkout used to contribute fixes upstream.
 maxmsp-mcp/

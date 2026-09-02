@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="1160" viewBox="0 0 640 1160">
+  <rect width="640" height="1160" fill="rgba(6,9,18,1)"/>
+  <rect x="8" y="8" width="624" height="1144" rx="10" fill="rgba(18,23,41,1)" stroke="rgba(140,158,191,1)"/>
+  <text x="320" y="38" fill="white" font-size="22" text-anchor="middle">NOSTOS FULL · 一句话的返航</text>
+  <text x="320" y="66" fill="rgba(140,158,191,1)" font-size="14" text-anchor="middle">双向 OSC：SEND 9000 · RECEIVE 9001</text>
+  <rect x="16" y="100" width="140" height="58" rx="8" fill="rgba(224,38,59,1)"/><text x="86" y="134" fill="white" font-size="13" font-weight="bold" text-anchor="middle">RECORD</text>
+<rect x="172" y="100" width="140" height="58" rx="8" fill="rgba(26,173,199,1)"/><text x="242" y="134" fill="white" font-size="13" font-weight="bold" text-anchor="middle">PLAY ORIGINAL</text>
+<rect x="328" y="100" width="140" height="58" rx="8" fill="rgba(71,82,107,1)"/><text x="398" y="134" fill="white" font-size="13" font-weight="bold" text-anchor="middle">RESET</text>
+<rect x="484" y="100" width="140" height="58" rx="8" fill="rgba(224,38,59,1)"/><text x="554" y="134" fill="white" font-size="13" font-weight="bold" text-anchor="middle">MUTE</text>
+<rect x="16" y="192" width="140" height="64" rx="8" fill="rgba(38,122,242,1)"/><text x="86" y="229" fill="white" font-size="13" font-weight="bold" text-anchor="middle">STAGE 1</text>
+<rect x="172" y="192" width="140" height="64" rx="8" fill="rgba(235,97,31,1)"/><text x="242" y="229" fill="white" font-size="13" font-weight="bold" text-anchor="middle">STAGE 2</text>
+<rect x="328" y="192" width="140" height="64" rx="8" fill="rgba(204,166,71,1)"/><text x="398" y="229" fill="white" font-size="13" font-weight="bold" text-anchor="middle">STAGE 3</text>
+<rect x="484" y="192" width="140" height="64" rx="8" fill="rgba(33,173,128,1)"/><text x="554" y="229" fill="white" font-size="13" font-weight="bold" text-anchor="middle">RETURN</text>
+<rect x="16" y="414" width="136" height="62" rx="8" fill="rgba(158,61,219,1)"/><text x="84" y="450" fill="white" font-size="13" font-weight="bold" text-anchor="middle">EVENT A</text>
+<rect x="164" y="414" width="136" height="62" rx="8" fill="rgba(38,122,242,1)"/><text x="232" y="450" fill="white" font-size="13" font-weight="bold" text-anchor="middle">EVENT B</text>
+<rect x="312" y="414" width="172" height="62" rx="8" fill="rgba(235,97,31,1)"/><text x="398" y="450" fill="white" font-size="13" font-weight="bold" text-anchor="middle">BED PARTICLE</text>
+<rect x="496" y="414" width="128" height="62" rx="8" fill="rgba(33,173,128,1)"/><text x="560" y="450" fill="white" font-size="13" font-weight="bold" text-anchor="middle">AUTO VOICE</text>
+  <rect x="16" y="302" width="608" height="72" rx="8" fill="rgba(158,61,219,1)"/><text x="16" y="291" fill="white" font-size="15">TRANSFORM</text>
+  <text x="16" y="542" fill="white" font-size="13">DENSITY</text><rect x="16" y="550" width="190" height="66" rx="7" fill="rgba(235,97,31,1)"/>
+<text x="224" y="542" fill="white" font-size="13">VOICE</text><rect x="224" y="550" width="190" height="66" rx="7" fill="rgba(38,122,242,1)"/>
+<text x="432" y="542" fill="white" font-size="13">BED</text><rect x="432" y="550" width="190" height="66" rx="7" fill="rgba(204,166,71,1)"/>
+  <text x="16" y="647" fill="rgba(140,158,191,1)" font-size="12">MAX STATUS FEEDBACK · UDP 9001</text>
+  <text x="111" y="690" fill="white" font-size="16" text-anchor="middle">WAITING</text>
+  <text x="319" y="697" fill="rgba(26,173,199,1)" font-size="32" text-anchor="middle">00:00</text>
+  <text x="528" y="690" fill="rgba(235,97,31,1)" font-size="13" text-anchor="middle">FEEDBACK WAITING</text>
+  <text x="16" y="746" fill="white" font-size="14">MASTER · -70—+6 dB</text><rect x="16" y="756" width="608" height="64" rx="8" fill="rgba(158,61,219,1)"/>
+  <text x="320" y="846" fill="white" font-size="16" text-anchor="middle">-12.0 dB</text>
+  <rect x="16" y="864" width="180" height="64" rx="8" fill="rgba(38,122,242,1)"/><text x="106" y="902" fill="white" font-size="14" font-weight="bold" text-anchor="middle">HOLD</text>
+<rect x="216" y="864" width="180" height="64" rx="8" fill="rgba(33,173,128,1)"/><text x="306" y="902" fill="white" font-size="14" font-weight="bold" text-anchor="middle">DSP</text>
+<rect x="416" y="864" width="208" height="64" rx="8" fill="rgba(26,173,199,1)"/><text x="520" y="902" fill="white" font-size="14" font-weight="bold" text-anchor="middle">SYNC FROM MAX</text>
+  <text x="320" y="960" fill="rgba(140,158,191,1)" font-size="13" text-anchor="middle">Max底部设置iPad IP，然后按SYNC</text>
+  <text x="320" y="1106" fill="rgba(224,38,59,1)" font-size="16" text-anchor="middle">异常声音：立即按 MUTE</text>
+</svg>

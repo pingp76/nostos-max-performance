@@ -230,7 +230,8 @@
                                     "maxclass": "outlet",
                                     "numinlets": 1,
                                     "numoutlets": 0,
-                                    "patching_rect": [ 223.82501200000002, 468.0, 30.0, 30.0 ]
+                                    "patching_rect": [ 223.82501200000002, 468.0, 30.0, 30.0 ],
+                                    "varname": "mcp_command_outlet"
                                 }
                             },
                             {
@@ -265,7 +266,8 @@
                                     "numoutlets": 1,
                                     "outlettype": [ "" ],
                                     "patching_rect": [ 442.75, 220.0, 180.0, 22.0 ],
-                                    "text": "/pong"
+                                    "text": "/pong",
+                                    "varname": "mcp_pong_message"
                                 }
                             },
                             {
@@ -312,7 +314,8 @@
                                     "numoutlets": 1,
                                     "outlettype": [ "" ],
                                     "patching_rect": [ 67.0, 510.0, 111.0, 22.0 ],
-                                    "text": "prepend clear"
+                                    "text": "prepend clear",
+                                    "varname": "mcp_prepend_clear"
                                 }
                             },
                             {
@@ -323,7 +326,8 @@
                                     "numoutlets": 1,
                                     "outlettype": [ "" ],
                                     "patching_rect": [ 67.0, 545.0, 125.0, 22.0 ],
-                                    "text": "prepend windows"
+                                    "text": "prepend windows",
+                                    "varname": "mcp_prepend_windows"
                                 }
                             },
                             {
@@ -334,7 +338,8 @@
                                     "numoutlets": 1,
                                     "outlettype": [ "" ],
                                     "patching_rect": [ 67.0, 580.0, 111.0, 22.0 ],
-                                    "text": "prepend front"
+                                    "text": "prepend front",
+                                    "varname": "mcp_prepend_front"
                                 }
                             },
                             {
@@ -345,7 +350,8 @@
                                     "numoutlets": 1,
                                     "outlettype": [ "" ],
                                     "patching_rect": [ 67.0, 615.0, 118.0, 22.0 ],
-                                    "text": "prepend script"
+                                    "text": "prepend script",
+                                    "varname": "mcp_prepend_script_a"
                                 }
                             },
                             {
@@ -356,7 +362,8 @@
                                     "numoutlets": 1,
                                     "outlettype": [ "" ],
                                     "patching_rect": [ 67.0, 650.0, 118.0, 22.0 ],
-                                    "text": "prepend script"
+                                    "text": "prepend script",
+                                    "varname": "mcp_prepend_script_b"
                                 }
                             },
                             {
@@ -367,7 +374,8 @@
                                     "numoutlets": 1,
                                     "outlettype": [ "" ],
                                     "patching_rect": [ 67.0, 685.0, 118.0, 22.0 ],
-                                    "text": "prepend script"
+                                    "text": "prepend script",
+                                    "varname": "mcp_prepend_script_c"
                                 }
                             },
                             {

@@ -1,0 +1,6 @@
+*.maxpat text eol=lf
+*.md text eol=lf
+*.js text eol=lf
+*.svg text eol=lf
+*.tosc binary
+*.png binary

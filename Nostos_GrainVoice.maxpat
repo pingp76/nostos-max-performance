@@ -1,0 +1,60 @@
+{
+    "patcher": {
+        "fileversion": 1,
+        "appversion": {
+            "major": 9,
+            "minor": 1,
+            "revision": 5,
+            "architecture": "x64",
+            "modernui": 1
+        },
+        "classnamespace": "box",
+        "rect": [80.0, 80.0, 930.0, 460.0],
+        "openinpresentation": 0,
+        "default_fontsize": 12.0,
+        "default_fontface": 0,
+        "default_fontname": "Arial",
+        "gridonopen": 1,
+        "gridsize": [15.0, 15.0],
+        "boxes": [
+            { "box": { "id": "obj-1", "maxclass": "comment", "text": "Nostos 粒子声部：由主 Patch 的 poly~ 自动加载；无需单独打开。", "patching_rect": [40.0, 30.0, 520.0, 22.0], "varname": "grain_voice_title" } },
+            { "box": { "id": "obj-2", "maxclass": "comment", "text": "输入 grain 起点ms 终点ms 播放时长ms；每个粒子有10 ms淡入和15 ms淡出，避免爆音。", "patching_rect": [40.0, 60.0, 610.0, 22.0], "varname": "grain_voice_help" } },
+            { "box": { "id": "obj-3", "maxclass": "newobj", "text": "in 1", "numinlets": 0, "numoutlets": 1, "outlettype": [""], "patching_rect": [40.0, 110.0, 40.0, 22.0], "varname": "grain_voice_input" } },
+            { "box": { "id": "obj-4", "maxclass": "newobj", "text": "route grain", "numinlets": 1, "numoutlets": 2, "outlettype": ["list", ""], "patching_rect": [105.0, 110.0, 85.0, 22.0], "varname": "grain_voice_route" } },
+            { "box": { "id": "obj-5", "maxclass": "newobj", "text": "t l l", "numinlets": 1, "numoutlets": 2, "outlettype": ["list", "list"], "patching_rect": [215.0, 110.0, 48.0, 22.0], "varname": "grain_voice_order" } },
+            { "box": { "id": "obj-6", "maxclass": "newobj", "text": "prepend start", "numinlets": 1, "numoutlets": 1, "outlettype": [""], "patching_rect": [300.0, 95.0, 95.0, 22.0], "varname": "grain_voice_start_message" } },
+            { "box": { "id": "obj-7", "maxclass": "newobj", "text": "play~ nostos_voice", "numinlets": 3, "numoutlets": 2, "outlettype": ["signal", "bang"], "patching_rect": [425.0, 95.0, 130.0, 22.0], "varname": "grain_voice_player" } },
+            { "box": { "id": "obj-8", "maxclass": "newobj", "text": "unpack 0. 0. 0.", "numinlets": 1, "numoutlets": 3, "outlettype": ["float", "float", "float"], "patching_rect": [300.0, 155.0, 115.0, 22.0], "varname": "grain_voice_unpack" } },
+            { "box": { "id": "obj-9", "maxclass": "newobj", "text": "expr max(25., $f1 - 15.)", "numinlets": 1, "numoutlets": 1, "outlettype": ["float"], "patching_rect": [440.0, 155.0, 165.0, 22.0], "varname": "grain_voice_release_time" } },
+            { "box": { "id": "obj-10", "maxclass": "newobj", "text": "t b b f", "numinlets": 1, "numoutlets": 3, "outlettype": ["bang", "bang", "float"], "patching_rect": [630.0, 155.0, 58.0, 22.0], "varname": "grain_voice_envelope_order" } },
+            { "box": { "id": "obj-11", "maxclass": "message", "text": "1. 10", "numinlets": 2, "numoutlets": 1, "outlettype": [""], "patching_rect": [635.0, 205.0, 52.0, 22.0], "varname": "grain_voice_attack" } },
+            { "box": { "id": "obj-12", "maxclass": "newobj", "text": "delay 100", "numinlets": 2, "numoutlets": 1, "outlettype": ["bang"], "patching_rect": [715.0, 155.0, 70.0, 22.0], "varname": "grain_voice_release_delay" } },
+            { "box": { "id": "obj-13", "maxclass": "message", "text": "0. 15", "numinlets": 2, "numoutlets": 1, "outlettype": [""], "patching_rect": [715.0, 205.0, 52.0, 22.0], "varname": "grain_voice_release" } },
+            { "box": { "id": "obj-14", "maxclass": "newobj", "text": "line~ 0.", "numinlets": 2, "numoutlets": 2, "outlettype": ["signal", "bang"], "patching_rect": [650.0, 255.0, 60.0, 22.0], "varname": "grain_voice_envelope" } },
+            { "box": { "id": "obj-15", "maxclass": "newobj", "text": "*~", "numinlets": 2, "numoutlets": 1, "outlettype": ["signal"], "patching_rect": [500.0, 255.0, 35.0, 22.0], "varname": "grain_voice_envelope_gain" } },
+            { "box": { "id": "obj-16", "maxclass": "newobj", "text": "*~ 0.23", "numinlets": 2, "numoutlets": 1, "outlettype": ["signal"], "patching_rect": [500.0, 305.0, 65.0, 22.0], "varname": "grain_voice_safety_gain" } },
+            { "box": { "id": "obj-17", "maxclass": "newobj", "text": "out~ 1", "numinlets": 1, "numoutlets": 0, "patching_rect": [500.0, 355.0, 50.0, 22.0], "varname": "grain_voice_output" } },
+            { "box": { "id": "obj-18", "maxclass": "comment", "text": "固定0.23声部增益：四个粒子同时重叠时仍保留安全余量。", "patching_rect": [585.0, 305.0, 350.0, 22.0], "varname": "grain_voice_safety_help" } }
+        ],
+        "lines": [
+            { "patchline": { "source": ["obj-3", 0], "destination": ["obj-4", 0] } },
+            { "patchline": { "source": ["obj-4", 0], "destination": ["obj-5", 0] } },
+            { "patchline": { "source": ["obj-5", 0], "destination": ["obj-6", 0] } },
+            { "patchline": { "source": ["obj-6", 0], "destination": ["obj-7", 0] } },
+            { "patchline": { "source": ["obj-5", 1], "destination": ["obj-8", 0] } },
+            { "patchline": { "source": ["obj-8", 2], "destination": ["obj-9", 0] } },
+            { "patchline": { "source": ["obj-9", 0], "destination": ["obj-10", 0] } },
+            { "patchline": { "source": ["obj-10", 2], "destination": ["obj-12", 1] } },
+            { "patchline": { "source": ["obj-10", 1], "destination": ["obj-11", 0] } },
+            { "patchline": { "source": ["obj-10", 0], "destination": ["obj-12", 0] } },
+            { "patchline": { "source": ["obj-11", 0], "destination": ["obj-14", 0] } },
+            { "patchline": { "source": ["obj-12", 0], "destination": ["obj-13", 0] } },
+            { "patchline": { "source": ["obj-13", 0], "destination": ["obj-14", 0] } },
+            { "patchline": { "source": ["obj-7", 0], "destination": ["obj-15", 0] } },
+            { "patchline": { "source": ["obj-14", 0], "destination": ["obj-15", 1] } },
+            { "patchline": { "source": ["obj-15", 0], "destination": ["obj-16", 0] } },
+            { "patchline": { "source": ["obj-16", 0], "destination": ["obj-17", 0] } }
+        ],
+        "dependency_cache": []
+    }
+}
