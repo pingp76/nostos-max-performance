@@ -114,6 +114,10 @@ node tools/validate_touchosc_feedback.js
 
 这是一个可排练的第一版原型，而不是固定完成版。声音平衡、参数预设和表演节奏仍会根据场地、扬声器与现场录音继续调整。欢迎通过Issue报告可复现的问题。
 
+## AI制作声明
+
+本仓库公开版本中的Max Patch、TouchOSC界面、JavaScript工具脚本、技术实现、测试验证、项目文档、README与发布整理，均由OpenAI Codex根据创作者提出的项目概念、审美方向、试听反馈和表演要求生成并完成。
+
 ## 致谢
 
 特别感谢[`pawelknorps/maxmsp-mcp`](https://github.com/pawelknorps/maxmsp-mcp)的作者与贡献者。该项目提供了Max/MSP与AI代理之间的OSC／MCP桥接；Nostos的内嵌MCP主机、运行时检查和调试工作流建立在这一开源项目之上。
