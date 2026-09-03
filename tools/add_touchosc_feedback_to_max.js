@@ -250,22 +250,46 @@ if (feedbackIndex < 0) {
   patcher.boxes[feedbackIndex].box.patcher = feedbackSubpatch();
 }
 
-addTopBox(comment('label_touchosc_feedback_host', '配置：直接输入iPad IP；按Enter或“应用IP”（回传端口固定9001）', [1900, 5790, 380, 22]));
+addTopBox(comment('label_touchosc_feedback_host', '控: TouchOSC 回传目标｜输入iPad IP（端口固定9001）', [1450, 175, 380, 24]));
 const hostInputIndex = patcher.boxes.findIndex((entry) => entry.box.id === 'ui_touchosc_feedback_host');
 const hostInput = {
   box: {
     id: 'ui_touchosc_feedback_host', maxclass: 'textedit', numinlets: 1, numoutlets: 3,
     outlettype: ['', 'int', ''], keymode: 1, lines: 1, outputmode: 1, parameter_enable: 0,
-    patching_rect: [1900, 5820, 155, 28], text: '127.0.0.1', varname: 'ui_touchosc_feedback_host',
+    patching_rect: [1450, 205, 155, 28], text: '127.0.0.1', varname: 'ui_touchosc_feedback_host',
   },
 };
 if (hostInputIndex >= 0) patcher.boxes[hostInputIndex] = hostInput;
 else patcher.boxes.push(hostInput);
-addTopBox({ box: { id: 'ui_touchosc_feedback_apply', maxclass: 'button', numinlets: 1, numoutlets: 1, outlettype: ['bang'], parameter_enable: 0, patching_rect: [2075, 5820, 28, 28], varname: 'ui_touchosc_feedback_apply' } });
-addTopBox(comment('label_touchosc_feedback_apply', '控: 应用 IP', [2115, 5822, 105, 24]));
-addTopBox(newobj('touchosc_feedback_text_route', 'route text', [1900, 5862, 70, 22], 1, 2, ['', '']));
-addTopBox(newobj('touchosc_feedback_tosymbol', 'tosymbol', [1990, 5862, 65, 22]));
-addTopBox(newobj('touchosc_feedback_host_send', 's touchosc_feedback_host', [2075, 5862, 170, 22], 1, 0, []));
+addTopBox({ box: { id: 'ui_touchosc_feedback_apply', maxclass: 'button', numinlets: 1, numoutlets: 1, outlettype: ['bang'], parameter_enable: 0, patching_rect: [1625, 205, 28, 28], varname: 'ui_touchosc_feedback_apply' } });
+addTopBox(comment('label_touchosc_feedback_apply', '控: 应用 IP', [1665, 207, 105, 24]));
+addTopBox(newobj('touchosc_feedback_text_route', 'route text', [1450, 250, 70, 22], 1, 2, ['', '']));
+addTopBox(newobj('touchosc_feedback_tosymbol', 'tosymbol', [1540, 250, 65, 22]));
+addTopBox(newobj('touchosc_feedback_host_send', 's touchosc_feedback_host', [1625, 250, 170, 22], 1, 0, []));
+
+const hostLayout = {
+  label_touchosc_feedback_host: [1450, 175, 380, 24],
+  ui_touchosc_feedback_apply: [1625, 205, 28, 28],
+  label_touchosc_feedback_apply: [1665, 207, 105, 24],
+  touchosc_feedback_text_route: [1450, 250, 70, 22],
+  touchosc_feedback_tosymbol: [1540, 250, 65, 22],
+  touchosc_feedback_host_send: [1625, 250, 170, 22],
+};
+for (const [id, rect] of Object.entries(hostLayout)) {
+  const box = patcher.boxes.find((entry) => entry.box.id === id)?.box;
+  if (box) box.patching_rect = rect;
+}
+const hostLabel = patcher.boxes.find((entry) => entry.box.id === 'label_touchosc_feedback_host')?.box;
+if (hostLabel) hostLabel.text = '控: TouchOSC 回传目标｜输入iPad IP（端口固定9001）';
+
+for (const id of ['label_touchosc_feedback_host', 'label_touchosc_feedback_apply']) {
+  const label = patcher.boxes.find((entry) => entry.box.id === id)?.box;
+  if (label) {
+    label.fontface = 1;
+    label.fontsize = 14;
+    label.textcolor = [0.72, 0.22, 0.88, 1.0];
+  }
+}
 patcher.lines = patcher.lines.filter((entry) => {
   const { source, destination } = entry.patchline;
   return !(source[0] === 'ui_touchosc_feedback_host' && destination[0] === 'touchosc_feedback_host_send');

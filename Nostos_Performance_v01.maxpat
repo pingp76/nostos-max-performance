@@ -11734,11 +11734,11 @@
                         260,
                         20
                     ],
-                    "text": "入口：EVENT A—触发倒放冲击",
+                    "text": "S1-02 | 入口：EVENT A—触发倒放冲击",
                     "textcolor": [
-                        0.2,
-                        0.72,
-                        0.95,
+                        0.22,
+                        0.48,
+                        0.9,
                         1
                     ],
                     "varname": "label_note_s1_event_a"
@@ -11758,11 +11758,11 @@
                         260,
                         20
                     ],
-                    "text": "入口：EVENT B—触发短暂失速",
+                    "text": "S1-03 | 入口：EVENT B—触发短暂失速",
                     "textcolor": [
-                        0.2,
-                        0.72,
-                        0.95,
+                        0.22,
+                        0.48,
+                        0.9,
                         1
                     ],
                     "varname": "label_note_s1_event_b"
@@ -11782,11 +11782,11 @@
                         260,
                         20
                     ],
-                    "text": "入口：AUTO VOICE—开关连续循环语音",
+                    "text": "S1-01 | 入口：AUTO VOICE—开关连续循环语音",
                     "textcolor": [
-                        0.2,
-                        0.72,
-                        0.95,
+                        0.22,
+                        0.48,
+                        0.9,
                         1
                     ],
                     "varname": "label_note_s1_auto_receive"
@@ -11830,11 +11830,11 @@
                         260,
                         20
                     ],
-                    "text": "入口：BED—控制55 Hz背景音量",
+                    "text": "S1-04 | 入口：BED—控制55 Hz背景音量",
                     "textcolor": [
-                        0.2,
-                        0.72,
-                        0.95,
+                        0.22,
+                        0.48,
+                        0.9,
                         1
                     ],
                     "varname": "label_note_s1_bed_receive"
@@ -11950,11 +11950,11 @@
                         260,
                         20
                     ],
-                    "text": "入口：AUTO VOICE—开关自动粒子流",
+                    "text": "S2-01 | 入口：AUTO VOICE—开关自动粒子流",
                     "textcolor": [
-                        0.2,
-                        0.72,
-                        0.95,
+                        0.22,
+                        0.48,
+                        0.9,
                         1
                     ],
                     "varname": "label_note_s2_auto_receive"
@@ -12022,11 +12022,11 @@
                         260,
                         20
                     ],
-                    "text": "入口：EVENT A—触发约1.2秒粒子风暴",
+                    "text": "S2-02 | 入口：EVENT A—触发约1.2秒粒子风暴",
                     "textcolor": [
-                        0.2,
-                        0.72,
-                        0.95,
+                        0.22,
+                        0.48,
+                        0.9,
                         1
                     ],
                     "varname": "label_note_s2_event_a"
@@ -12046,11 +12046,11 @@
                         260,
                         20
                     ],
-                    "text": "入口：EVENT B—召回较清楚的语音片段",
+                    "text": "S2-05 | 入口：EVENT B—召回较清楚的语音片段",
                     "textcolor": [
-                        0.2,
-                        0.72,
-                        0.95,
+                        0.22,
+                        0.48,
+                        0.9,
                         1
                     ],
                     "varname": "label_note_s2_event_b"
@@ -12070,11 +12070,11 @@
                         260,
                         20
                     ],
-                    "text": "入口：HOLD—抓住并循环一个残片",
+                    "text": "S2-03 | 入口：HOLD—抓住并循环一个残片",
                     "textcolor": [
-                        0.2,
-                        0.72,
-                        0.95,
+                        0.22,
+                        0.48,
+                        0.9,
                         1
                     ],
                     "varname": "label_note_s2_hold"
@@ -12118,11 +12118,11 @@
                         260,
                         20
                     ],
-                    "text": "入口：BED—控制金属背景与背景事件",
+                    "text": "S2-04 | 入口：BED—控制金属背景与背景事件",
                     "textcolor": [
-                        0.2,
-                        0.72,
-                        0.95,
+                        0.22,
+                        0.48,
+                        0.9,
                         1
                     ],
                     "varname": "label_note_s2_bed_receive"
@@ -12166,11 +12166,11 @@
                         260,
                         20
                     ],
-                    "text": "入口：BED PARTICLE—触发金属碎屑爆裂",
+                    "text": "S2-06 | 入口：BED PARTICLE—触发金属碎屑爆裂",
                     "textcolor": [
-                        0.2,
-                        0.72,
-                        0.95,
+                        0.22,
+                        0.48,
+                        0.9,
                         1
                     ],
                     "varname": "label_note_s2_bed_particle_receive"
@@ -12334,11 +12334,11 @@
                         260,
                         20
                     ],
-                    "text": "入口：EVENT A—触发约3秒逐渐显现",
+                    "text": "S3-02 | 入口：EVENT A—触发约3秒逐渐显现",
                     "textcolor": [
-                        0.2,
-                        0.72,
-                        0.95,
+                        0.22,
+                        0.48,
+                        0.9,
                         1
                     ],
                     "varname": "label_note_s3_event_a"
@@ -12358,11 +12358,11 @@
                         260,
                         20
                     ],
-                    "text": "入口：EVENT B—召回清晰原句开头",
+                    "text": "S3-03 | 入口：EVENT B—召回清晰原句开头",
                     "textcolor": [
-                        0.2,
-                        0.72,
-                        0.95,
+                        0.22,
+                        0.48,
+                        0.9,
                         1
                     ],
                     "varname": "label_note_s3_event_b"
@@ -12382,11 +12382,11 @@
                         260,
                         20
                     ],
-                    "text": "入口：AUTO VOICE—开关连续重组语音",
+                    "text": "S3-01 | 入口：AUTO VOICE—开关连续重组语音",
                     "textcolor": [
-                        0.2,
-                        0.72,
-                        0.95,
+                        0.22,
+                        0.48,
+                        0.9,
                         1
                     ],
                     "varname": "label_note_s3_auto_receive"
@@ -12430,11 +12430,11 @@
                         260,
                         20
                     ],
-                    "text": "入口：BED—控制风沙与归返坐标",
+                    "text": "S3-04 | 入口：BED—控制风沙与归返坐标",
                     "textcolor": [
-                        0.2,
-                        0.72,
-                        0.95,
+                        0.22,
+                        0.48,
+                        0.9,
                         1
                     ],
                     "varname": "label_note_s3_bed_receive"
@@ -12478,11 +12478,11 @@
                         260,
                         20
                     ],
-                    "text": "入口：BED PARTICLE—触发约1.5秒沙浪",
+                    "text": "S3-05 | 入口：BED PARTICLE—触发约1.5秒沙浪",
                     "textcolor": [
-                        0.2,
-                        0.72,
-                        0.95,
+                        0.22,
+                        0.48,
+                        0.9,
                         1
                     ],
                     "varname": "label_note_s3_bed_particle_receive"
@@ -14786,13 +14786,21 @@
                     "numinlets": 1,
                     "numoutlets": 0,
                     "patching_rect": [
-                        1900,
-                        5790,
-                        360,
-                        22
+                        1450,
+                        175,
+                        380,
+                        24
                     ],
-                    "text": "配置：iPad IP（修改下面消息后点击；回传端口固定9001）",
-                    "varname": "label_touchosc_feedback_host"
+                    "text": "控: TouchOSC 回传目标｜输入iPad IP（端口固定9001）",
+                    "varname": "label_touchosc_feedback_host",
+                    "fontface": 1,
+                    "fontsize": 14,
+                    "textcolor": [
+                        0.72,
+                        0.22,
+                        0.88,
+                        1
+                    ]
                 }
             },
             {
@@ -14811,8 +14819,8 @@
                     "outputmode": 1,
                     "parameter_enable": 0,
                     "patching_rect": [
-                        1900,
-                        5820,
+                        1450,
+                        205,
                         155,
                         28
                     ],
@@ -14828,8 +14836,8 @@
                     "numoutlets": 0,
                     "outlettype": [],
                     "patching_rect": [
-                        2040,
-                        5820,
+                        1625,
+                        250,
                         170,
                         22
                     ],
@@ -14848,8 +14856,8 @@
                     ],
                     "parameter_enable": 0,
                     "patching_rect": [
-                        2075,
-                        5820,
+                        1625,
+                        205,
                         28,
                         28
                     ],
@@ -14863,13 +14871,21 @@
                     "numinlets": 1,
                     "numoutlets": 0,
                     "patching_rect": [
-                        2115,
-                        5822,
+                        1665,
+                        207,
                         105,
                         24
                     ],
                     "text": "控: 应用 IP",
-                    "varname": "label_touchosc_feedback_apply"
+                    "varname": "label_touchosc_feedback_apply",
+                    "fontface": 1,
+                    "fontsize": 14,
+                    "textcolor": [
+                        0.72,
+                        0.22,
+                        0.88,
+                        1
+                    ]
                 }
             },
             {
@@ -14883,8 +14899,8 @@
                         ""
                     ],
                     "patching_rect": [
-                        1900,
-                        5862,
+                        1450,
+                        250,
                         70,
                         22
                     ],
@@ -14902,8 +14918,8 @@
                         ""
                     ],
                     "patching_rect": [
-                        1990,
-                        5862,
+                        1540,
+                        250,
                         65,
                         22
                     ],
@@ -15118,6 +15134,15416 @@
                     ],
                     "text": "int",
                     "varname": "osc_sync_int"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_status_logic",
+                    "maxclass": "newobj",
+                    "numinlets": 0,
+                    "numoutlets": 0,
+                    "outlettype": [],
+                    "patcher": {
+                        "fileversion": 1,
+                        "appversion": {
+                            "major": 9,
+                            "minor": 1,
+                            "revision": 5,
+                            "architecture": "x64",
+                            "modernui": 1
+                        },
+                        "classnamespace": "box",
+                        "rect": [
+                            80,
+                            80,
+                            1750,
+                            1020
+                        ],
+                        "boxes": [
+                            {
+                                "box": {
+                                    "id": "teach_logic_label",
+                                    "maxclass": "comment",
+                                    "numinlets": 1,
+                                    "numoutlets": 0,
+                                    "patching_rect": [
+                                        20,
+                                        10,
+                                        700,
+                                        22
+                                    ],
+                                    "text": "B版教学状态逻辑：只监听控制与场景，不进入声音链",
+                                    "varname": "teach_logic_label"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_scene_receive",
+                                    "maxclass": "newobj",
+                                    "numinlets": 0,
+                                    "numoutlets": 1,
+                                    "outlettype": [
+                                        ""
+                                    ],
+                                    "patching_rect": [
+                                        20,
+                                        50,
+                                        105,
+                                        22
+                                    ],
+                                    "text": "r nostos_scene",
+                                    "varname": "teach_logic_scene_receive"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_scene_select",
+                                    "maxclass": "newobj",
+                                    "numinlets": 1,
+                                    "numoutlets": 4,
+                                    "outlettype": [
+                                        "bang",
+                                        "bang",
+                                        "bang",
+                                        ""
+                                    ],
+                                    "patching_rect": [
+                                        150,
+                                        50,
+                                        75,
+                                        22
+                                    ],
+                                    "text": "sel 1 2 3",
+                                    "varname": "teach_logic_scene_select"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_scene1_text",
+                                    "maxclass": "message",
+                                    "numinlets": 2,
+                                    "numoutlets": 1,
+                                    "outlettype": [
+                                        ""
+                                    ],
+                                    "patching_rect": [
+                                        250,
+                                        30,
+                                        155,
+                                        22
+                                    ],
+                                    "text": "set STAGE_1_DEPARTURE",
+                                    "varname": "teach_logic_scene1_text"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_scene2_text",
+                                    "maxclass": "message",
+                                    "numinlets": 2,
+                                    "numoutlets": 1,
+                                    "outlettype": [
+                                        ""
+                                    ],
+                                    "patching_rect": [
+                                        250,
+                                        60,
+                                        145,
+                                        22
+                                    ],
+                                    "text": "set STAGE_2_DRIFT",
+                                    "varname": "teach_logic_scene2_text"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_scene3_text",
+                                    "maxclass": "message",
+                                    "numinlets": 2,
+                                    "numoutlets": 1,
+                                    "outlettype": [
+                                        ""
+                                    ],
+                                    "patching_rect": [
+                                        250,
+                                        90,
+                                        150,
+                                        22
+                                    ],
+                                    "text": "set STAGE_3_RETURN",
+                                    "varname": "teach_logic_scene3_text"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_last_event_send",
+                                    "maxclass": "newobj",
+                                    "numinlets": 1,
+                                    "numoutlets": 0,
+                                    "outlettype": [],
+                                    "patching_rect": [
+                                        430,
+                                        60,
+                                        130,
+                                        22
+                                    ],
+                                    "text": "s teach_last_event",
+                                    "varname": "teach_logic_last_event_send"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s1_voice_label",
+                                    "maxclass": "comment",
+                                    "numinlets": 1,
+                                    "numoutlets": 0,
+                                    "patching_rect": [
+                                        20,
+                                        150,
+                                        300,
+                                        20
+                                    ],
+                                    "text": "S1-01 VOICE LOOP 连续语音",
+                                    "varname": "teach_logic_s1_voice_label",
+                                    "fontface": 1
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s1_voice_scene",
+                                    "maxclass": "newobj",
+                                    "numinlets": 0,
+                                    "numoutlets": 1,
+                                    "outlettype": [
+                                        ""
+                                    ],
+                                    "patching_rect": [
+                                        20,
+                                        178,
+                                        105,
+                                        22
+                                    ],
+                                    "text": "r nostos_scene",
+                                    "varname": "teach_logic_s1_voice_scene"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s1_voice_control",
+                                    "maxclass": "newobj",
+                                    "numinlets": 0,
+                                    "numoutlets": 1,
+                                    "outlettype": [
+                                        ""
+                                    ],
+                                    "patching_rect": [
+                                        140,
+                                        178,
+                                        125,
+                                        22
+                                    ],
+                                    "text": "r ctl_auto_voice",
+                                    "varname": "teach_logic_s1_voice_control"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s1_voice_state",
+                                    "maxclass": "newobj",
+                                    "numinlets": 2,
+                                    "numoutlets": 1,
+                                    "outlettype": [
+                                        ""
+                                    ],
+                                    "patching_rect": [
+                                        280,
+                                        178,
+                                        75,
+                                        22
+                                    ],
+                                    "text": "pak 0 0.",
+                                    "varname": "teach_logic_s1_voice_state"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s1_voice_active_expr",
+                                    "maxclass": "newobj",
+                                    "numinlets": 2,
+                                    "numoutlets": 1,
+                                    "outlettype": [
+                                        ""
+                                    ],
+                                    "patching_rect": [
+                                        370,
+                                        178,
+                                        190,
+                                        22
+                                    ],
+                                    "text": "expr ($i1 == 1) && ($f2 > 0.5)",
+                                    "varname": "teach_logic_s1_voice_active_expr"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s1_voice_active_change",
+                                    "maxclass": "newobj",
+                                    "numinlets": 1,
+                                    "numoutlets": 1,
+                                    "outlettype": [
+                                        ""
+                                    ],
+                                    "patching_rect": [
+                                        370,
+                                        210,
+                                        55,
+                                        22
+                                    ],
+                                    "text": "change",
+                                    "varname": "teach_logic_s1_voice_active_change"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s1_voice_active_send",
+                                    "maxclass": "newobj",
+                                    "numinlets": 1,
+                                    "numoutlets": 0,
+                                    "outlettype": [],
+                                    "patching_rect": [
+                                        440,
+                                        210,
+                                        145,
+                                        22
+                                    ],
+                                    "text": "s teach_s1_voice_active",
+                                    "varname": "teach_logic_s1_voice_active_send"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s1_voice_stage_equal",
+                                    "maxclass": "newobj",
+                                    "numinlets": 1,
+                                    "numoutlets": 1,
+                                    "outlettype": [
+                                        ""
+                                    ],
+                                    "patching_rect": [
+                                        20,
+                                        210,
+                                        45,
+                                        22
+                                    ],
+                                    "text": "== 1",
+                                    "varname": "teach_logic_s1_voice_stage_equal"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s1_voice_control_gate",
+                                    "maxclass": "newobj",
+                                    "numinlets": 2,
+                                    "numoutlets": 1,
+                                    "outlettype": [
+                                        ""
+                                    ],
+                                    "patching_rect": [
+                                        140,
+                                        210,
+                                        50,
+                                        22
+                                    ],
+                                    "text": "gate 1",
+                                    "varname": "teach_logic_s1_voice_control_gate"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s1_voice_control_trigger",
+                                    "maxclass": "newobj",
+                                    "numinlets": 1,
+                                    "numoutlets": 2,
+                                    "outlettype": [
+                                        "bang",
+                                        "bang"
+                                    ],
+                                    "patching_rect": [
+                                        205,
+                                        210,
+                                        45,
+                                        22
+                                    ],
+                                    "text": "t b b",
+                                    "varname": "teach_logic_s1_voice_control_trigger"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s1_voice_control_send",
+                                    "maxclass": "newobj",
+                                    "numinlets": 1,
+                                    "numoutlets": 0,
+                                    "outlettype": [],
+                                    "patching_rect": [
+                                        265,
+                                        242,
+                                        150,
+                                        22
+                                    ],
+                                    "text": "s teach_s1_voice_control",
+                                    "varname": "teach_logic_s1_voice_control_send"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s1_voice_last_text",
+                                    "maxclass": "message",
+                                    "numinlets": 2,
+                                    "numoutlets": 1,
+                                    "outlettype": [
+                                        ""
+                                    ],
+                                    "patching_rect": [
+                                        265,
+                                        210,
+                                        165,
+                                        22
+                                    ],
+                                    "text": "set S1-01_VOICE",
+                                    "varname": "teach_logic_s1_voice_last_text"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s1_reverse_label",
+                                    "maxclass": "comment",
+                                    "numinlets": 1,
+                                    "numoutlets": 0,
+                                    "patching_rect": [
+                                        590,
+                                        150,
+                                        300,
+                                        20
+                                    ],
+                                    "text": "S1-02 REVERSE 倒放冲击",
+                                    "varname": "teach_logic_s1_reverse_label",
+                                    "fontface": 1
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s1_reverse_scene",
+                                    "maxclass": "newobj",
+                                    "numinlets": 0,
+                                    "numoutlets": 1,
+                                    "outlettype": [
+                                        ""
+                                    ],
+                                    "patching_rect": [
+                                        590,
+                                        178,
+                                        105,
+                                        22
+                                    ],
+                                    "text": "r nostos_scene",
+                                    "varname": "teach_logic_s1_reverse_scene"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s1_reverse_control",
+                                    "maxclass": "newobj",
+                                    "numinlets": 0,
+                                    "numoutlets": 1,
+                                    "outlettype": [
+                                        ""
+                                    ],
+                                    "patching_rect": [
+                                        710,
+                                        178,
+                                        125,
+                                        22
+                                    ],
+                                    "text": "r ctl_event_a",
+                                    "varname": "teach_logic_s1_reverse_control"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s1_reverse_stage_equal",
+                                    "maxclass": "newobj",
+                                    "numinlets": 1,
+                                    "numoutlets": 1,
+                                    "outlettype": [
+                                        ""
+                                    ],
+                                    "patching_rect": [
+                                        590,
+                                        210,
+                                        45,
+                                        22
+                                    ],
+                                    "text": "== 1",
+                                    "varname": "teach_logic_s1_reverse_stage_equal"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s1_reverse_control_gate",
+                                    "maxclass": "newobj",
+                                    "numinlets": 2,
+                                    "numoutlets": 1,
+                                    "outlettype": [
+                                        ""
+                                    ],
+                                    "patching_rect": [
+                                        710,
+                                        210,
+                                        50,
+                                        22
+                                    ],
+                                    "text": "gate 1",
+                                    "varname": "teach_logic_s1_reverse_control_gate"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s1_reverse_trigger",
+                                    "maxclass": "newobj",
+                                    "numinlets": 1,
+                                    "numoutlets": 5,
+                                    "outlettype": [
+                                        "bang",
+                                        "bang",
+                                        "bang",
+                                        "bang",
+                                        "bang"
+                                    ],
+                                    "patching_rect": [
+                                        775,
+                                        210,
+                                        80,
+                                        22
+                                    ],
+                                    "text": "t b b b b b",
+                                    "varname": "teach_logic_s1_reverse_trigger"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s1_reverse_delay_stop",
+                                    "maxclass": "message",
+                                    "numinlets": 2,
+                                    "numoutlets": 1,
+                                    "outlettype": [
+                                        ""
+                                    ],
+                                    "patching_rect": [
+                                        870,
+                                        178,
+                                        42,
+                                        22
+                                    ],
+                                    "text": "stop",
+                                    "varname": "teach_logic_s1_reverse_delay_stop"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s1_reverse_active_on",
+                                    "maxclass": "message",
+                                    "numinlets": 2,
+                                    "numoutlets": 1,
+                                    "outlettype": [
+                                        ""
+                                    ],
+                                    "patching_rect": [
+                                        925,
+                                        178,
+                                        32,
+                                        22
+                                    ],
+                                    "text": "1",
+                                    "varname": "teach_logic_s1_reverse_active_on"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s1_reverse_control_send",
+                                    "maxclass": "newobj",
+                                    "numinlets": 1,
+                                    "numoutlets": 0,
+                                    "outlettype": [],
+                                    "patching_rect": [
+                                        970,
+                                        178,
+                                        150,
+                                        22
+                                    ],
+                                    "text": "s teach_s1_reverse_control",
+                                    "varname": "teach_logic_s1_reverse_control_send"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s1_reverse_last_text",
+                                    "maxclass": "message",
+                                    "numinlets": 2,
+                                    "numoutlets": 1,
+                                    "outlettype": [
+                                        ""
+                                    ],
+                                    "patching_rect": [
+                                        870,
+                                        210,
+                                        165,
+                                        22
+                                    ],
+                                    "text": "set S1-02_REVERSE",
+                                    "varname": "teach_logic_s1_reverse_last_text"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s1_reverse_delay",
+                                    "maxclass": "newobj",
+                                    "numinlets": 1,
+                                    "numoutlets": 1,
+                                    "outlettype": [
+                                        ""
+                                    ],
+                                    "patching_rect": [
+                                        870,
+                                        242,
+                                        80,
+                                        22
+                                    ],
+                                    "text": "delay 1200",
+                                    "varname": "teach_logic_s1_reverse_delay"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s1_reverse_active_off",
+                                    "maxclass": "message",
+                                    "numinlets": 2,
+                                    "numoutlets": 1,
+                                    "outlettype": [
+                                        ""
+                                    ],
+                                    "patching_rect": [
+                                        965,
+                                        242,
+                                        32,
+                                        22
+                                    ],
+                                    "text": "0",
+                                    "varname": "teach_logic_s1_reverse_active_off"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s1_reverse_active_send",
+                                    "maxclass": "newobj",
+                                    "numinlets": 1,
+                                    "numoutlets": 0,
+                                    "outlettype": [],
+                                    "patching_rect": [
+                                        1010,
+                                        242,
+                                        145,
+                                        22
+                                    ],
+                                    "text": "s teach_s1_reverse_active",
+                                    "varname": "teach_logic_s1_reverse_active_send"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s1_lurch_label",
+                                    "maxclass": "comment",
+                                    "numinlets": 1,
+                                    "numoutlets": 0,
+                                    "patching_rect": [
+                                        1160,
+                                        150,
+                                        300,
+                                        20
+                                    ],
+                                    "text": "S1-03 LURCH 短暂失速",
+                                    "varname": "teach_logic_s1_lurch_label",
+                                    "fontface": 1
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s1_lurch_scene",
+                                    "maxclass": "newobj",
+                                    "numinlets": 0,
+                                    "numoutlets": 1,
+                                    "outlettype": [
+                                        ""
+                                    ],
+                                    "patching_rect": [
+                                        1160,
+                                        178,
+                                        105,
+                                        22
+                                    ],
+                                    "text": "r nostos_scene",
+                                    "varname": "teach_logic_s1_lurch_scene"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s1_lurch_control",
+                                    "maxclass": "newobj",
+                                    "numinlets": 0,
+                                    "numoutlets": 1,
+                                    "outlettype": [
+                                        ""
+                                    ],
+                                    "patching_rect": [
+                                        1280,
+                                        178,
+                                        125,
+                                        22
+                                    ],
+                                    "text": "r ctl_event_b",
+                                    "varname": "teach_logic_s1_lurch_control"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s1_lurch_stage_equal",
+                                    "maxclass": "newobj",
+                                    "numinlets": 1,
+                                    "numoutlets": 1,
+                                    "outlettype": [
+                                        ""
+                                    ],
+                                    "patching_rect": [
+                                        1160,
+                                        210,
+                                        45,
+                                        22
+                                    ],
+                                    "text": "== 1",
+                                    "varname": "teach_logic_s1_lurch_stage_equal"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s1_lurch_control_gate",
+                                    "maxclass": "newobj",
+                                    "numinlets": 2,
+                                    "numoutlets": 1,
+                                    "outlettype": [
+                                        ""
+                                    ],
+                                    "patching_rect": [
+                                        1280,
+                                        210,
+                                        50,
+                                        22
+                                    ],
+                                    "text": "gate 1",
+                                    "varname": "teach_logic_s1_lurch_control_gate"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s1_lurch_trigger",
+                                    "maxclass": "newobj",
+                                    "numinlets": 1,
+                                    "numoutlets": 5,
+                                    "outlettype": [
+                                        "bang",
+                                        "bang",
+                                        "bang",
+                                        "bang",
+                                        "bang"
+                                    ],
+                                    "patching_rect": [
+                                        1345,
+                                        210,
+                                        80,
+                                        22
+                                    ],
+                                    "text": "t b b b b b",
+                                    "varname": "teach_logic_s1_lurch_trigger"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s1_lurch_delay_stop",
+                                    "maxclass": "message",
+                                    "numinlets": 2,
+                                    "numoutlets": 1,
+                                    "outlettype": [
+                                        ""
+                                    ],
+                                    "patching_rect": [
+                                        1440,
+                                        178,
+                                        42,
+                                        22
+                                    ],
+                                    "text": "stop",
+                                    "varname": "teach_logic_s1_lurch_delay_stop"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s1_lurch_active_on",
+                                    "maxclass": "message",
+                                    "numinlets": 2,
+                                    "numoutlets": 1,
+                                    "outlettype": [
+                                        ""
+                                    ],
+                                    "patching_rect": [
+                                        1495,
+                                        178,
+                                        32,
+                                        22
+                                    ],
+                                    "text": "1",
+                                    "varname": "teach_logic_s1_lurch_active_on"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s1_lurch_control_send",
+                                    "maxclass": "newobj",
+                                    "numinlets": 1,
+                                    "numoutlets": 0,
+                                    "outlettype": [],
+                                    "patching_rect": [
+                                        1540,
+                                        178,
+                                        150,
+                                        22
+                                    ],
+                                    "text": "s teach_s1_lurch_control",
+                                    "varname": "teach_logic_s1_lurch_control_send"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s1_lurch_last_text",
+                                    "maxclass": "message",
+                                    "numinlets": 2,
+                                    "numoutlets": 1,
+                                    "outlettype": [
+                                        ""
+                                    ],
+                                    "patching_rect": [
+                                        1440,
+                                        210,
+                                        165,
+                                        22
+                                    ],
+                                    "text": "set S1-03_LURCH",
+                                    "varname": "teach_logic_s1_lurch_last_text"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s1_lurch_delay",
+                                    "maxclass": "newobj",
+                                    "numinlets": 1,
+                                    "numoutlets": 1,
+                                    "outlettype": [
+                                        ""
+                                    ],
+                                    "patching_rect": [
+                                        1440,
+                                        242,
+                                        80,
+                                        22
+                                    ],
+                                    "text": "delay 700",
+                                    "varname": "teach_logic_s1_lurch_delay"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s1_lurch_active_off",
+                                    "maxclass": "message",
+                                    "numinlets": 2,
+                                    "numoutlets": 1,
+                                    "outlettype": [
+                                        ""
+                                    ],
+                                    "patching_rect": [
+                                        1535,
+                                        242,
+                                        32,
+                                        22
+                                    ],
+                                    "text": "0",
+                                    "varname": "teach_logic_s1_lurch_active_off"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s1_lurch_active_send",
+                                    "maxclass": "newobj",
+                                    "numinlets": 1,
+                                    "numoutlets": 0,
+                                    "outlettype": [],
+                                    "patching_rect": [
+                                        1580,
+                                        242,
+                                        145,
+                                        22
+                                    ],
+                                    "text": "s teach_s1_lurch_active",
+                                    "varname": "teach_logic_s1_lurch_active_send"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s1_bed_label",
+                                    "maxclass": "comment",
+                                    "numinlets": 1,
+                                    "numoutlets": 0,
+                                    "patching_rect": [
+                                        20,
+                                        300,
+                                        300,
+                                        20
+                                    ],
+                                    "text": "S1-04 MARCH BED 战争脉动",
+                                    "varname": "teach_logic_s1_bed_label",
+                                    "fontface": 1
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s1_bed_scene",
+                                    "maxclass": "newobj",
+                                    "numinlets": 0,
+                                    "numoutlets": 1,
+                                    "outlettype": [
+                                        ""
+                                    ],
+                                    "patching_rect": [
+                                        20,
+                                        328,
+                                        105,
+                                        22
+                                    ],
+                                    "text": "r nostos_scene",
+                                    "varname": "teach_logic_s1_bed_scene"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s1_bed_control",
+                                    "maxclass": "newobj",
+                                    "numinlets": 0,
+                                    "numoutlets": 1,
+                                    "outlettype": [
+                                        ""
+                                    ],
+                                    "patching_rect": [
+                                        140,
+                                        328,
+                                        125,
+                                        22
+                                    ],
+                                    "text": "r ctl_bed",
+                                    "varname": "teach_logic_s1_bed_control"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s1_bed_state",
+                                    "maxclass": "newobj",
+                                    "numinlets": 2,
+                                    "numoutlets": 1,
+                                    "outlettype": [
+                                        ""
+                                    ],
+                                    "patching_rect": [
+                                        280,
+                                        328,
+                                        75,
+                                        22
+                                    ],
+                                    "text": "pak 0 0.",
+                                    "varname": "teach_logic_s1_bed_state"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s1_bed_active_expr",
+                                    "maxclass": "newobj",
+                                    "numinlets": 2,
+                                    "numoutlets": 1,
+                                    "outlettype": [
+                                        ""
+                                    ],
+                                    "patching_rect": [
+                                        370,
+                                        328,
+                                        190,
+                                        22
+                                    ],
+                                    "text": "expr ($i1 == 1) && ($f2 > 0.01)",
+                                    "varname": "teach_logic_s1_bed_active_expr"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s1_bed_active_change",
+                                    "maxclass": "newobj",
+                                    "numinlets": 1,
+                                    "numoutlets": 1,
+                                    "outlettype": [
+                                        ""
+                                    ],
+                                    "patching_rect": [
+                                        370,
+                                        360,
+                                        55,
+                                        22
+                                    ],
+                                    "text": "change",
+                                    "varname": "teach_logic_s1_bed_active_change"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s1_bed_active_send",
+                                    "maxclass": "newobj",
+                                    "numinlets": 1,
+                                    "numoutlets": 0,
+                                    "outlettype": [],
+                                    "patching_rect": [
+                                        440,
+                                        360,
+                                        145,
+                                        22
+                                    ],
+                                    "text": "s teach_s1_bed_active",
+                                    "varname": "teach_logic_s1_bed_active_send"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s1_bed_stage_equal",
+                                    "maxclass": "newobj",
+                                    "numinlets": 1,
+                                    "numoutlets": 1,
+                                    "outlettype": [
+                                        ""
+                                    ],
+                                    "patching_rect": [
+                                        20,
+                                        360,
+                                        45,
+                                        22
+                                    ],
+                                    "text": "== 1",
+                                    "varname": "teach_logic_s1_bed_stage_equal"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s1_bed_control_gate",
+                                    "maxclass": "newobj",
+                                    "numinlets": 2,
+                                    "numoutlets": 1,
+                                    "outlettype": [
+                                        ""
+                                    ],
+                                    "patching_rect": [
+                                        140,
+                                        360,
+                                        50,
+                                        22
+                                    ],
+                                    "text": "gate 1",
+                                    "varname": "teach_logic_s1_bed_control_gate"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s1_bed_control_trigger",
+                                    "maxclass": "newobj",
+                                    "numinlets": 1,
+                                    "numoutlets": 2,
+                                    "outlettype": [
+                                        "bang",
+                                        "bang"
+                                    ],
+                                    "patching_rect": [
+                                        205,
+                                        360,
+                                        45,
+                                        22
+                                    ],
+                                    "text": "t b b",
+                                    "varname": "teach_logic_s1_bed_control_trigger"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s1_bed_control_send",
+                                    "maxclass": "newobj",
+                                    "numinlets": 1,
+                                    "numoutlets": 0,
+                                    "outlettype": [],
+                                    "patching_rect": [
+                                        265,
+                                        392,
+                                        150,
+                                        22
+                                    ],
+                                    "text": "s teach_s1_bed_control",
+                                    "varname": "teach_logic_s1_bed_control_send"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s1_bed_last_text",
+                                    "maxclass": "message",
+                                    "numinlets": 2,
+                                    "numoutlets": 1,
+                                    "outlettype": [
+                                        ""
+                                    ],
+                                    "patching_rect": [
+                                        265,
+                                        360,
+                                        165,
+                                        22
+                                    ],
+                                    "text": "set S1-04_MARCH",
+                                    "varname": "teach_logic_s1_bed_last_text"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s2_grains_label",
+                                    "maxclass": "comment",
+                                    "numinlets": 1,
+                                    "numoutlets": 0,
+                                    "patching_rect": [
+                                        590,
+                                        300,
+                                        300,
+                                        20
+                                    ],
+                                    "text": "S2-01 AUTO GRAINS 自动粒子",
+                                    "varname": "teach_logic_s2_grains_label",
+                                    "fontface": 1
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s2_grains_scene",
+                                    "maxclass": "newobj",
+                                    "numinlets": 0,
+                                    "numoutlets": 1,
+                                    "outlettype": [
+                                        ""
+                                    ],
+                                    "patching_rect": [
+                                        590,
+                                        328,
+                                        105,
+                                        22
+                                    ],
+                                    "text": "r nostos_scene",
+                                    "varname": "teach_logic_s2_grains_scene"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s2_grains_control",
+                                    "maxclass": "newobj",
+                                    "numinlets": 0,
+                                    "numoutlets": 1,
+                                    "outlettype": [
+                                        ""
+                                    ],
+                                    "patching_rect": [
+                                        710,
+                                        328,
+                                        125,
+                                        22
+                                    ],
+                                    "text": "r ctl_auto_voice",
+                                    "varname": "teach_logic_s2_grains_control"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s2_grains_state",
+                                    "maxclass": "newobj",
+                                    "numinlets": 2,
+                                    "numoutlets": 1,
+                                    "outlettype": [
+                                        ""
+                                    ],
+                                    "patching_rect": [
+                                        850,
+                                        328,
+                                        75,
+                                        22
+                                    ],
+                                    "text": "pak 0 0.",
+                                    "varname": "teach_logic_s2_grains_state"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s2_grains_active_expr",
+                                    "maxclass": "newobj",
+                                    "numinlets": 2,
+                                    "numoutlets": 1,
+                                    "outlettype": [
+                                        ""
+                                    ],
+                                    "patching_rect": [
+                                        940,
+                                        328,
+                                        190,
+                                        22
+                                    ],
+                                    "text": "expr ($i1 == 2) && ($f2 > 0.5)",
+                                    "varname": "teach_logic_s2_grains_active_expr"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s2_grains_active_change",
+                                    "maxclass": "newobj",
+                                    "numinlets": 1,
+                                    "numoutlets": 1,
+                                    "outlettype": [
+                                        ""
+                                    ],
+                                    "patching_rect": [
+                                        940,
+                                        360,
+                                        55,
+                                        22
+                                    ],
+                                    "text": "change",
+                                    "varname": "teach_logic_s2_grains_active_change"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s2_grains_active_send",
+                                    "maxclass": "newobj",
+                                    "numinlets": 1,
+                                    "numoutlets": 0,
+                                    "outlettype": [],
+                                    "patching_rect": [
+                                        1010,
+                                        360,
+                                        145,
+                                        22
+                                    ],
+                                    "text": "s teach_s2_grains_active",
+                                    "varname": "teach_logic_s2_grains_active_send"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s2_grains_stage_equal",
+                                    "maxclass": "newobj",
+                                    "numinlets": 1,
+                                    "numoutlets": 1,
+                                    "outlettype": [
+                                        ""
+                                    ],
+                                    "patching_rect": [
+                                        590,
+                                        360,
+                                        45,
+                                        22
+                                    ],
+                                    "text": "== 2",
+                                    "varname": "teach_logic_s2_grains_stage_equal"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s2_grains_control_gate",
+                                    "maxclass": "newobj",
+                                    "numinlets": 2,
+                                    "numoutlets": 1,
+                                    "outlettype": [
+                                        ""
+                                    ],
+                                    "patching_rect": [
+                                        710,
+                                        360,
+                                        50,
+                                        22
+                                    ],
+                                    "text": "gate 1",
+                                    "varname": "teach_logic_s2_grains_control_gate"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s2_grains_control_trigger",
+                                    "maxclass": "newobj",
+                                    "numinlets": 1,
+                                    "numoutlets": 2,
+                                    "outlettype": [
+                                        "bang",
+                                        "bang"
+                                    ],
+                                    "patching_rect": [
+                                        775,
+                                        360,
+                                        45,
+                                        22
+                                    ],
+                                    "text": "t b b",
+                                    "varname": "teach_logic_s2_grains_control_trigger"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s2_grains_control_send",
+                                    "maxclass": "newobj",
+                                    "numinlets": 1,
+                                    "numoutlets": 0,
+                                    "outlettype": [],
+                                    "patching_rect": [
+                                        835,
+                                        392,
+                                        150,
+                                        22
+                                    ],
+                                    "text": "s teach_s2_grains_control",
+                                    "varname": "teach_logic_s2_grains_control_send"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s2_grains_last_text",
+                                    "maxclass": "message",
+                                    "numinlets": 2,
+                                    "numoutlets": 1,
+                                    "outlettype": [
+                                        ""
+                                    ],
+                                    "patching_rect": [
+                                        835,
+                                        360,
+                                        165,
+                                        22
+                                    ],
+                                    "text": "set S2-01_AUTO",
+                                    "varname": "teach_logic_s2_grains_last_text"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s2_storm_label",
+                                    "maxclass": "comment",
+                                    "numinlets": 1,
+                                    "numoutlets": 0,
+                                    "patching_rect": [
+                                        1160,
+                                        300,
+                                        300,
+                                        20
+                                    ],
+                                    "text": "S2-02 PARTICLE STORM 粒子风暴",
+                                    "varname": "teach_logic_s2_storm_label",
+                                    "fontface": 1
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s2_storm_scene",
+                                    "maxclass": "newobj",
+                                    "numinlets": 0,
+                                    "numoutlets": 1,
+                                    "outlettype": [
+                                        ""
+                                    ],
+                                    "patching_rect": [
+                                        1160,
+                                        328,
+                                        105,
+                                        22
+                                    ],
+                                    "text": "r nostos_scene",
+                                    "varname": "teach_logic_s2_storm_scene"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s2_storm_control",
+                                    "maxclass": "newobj",
+                                    "numinlets": 0,
+                                    "numoutlets": 1,
+                                    "outlettype": [
+                                        ""
+                                    ],
+                                    "patching_rect": [
+                                        1280,
+                                        328,
+                                        125,
+                                        22
+                                    ],
+                                    "text": "r ctl_event_a",
+                                    "varname": "teach_logic_s2_storm_control"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s2_storm_stage_equal",
+                                    "maxclass": "newobj",
+                                    "numinlets": 1,
+                                    "numoutlets": 1,
+                                    "outlettype": [
+                                        ""
+                                    ],
+                                    "patching_rect": [
+                                        1160,
+                                        360,
+                                        45,
+                                        22
+                                    ],
+                                    "text": "== 2",
+                                    "varname": "teach_logic_s2_storm_stage_equal"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s2_storm_control_gate",
+                                    "maxclass": "newobj",
+                                    "numinlets": 2,
+                                    "numoutlets": 1,
+                                    "outlettype": [
+                                        ""
+                                    ],
+                                    "patching_rect": [
+                                        1280,
+                                        360,
+                                        50,
+                                        22
+                                    ],
+                                    "text": "gate 1",
+                                    "varname": "teach_logic_s2_storm_control_gate"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s2_storm_trigger",
+                                    "maxclass": "newobj",
+                                    "numinlets": 1,
+                                    "numoutlets": 5,
+                                    "outlettype": [
+                                        "bang",
+                                        "bang",
+                                        "bang",
+                                        "bang",
+                                        "bang"
+                                    ],
+                                    "patching_rect": [
+                                        1345,
+                                        360,
+                                        80,
+                                        22
+                                    ],
+                                    "text": "t b b b b b",
+                                    "varname": "teach_logic_s2_storm_trigger"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s2_storm_delay_stop",
+                                    "maxclass": "message",
+                                    "numinlets": 2,
+                                    "numoutlets": 1,
+                                    "outlettype": [
+                                        ""
+                                    ],
+                                    "patching_rect": [
+                                        1440,
+                                        328,
+                                        42,
+                                        22
+                                    ],
+                                    "text": "stop",
+                                    "varname": "teach_logic_s2_storm_delay_stop"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s2_storm_active_on",
+                                    "maxclass": "message",
+                                    "numinlets": 2,
+                                    "numoutlets": 1,
+                                    "outlettype": [
+                                        ""
+                                    ],
+                                    "patching_rect": [
+                                        1495,
+                                        328,
+                                        32,
+                                        22
+                                    ],
+                                    "text": "1",
+                                    "varname": "teach_logic_s2_storm_active_on"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s2_storm_control_send",
+                                    "maxclass": "newobj",
+                                    "numinlets": 1,
+                                    "numoutlets": 0,
+                                    "outlettype": [],
+                                    "patching_rect": [
+                                        1540,
+                                        328,
+                                        150,
+                                        22
+                                    ],
+                                    "text": "s teach_s2_storm_control",
+                                    "varname": "teach_logic_s2_storm_control_send"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s2_storm_last_text",
+                                    "maxclass": "message",
+                                    "numinlets": 2,
+                                    "numoutlets": 1,
+                                    "outlettype": [
+                                        ""
+                                    ],
+                                    "patching_rect": [
+                                        1440,
+                                        360,
+                                        165,
+                                        22
+                                    ],
+                                    "text": "set S2-02_PARTICLE",
+                                    "varname": "teach_logic_s2_storm_last_text"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s2_storm_delay",
+                                    "maxclass": "newobj",
+                                    "numinlets": 1,
+                                    "numoutlets": 1,
+                                    "outlettype": [
+                                        ""
+                                    ],
+                                    "patching_rect": [
+                                        1440,
+                                        392,
+                                        80,
+                                        22
+                                    ],
+                                    "text": "delay 1300",
+                                    "varname": "teach_logic_s2_storm_delay"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s2_storm_active_off",
+                                    "maxclass": "message",
+                                    "numinlets": 2,
+                                    "numoutlets": 1,
+                                    "outlettype": [
+                                        ""
+                                    ],
+                                    "patching_rect": [
+                                        1535,
+                                        392,
+                                        32,
+                                        22
+                                    ],
+                                    "text": "0",
+                                    "varname": "teach_logic_s2_storm_active_off"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s2_storm_active_send",
+                                    "maxclass": "newobj",
+                                    "numinlets": 1,
+                                    "numoutlets": 0,
+                                    "outlettype": [],
+                                    "patching_rect": [
+                                        1580,
+                                        392,
+                                        145,
+                                        22
+                                    ],
+                                    "text": "s teach_s2_storm_active",
+                                    "varname": "teach_logic_s2_storm_active_send"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s2_hold_label",
+                                    "maxclass": "comment",
+                                    "numinlets": 1,
+                                    "numoutlets": 0,
+                                    "patching_rect": [
+                                        20,
+                                        450,
+                                        300,
+                                        20
+                                    ],
+                                    "text": "S2-03 HOLD LOOP 抓取残片",
+                                    "varname": "teach_logic_s2_hold_label",
+                                    "fontface": 1
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s2_hold_scene",
+                                    "maxclass": "newobj",
+                                    "numinlets": 0,
+                                    "numoutlets": 1,
+                                    "outlettype": [
+                                        ""
+                                    ],
+                                    "patching_rect": [
+                                        20,
+                                        478,
+                                        105,
+                                        22
+                                    ],
+                                    "text": "r nostos_scene",
+                                    "varname": "teach_logic_s2_hold_scene"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s2_hold_control",
+                                    "maxclass": "newobj",
+                                    "numinlets": 0,
+                                    "numoutlets": 1,
+                                    "outlettype": [
+                                        ""
+                                    ],
+                                    "patching_rect": [
+                                        140,
+                                        478,
+                                        125,
+                                        22
+                                    ],
+                                    "text": "r ctl_hold",
+                                    "varname": "teach_logic_s2_hold_control"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s2_hold_state",
+                                    "maxclass": "newobj",
+                                    "numinlets": 2,
+                                    "numoutlets": 1,
+                                    "outlettype": [
+                                        ""
+                                    ],
+                                    "patching_rect": [
+                                        280,
+                                        478,
+                                        75,
+                                        22
+                                    ],
+                                    "text": "pak 0 0.",
+                                    "varname": "teach_logic_s2_hold_state"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s2_hold_active_expr",
+                                    "maxclass": "newobj",
+                                    "numinlets": 2,
+                                    "numoutlets": 1,
+                                    "outlettype": [
+                                        ""
+                                    ],
+                                    "patching_rect": [
+                                        370,
+                                        478,
+                                        190,
+                                        22
+                                    ],
+                                    "text": "expr ($i1 == 2) && ($f2 > 0.5)",
+                                    "varname": "teach_logic_s2_hold_active_expr"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s2_hold_active_change",
+                                    "maxclass": "newobj",
+                                    "numinlets": 1,
+                                    "numoutlets": 1,
+                                    "outlettype": [
+                                        ""
+                                    ],
+                                    "patching_rect": [
+                                        370,
+                                        510,
+                                        55,
+                                        22
+                                    ],
+                                    "text": "change",
+                                    "varname": "teach_logic_s2_hold_active_change"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s2_hold_active_send",
+                                    "maxclass": "newobj",
+                                    "numinlets": 1,
+                                    "numoutlets": 0,
+                                    "outlettype": [],
+                                    "patching_rect": [
+                                        440,
+                                        510,
+                                        145,
+                                        22
+                                    ],
+                                    "text": "s teach_s2_hold_active",
+                                    "varname": "teach_logic_s2_hold_active_send"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s2_hold_stage_equal",
+                                    "maxclass": "newobj",
+                                    "numinlets": 1,
+                                    "numoutlets": 1,
+                                    "outlettype": [
+                                        ""
+                                    ],
+                                    "patching_rect": [
+                                        20,
+                                        510,
+                                        45,
+                                        22
+                                    ],
+                                    "text": "== 2",
+                                    "varname": "teach_logic_s2_hold_stage_equal"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s2_hold_control_gate",
+                                    "maxclass": "newobj",
+                                    "numinlets": 2,
+                                    "numoutlets": 1,
+                                    "outlettype": [
+                                        ""
+                                    ],
+                                    "patching_rect": [
+                                        140,
+                                        510,
+                                        50,
+                                        22
+                                    ],
+                                    "text": "gate 1",
+                                    "varname": "teach_logic_s2_hold_control_gate"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s2_hold_control_trigger",
+                                    "maxclass": "newobj",
+                                    "numinlets": 1,
+                                    "numoutlets": 2,
+                                    "outlettype": [
+                                        "bang",
+                                        "bang"
+                                    ],
+                                    "patching_rect": [
+                                        205,
+                                        510,
+                                        45,
+                                        22
+                                    ],
+                                    "text": "t b b",
+                                    "varname": "teach_logic_s2_hold_control_trigger"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s2_hold_control_send",
+                                    "maxclass": "newobj",
+                                    "numinlets": 1,
+                                    "numoutlets": 0,
+                                    "outlettype": [],
+                                    "patching_rect": [
+                                        265,
+                                        542,
+                                        150,
+                                        22
+                                    ],
+                                    "text": "s teach_s2_hold_control",
+                                    "varname": "teach_logic_s2_hold_control_send"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s2_hold_last_text",
+                                    "maxclass": "message",
+                                    "numinlets": 2,
+                                    "numoutlets": 1,
+                                    "outlettype": [
+                                        ""
+                                    ],
+                                    "patching_rect": [
+                                        265,
+                                        510,
+                                        165,
+                                        22
+                                    ],
+                                    "text": "set S2-03_HOLD",
+                                    "varname": "teach_logic_s2_hold_last_text"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s2_metal_label",
+                                    "maxclass": "comment",
+                                    "numinlets": 1,
+                                    "numoutlets": 0,
+                                    "patching_rect": [
+                                        590,
+                                        450,
+                                        300,
+                                        20
+                                    ],
+                                    "text": "S2-04 METAL BED 金属底噪",
+                                    "varname": "teach_logic_s2_metal_label",
+                                    "fontface": 1
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s2_metal_scene",
+                                    "maxclass": "newobj",
+                                    "numinlets": 0,
+                                    "numoutlets": 1,
+                                    "outlettype": [
+                                        ""
+                                    ],
+                                    "patching_rect": [
+                                        590,
+                                        478,
+                                        105,
+                                        22
+                                    ],
+                                    "text": "r nostos_scene",
+                                    "varname": "teach_logic_s2_metal_scene"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s2_metal_control",
+                                    "maxclass": "newobj",
+                                    "numinlets": 0,
+                                    "numoutlets": 1,
+                                    "outlettype": [
+                                        ""
+                                    ],
+                                    "patching_rect": [
+                                        710,
+                                        478,
+                                        125,
+                                        22
+                                    ],
+                                    "text": "r ctl_bed",
+                                    "varname": "teach_logic_s2_metal_control"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s2_metal_state",
+                                    "maxclass": "newobj",
+                                    "numinlets": 2,
+                                    "numoutlets": 1,
+                                    "outlettype": [
+                                        ""
+                                    ],
+                                    "patching_rect": [
+                                        850,
+                                        478,
+                                        75,
+                                        22
+                                    ],
+                                    "text": "pak 0 0.",
+                                    "varname": "teach_logic_s2_metal_state"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s2_metal_active_expr",
+                                    "maxclass": "newobj",
+                                    "numinlets": 2,
+                                    "numoutlets": 1,
+                                    "outlettype": [
+                                        ""
+                                    ],
+                                    "patching_rect": [
+                                        940,
+                                        478,
+                                        190,
+                                        22
+                                    ],
+                                    "text": "expr ($i1 == 2) && ($f2 > 0.01)",
+                                    "varname": "teach_logic_s2_metal_active_expr"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s2_metal_active_change",
+                                    "maxclass": "newobj",
+                                    "numinlets": 1,
+                                    "numoutlets": 1,
+                                    "outlettype": [
+                                        ""
+                                    ],
+                                    "patching_rect": [
+                                        940,
+                                        510,
+                                        55,
+                                        22
+                                    ],
+                                    "text": "change",
+                                    "varname": "teach_logic_s2_metal_active_change"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s2_metal_active_send",
+                                    "maxclass": "newobj",
+                                    "numinlets": 1,
+                                    "numoutlets": 0,
+                                    "outlettype": [],
+                                    "patching_rect": [
+                                        1010,
+                                        510,
+                                        145,
+                                        22
+                                    ],
+                                    "text": "s teach_s2_metal_active",
+                                    "varname": "teach_logic_s2_metal_active_send"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s2_metal_stage_equal",
+                                    "maxclass": "newobj",
+                                    "numinlets": 1,
+                                    "numoutlets": 1,
+                                    "outlettype": [
+                                        ""
+                                    ],
+                                    "patching_rect": [
+                                        590,
+                                        510,
+                                        45,
+                                        22
+                                    ],
+                                    "text": "== 2",
+                                    "varname": "teach_logic_s2_metal_stage_equal"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s2_metal_control_gate",
+                                    "maxclass": "newobj",
+                                    "numinlets": 2,
+                                    "numoutlets": 1,
+                                    "outlettype": [
+                                        ""
+                                    ],
+                                    "patching_rect": [
+                                        710,
+                                        510,
+                                        50,
+                                        22
+                                    ],
+                                    "text": "gate 1",
+                                    "varname": "teach_logic_s2_metal_control_gate"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s2_metal_control_trigger",
+                                    "maxclass": "newobj",
+                                    "numinlets": 1,
+                                    "numoutlets": 2,
+                                    "outlettype": [
+                                        "bang",
+                                        "bang"
+                                    ],
+                                    "patching_rect": [
+                                        775,
+                                        510,
+                                        45,
+                                        22
+                                    ],
+                                    "text": "t b b",
+                                    "varname": "teach_logic_s2_metal_control_trigger"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s2_metal_control_send",
+                                    "maxclass": "newobj",
+                                    "numinlets": 1,
+                                    "numoutlets": 0,
+                                    "outlettype": [],
+                                    "patching_rect": [
+                                        835,
+                                        542,
+                                        150,
+                                        22
+                                    ],
+                                    "text": "s teach_s2_metal_control",
+                                    "varname": "teach_logic_s2_metal_control_send"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s2_metal_last_text",
+                                    "maxclass": "message",
+                                    "numinlets": 2,
+                                    "numoutlets": 1,
+                                    "outlettype": [
+                                        ""
+                                    ],
+                                    "patching_rect": [
+                                        835,
+                                        510,
+                                        165,
+                                        22
+                                    ],
+                                    "text": "set S2-04_METAL",
+                                    "varname": "teach_logic_s2_metal_last_text"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s2_recall_label",
+                                    "maxclass": "comment",
+                                    "numinlets": 1,
+                                    "numoutlets": 0,
+                                    "patching_rect": [
+                                        1160,
+                                        450,
+                                        300,
+                                        20
+                                    ],
+                                    "text": "S2-05 CLEAR RECALL 清晰召回",
+                                    "varname": "teach_logic_s2_recall_label",
+                                    "fontface": 1
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s2_recall_scene",
+                                    "maxclass": "newobj",
+                                    "numinlets": 0,
+                                    "numoutlets": 1,
+                                    "outlettype": [
+                                        ""
+                                    ],
+                                    "patching_rect": [
+                                        1160,
+                                        478,
+                                        105,
+                                        22
+                                    ],
+                                    "text": "r nostos_scene",
+                                    "varname": "teach_logic_s2_recall_scene"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s2_recall_control",
+                                    "maxclass": "newobj",
+                                    "numinlets": 0,
+                                    "numoutlets": 1,
+                                    "outlettype": [
+                                        ""
+                                    ],
+                                    "patching_rect": [
+                                        1280,
+                                        478,
+                                        125,
+                                        22
+                                    ],
+                                    "text": "r ctl_event_b",
+                                    "varname": "teach_logic_s2_recall_control"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s2_recall_stage_equal",
+                                    "maxclass": "newobj",
+                                    "numinlets": 1,
+                                    "numoutlets": 1,
+                                    "outlettype": [
+                                        ""
+                                    ],
+                                    "patching_rect": [
+                                        1160,
+                                        510,
+                                        45,
+                                        22
+                                    ],
+                                    "text": "== 2",
+                                    "varname": "teach_logic_s2_recall_stage_equal"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s2_recall_control_gate",
+                                    "maxclass": "newobj",
+                                    "numinlets": 2,
+                                    "numoutlets": 1,
+                                    "outlettype": [
+                                        ""
+                                    ],
+                                    "patching_rect": [
+                                        1280,
+                                        510,
+                                        50,
+                                        22
+                                    ],
+                                    "text": "gate 1",
+                                    "varname": "teach_logic_s2_recall_control_gate"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s2_recall_trigger",
+                                    "maxclass": "newobj",
+                                    "numinlets": 1,
+                                    "numoutlets": 5,
+                                    "outlettype": [
+                                        "bang",
+                                        "bang",
+                                        "bang",
+                                        "bang",
+                                        "bang"
+                                    ],
+                                    "patching_rect": [
+                                        1345,
+                                        510,
+                                        80,
+                                        22
+                                    ],
+                                    "text": "t b b b b b",
+                                    "varname": "teach_logic_s2_recall_trigger"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s2_recall_delay_stop",
+                                    "maxclass": "message",
+                                    "numinlets": 2,
+                                    "numoutlets": 1,
+                                    "outlettype": [
+                                        ""
+                                    ],
+                                    "patching_rect": [
+                                        1440,
+                                        478,
+                                        42,
+                                        22
+                                    ],
+                                    "text": "stop",
+                                    "varname": "teach_logic_s2_recall_delay_stop"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s2_recall_active_on",
+                                    "maxclass": "message",
+                                    "numinlets": 2,
+                                    "numoutlets": 1,
+                                    "outlettype": [
+                                        ""
+                                    ],
+                                    "patching_rect": [
+                                        1495,
+                                        478,
+                                        32,
+                                        22
+                                    ],
+                                    "text": "1",
+                                    "varname": "teach_logic_s2_recall_active_on"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s2_recall_control_send",
+                                    "maxclass": "newobj",
+                                    "numinlets": 1,
+                                    "numoutlets": 0,
+                                    "outlettype": [],
+                                    "patching_rect": [
+                                        1540,
+                                        478,
+                                        150,
+                                        22
+                                    ],
+                                    "text": "s teach_s2_recall_control",
+                                    "varname": "teach_logic_s2_recall_control_send"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s2_recall_last_text",
+                                    "maxclass": "message",
+                                    "numinlets": 2,
+                                    "numoutlets": 1,
+                                    "outlettype": [
+                                        ""
+                                    ],
+                                    "patching_rect": [
+                                        1440,
+                                        510,
+                                        165,
+                                        22
+                                    ],
+                                    "text": "set S2-05_CLEAR",
+                                    "varname": "teach_logic_s2_recall_last_text"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s2_recall_delay",
+                                    "maxclass": "newobj",
+                                    "numinlets": 1,
+                                    "numoutlets": 1,
+                                    "outlettype": [
+                                        ""
+                                    ],
+                                    "patching_rect": [
+                                        1440,
+                                        542,
+                                        80,
+                                        22
+                                    ],
+                                    "text": "delay 1900",
+                                    "varname": "teach_logic_s2_recall_delay"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s2_recall_active_off",
+                                    "maxclass": "message",
+                                    "numinlets": 2,
+                                    "numoutlets": 1,
+                                    "outlettype": [
+                                        ""
+                                    ],
+                                    "patching_rect": [
+                                        1535,
+                                        542,
+                                        32,
+                                        22
+                                    ],
+                                    "text": "0",
+                                    "varname": "teach_logic_s2_recall_active_off"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s2_recall_active_send",
+                                    "maxclass": "newobj",
+                                    "numinlets": 1,
+                                    "numoutlets": 0,
+                                    "outlettype": [],
+                                    "patching_rect": [
+                                        1580,
+                                        542,
+                                        145,
+                                        22
+                                    ],
+                                    "text": "s teach_s2_recall_active",
+                                    "varname": "teach_logic_s2_recall_active_send"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s2_debris_label",
+                                    "maxclass": "comment",
+                                    "numinlets": 1,
+                                    "numoutlets": 0,
+                                    "patching_rect": [
+                                        20,
+                                        600,
+                                        300,
+                                        20
+                                    ],
+                                    "text": "S2-06 METAL DEBRIS 金属碎屑",
+                                    "varname": "teach_logic_s2_debris_label",
+                                    "fontface": 1
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s2_debris_scene",
+                                    "maxclass": "newobj",
+                                    "numinlets": 0,
+                                    "numoutlets": 1,
+                                    "outlettype": [
+                                        ""
+                                    ],
+                                    "patching_rect": [
+                                        20,
+                                        628,
+                                        105,
+                                        22
+                                    ],
+                                    "text": "r nostos_scene",
+                                    "varname": "teach_logic_s2_debris_scene"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s2_debris_control",
+                                    "maxclass": "newobj",
+                                    "numinlets": 0,
+                                    "numoutlets": 1,
+                                    "outlettype": [
+                                        ""
+                                    ],
+                                    "patching_rect": [
+                                        140,
+                                        628,
+                                        125,
+                                        22
+                                    ],
+                                    "text": "r ctl_bed_particle",
+                                    "varname": "teach_logic_s2_debris_control"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s2_debris_stage_equal",
+                                    "maxclass": "newobj",
+                                    "numinlets": 1,
+                                    "numoutlets": 1,
+                                    "outlettype": [
+                                        ""
+                                    ],
+                                    "patching_rect": [
+                                        20,
+                                        660,
+                                        45,
+                                        22
+                                    ],
+                                    "text": "== 2",
+                                    "varname": "teach_logic_s2_debris_stage_equal"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s2_debris_control_gate",
+                                    "maxclass": "newobj",
+                                    "numinlets": 2,
+                                    "numoutlets": 1,
+                                    "outlettype": [
+                                        ""
+                                    ],
+                                    "patching_rect": [
+                                        140,
+                                        660,
+                                        50,
+                                        22
+                                    ],
+                                    "text": "gate 1",
+                                    "varname": "teach_logic_s2_debris_control_gate"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s2_debris_trigger",
+                                    "maxclass": "newobj",
+                                    "numinlets": 1,
+                                    "numoutlets": 5,
+                                    "outlettype": [
+                                        "bang",
+                                        "bang",
+                                        "bang",
+                                        "bang",
+                                        "bang"
+                                    ],
+                                    "patching_rect": [
+                                        205,
+                                        660,
+                                        80,
+                                        22
+                                    ],
+                                    "text": "t b b b b b",
+                                    "varname": "teach_logic_s2_debris_trigger"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s2_debris_delay_stop",
+                                    "maxclass": "message",
+                                    "numinlets": 2,
+                                    "numoutlets": 1,
+                                    "outlettype": [
+                                        ""
+                                    ],
+                                    "patching_rect": [
+                                        300,
+                                        628,
+                                        42,
+                                        22
+                                    ],
+                                    "text": "stop",
+                                    "varname": "teach_logic_s2_debris_delay_stop"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s2_debris_active_on",
+                                    "maxclass": "message",
+                                    "numinlets": 2,
+                                    "numoutlets": 1,
+                                    "outlettype": [
+                                        ""
+                                    ],
+                                    "patching_rect": [
+                                        355,
+                                        628,
+                                        32,
+                                        22
+                                    ],
+                                    "text": "1",
+                                    "varname": "teach_logic_s2_debris_active_on"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s2_debris_control_send",
+                                    "maxclass": "newobj",
+                                    "numinlets": 1,
+                                    "numoutlets": 0,
+                                    "outlettype": [],
+                                    "patching_rect": [
+                                        400,
+                                        628,
+                                        150,
+                                        22
+                                    ],
+                                    "text": "s teach_s2_debris_control",
+                                    "varname": "teach_logic_s2_debris_control_send"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s2_debris_last_text",
+                                    "maxclass": "message",
+                                    "numinlets": 2,
+                                    "numoutlets": 1,
+                                    "outlettype": [
+                                        ""
+                                    ],
+                                    "patching_rect": [
+                                        300,
+                                        660,
+                                        165,
+                                        22
+                                    ],
+                                    "text": "set S2-06_METAL",
+                                    "varname": "teach_logic_s2_debris_last_text"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s2_debris_delay",
+                                    "maxclass": "newobj",
+                                    "numinlets": 1,
+                                    "numoutlets": 1,
+                                    "outlettype": [
+                                        ""
+                                    ],
+                                    "patching_rect": [
+                                        300,
+                                        692,
+                                        80,
+                                        22
+                                    ],
+                                    "text": "delay 700",
+                                    "varname": "teach_logic_s2_debris_delay"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s2_debris_active_off",
+                                    "maxclass": "message",
+                                    "numinlets": 2,
+                                    "numoutlets": 1,
+                                    "outlettype": [
+                                        ""
+                                    ],
+                                    "patching_rect": [
+                                        395,
+                                        692,
+                                        32,
+                                        22
+                                    ],
+                                    "text": "0",
+                                    "varname": "teach_logic_s2_debris_active_off"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s2_debris_active_send",
+                                    "maxclass": "newobj",
+                                    "numinlets": 1,
+                                    "numoutlets": 0,
+                                    "outlettype": [],
+                                    "patching_rect": [
+                                        440,
+                                        692,
+                                        145,
+                                        22
+                                    ],
+                                    "text": "s teach_s2_debris_active",
+                                    "varname": "teach_logic_s2_debris_active_send"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s3_voice_label",
+                                    "maxclass": "comment",
+                                    "numinlets": 1,
+                                    "numoutlets": 0,
+                                    "patching_rect": [
+                                        590,
+                                        600,
+                                        300,
+                                        20
+                                    ],
+                                    "text": "S3-01 RETURN VOICE 重组语音",
+                                    "varname": "teach_logic_s3_voice_label",
+                                    "fontface": 1
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s3_voice_scene",
+                                    "maxclass": "newobj",
+                                    "numinlets": 0,
+                                    "numoutlets": 1,
+                                    "outlettype": [
+                                        ""
+                                    ],
+                                    "patching_rect": [
+                                        590,
+                                        628,
+                                        105,
+                                        22
+                                    ],
+                                    "text": "r nostos_scene",
+                                    "varname": "teach_logic_s3_voice_scene"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s3_voice_control",
+                                    "maxclass": "newobj",
+                                    "numinlets": 0,
+                                    "numoutlets": 1,
+                                    "outlettype": [
+                                        ""
+                                    ],
+                                    "patching_rect": [
+                                        710,
+                                        628,
+                                        125,
+                                        22
+                                    ],
+                                    "text": "r ctl_auto_voice",
+                                    "varname": "teach_logic_s3_voice_control"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s3_voice_state",
+                                    "maxclass": "newobj",
+                                    "numinlets": 2,
+                                    "numoutlets": 1,
+                                    "outlettype": [
+                                        ""
+                                    ],
+                                    "patching_rect": [
+                                        850,
+                                        628,
+                                        75,
+                                        22
+                                    ],
+                                    "text": "pak 0 0.",
+                                    "varname": "teach_logic_s3_voice_state"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s3_voice_active_expr",
+                                    "maxclass": "newobj",
+                                    "numinlets": 2,
+                                    "numoutlets": 1,
+                                    "outlettype": [
+                                        ""
+                                    ],
+                                    "patching_rect": [
+                                        940,
+                                        628,
+                                        190,
+                                        22
+                                    ],
+                                    "text": "expr ($i1 == 3) && ($f2 > 0.5)",
+                                    "varname": "teach_logic_s3_voice_active_expr"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s3_voice_active_change",
+                                    "maxclass": "newobj",
+                                    "numinlets": 1,
+                                    "numoutlets": 1,
+                                    "outlettype": [
+                                        ""
+                                    ],
+                                    "patching_rect": [
+                                        940,
+                                        660,
+                                        55,
+                                        22
+                                    ],
+                                    "text": "change",
+                                    "varname": "teach_logic_s3_voice_active_change"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s3_voice_active_send",
+                                    "maxclass": "newobj",
+                                    "numinlets": 1,
+                                    "numoutlets": 0,
+                                    "outlettype": [],
+                                    "patching_rect": [
+                                        1010,
+                                        660,
+                                        145,
+                                        22
+                                    ],
+                                    "text": "s teach_s3_voice_active",
+                                    "varname": "teach_logic_s3_voice_active_send"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s3_voice_stage_equal",
+                                    "maxclass": "newobj",
+                                    "numinlets": 1,
+                                    "numoutlets": 1,
+                                    "outlettype": [
+                                        ""
+                                    ],
+                                    "patching_rect": [
+                                        590,
+                                        660,
+                                        45,
+                                        22
+                                    ],
+                                    "text": "== 3",
+                                    "varname": "teach_logic_s3_voice_stage_equal"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s3_voice_control_gate",
+                                    "maxclass": "newobj",
+                                    "numinlets": 2,
+                                    "numoutlets": 1,
+                                    "outlettype": [
+                                        ""
+                                    ],
+                                    "patching_rect": [
+                                        710,
+                                        660,
+                                        50,
+                                        22
+                                    ],
+                                    "text": "gate 1",
+                                    "varname": "teach_logic_s3_voice_control_gate"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s3_voice_control_trigger",
+                                    "maxclass": "newobj",
+                                    "numinlets": 1,
+                                    "numoutlets": 2,
+                                    "outlettype": [
+                                        "bang",
+                                        "bang"
+                                    ],
+                                    "patching_rect": [
+                                        775,
+                                        660,
+                                        45,
+                                        22
+                                    ],
+                                    "text": "t b b",
+                                    "varname": "teach_logic_s3_voice_control_trigger"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s3_voice_control_send",
+                                    "maxclass": "newobj",
+                                    "numinlets": 1,
+                                    "numoutlets": 0,
+                                    "outlettype": [],
+                                    "patching_rect": [
+                                        835,
+                                        692,
+                                        150,
+                                        22
+                                    ],
+                                    "text": "s teach_s3_voice_control",
+                                    "varname": "teach_logic_s3_voice_control_send"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s3_voice_last_text",
+                                    "maxclass": "message",
+                                    "numinlets": 2,
+                                    "numoutlets": 1,
+                                    "outlettype": [
+                                        ""
+                                    ],
+                                    "patching_rect": [
+                                        835,
+                                        660,
+                                        165,
+                                        22
+                                    ],
+                                    "text": "set S3-01_RETURN",
+                                    "varname": "teach_logic_s3_voice_last_text"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s3_oracle_label",
+                                    "maxclass": "comment",
+                                    "numinlets": 1,
+                                    "numoutlets": 0,
+                                    "patching_rect": [
+                                        1160,
+                                        600,
+                                        300,
+                                        20
+                                    ],
+                                    "text": "S3-02 ORACLE OPEN 神谕显现",
+                                    "varname": "teach_logic_s3_oracle_label",
+                                    "fontface": 1
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s3_oracle_scene",
+                                    "maxclass": "newobj",
+                                    "numinlets": 0,
+                                    "numoutlets": 1,
+                                    "outlettype": [
+                                        ""
+                                    ],
+                                    "patching_rect": [
+                                        1160,
+                                        628,
+                                        105,
+                                        22
+                                    ],
+                                    "text": "r nostos_scene",
+                                    "varname": "teach_logic_s3_oracle_scene"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s3_oracle_control",
+                                    "maxclass": "newobj",
+                                    "numinlets": 0,
+                                    "numoutlets": 1,
+                                    "outlettype": [
+                                        ""
+                                    ],
+                                    "patching_rect": [
+                                        1280,
+                                        628,
+                                        125,
+                                        22
+                                    ],
+                                    "text": "r ctl_event_a",
+                                    "varname": "teach_logic_s3_oracle_control"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s3_oracle_stage_equal",
+                                    "maxclass": "newobj",
+                                    "numinlets": 1,
+                                    "numoutlets": 1,
+                                    "outlettype": [
+                                        ""
+                                    ],
+                                    "patching_rect": [
+                                        1160,
+                                        660,
+                                        45,
+                                        22
+                                    ],
+                                    "text": "== 3",
+                                    "varname": "teach_logic_s3_oracle_stage_equal"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s3_oracle_control_gate",
+                                    "maxclass": "newobj",
+                                    "numinlets": 2,
+                                    "numoutlets": 1,
+                                    "outlettype": [
+                                        ""
+                                    ],
+                                    "patching_rect": [
+                                        1280,
+                                        660,
+                                        50,
+                                        22
+                                    ],
+                                    "text": "gate 1",
+                                    "varname": "teach_logic_s3_oracle_control_gate"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s3_oracle_trigger",
+                                    "maxclass": "newobj",
+                                    "numinlets": 1,
+                                    "numoutlets": 5,
+                                    "outlettype": [
+                                        "bang",
+                                        "bang",
+                                        "bang",
+                                        "bang",
+                                        "bang"
+                                    ],
+                                    "patching_rect": [
+                                        1345,
+                                        660,
+                                        80,
+                                        22
+                                    ],
+                                    "text": "t b b b b b",
+                                    "varname": "teach_logic_s3_oracle_trigger"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s3_oracle_delay_stop",
+                                    "maxclass": "message",
+                                    "numinlets": 2,
+                                    "numoutlets": 1,
+                                    "outlettype": [
+                                        ""
+                                    ],
+                                    "patching_rect": [
+                                        1440,
+                                        628,
+                                        42,
+                                        22
+                                    ],
+                                    "text": "stop",
+                                    "varname": "teach_logic_s3_oracle_delay_stop"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s3_oracle_active_on",
+                                    "maxclass": "message",
+                                    "numinlets": 2,
+                                    "numoutlets": 1,
+                                    "outlettype": [
+                                        ""
+                                    ],
+                                    "patching_rect": [
+                                        1495,
+                                        628,
+                                        32,
+                                        22
+                                    ],
+                                    "text": "1",
+                                    "varname": "teach_logic_s3_oracle_active_on"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s3_oracle_control_send",
+                                    "maxclass": "newobj",
+                                    "numinlets": 1,
+                                    "numoutlets": 0,
+                                    "outlettype": [],
+                                    "patching_rect": [
+                                        1540,
+                                        628,
+                                        150,
+                                        22
+                                    ],
+                                    "text": "s teach_s3_oracle_control",
+                                    "varname": "teach_logic_s3_oracle_control_send"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s3_oracle_last_text",
+                                    "maxclass": "message",
+                                    "numinlets": 2,
+                                    "numoutlets": 1,
+                                    "outlettype": [
+                                        ""
+                                    ],
+                                    "patching_rect": [
+                                        1440,
+                                        660,
+                                        165,
+                                        22
+                                    ],
+                                    "text": "set S3-02_ORACLE",
+                                    "varname": "teach_logic_s3_oracle_last_text"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s3_oracle_delay",
+                                    "maxclass": "newobj",
+                                    "numinlets": 1,
+                                    "numoutlets": 1,
+                                    "outlettype": [
+                                        ""
+                                    ],
+                                    "patching_rect": [
+                                        1440,
+                                        692,
+                                        80,
+                                        22
+                                    ],
+                                    "text": "delay 3200",
+                                    "varname": "teach_logic_s3_oracle_delay"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s3_oracle_active_off",
+                                    "maxclass": "message",
+                                    "numinlets": 2,
+                                    "numoutlets": 1,
+                                    "outlettype": [
+                                        ""
+                                    ],
+                                    "patching_rect": [
+                                        1535,
+                                        692,
+                                        32,
+                                        22
+                                    ],
+                                    "text": "0",
+                                    "varname": "teach_logic_s3_oracle_active_off"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s3_oracle_active_send",
+                                    "maxclass": "newobj",
+                                    "numinlets": 1,
+                                    "numoutlets": 0,
+                                    "outlettype": [],
+                                    "patching_rect": [
+                                        1580,
+                                        692,
+                                        145,
+                                        22
+                                    ],
+                                    "text": "s teach_s3_oracle_active",
+                                    "varname": "teach_logic_s3_oracle_active_send"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s3_recall_label",
+                                    "maxclass": "comment",
+                                    "numinlets": 1,
+                                    "numoutlets": 0,
+                                    "patching_rect": [
+                                        20,
+                                        750,
+                                        300,
+                                        20
+                                    ],
+                                    "text": "S3-03 CLEAR RECALL 原句召回",
+                                    "varname": "teach_logic_s3_recall_label",
+                                    "fontface": 1
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s3_recall_scene",
+                                    "maxclass": "newobj",
+                                    "numinlets": 0,
+                                    "numoutlets": 1,
+                                    "outlettype": [
+                                        ""
+                                    ],
+                                    "patching_rect": [
+                                        20,
+                                        778,
+                                        105,
+                                        22
+                                    ],
+                                    "text": "r nostos_scene",
+                                    "varname": "teach_logic_s3_recall_scene"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s3_recall_control",
+                                    "maxclass": "newobj",
+                                    "numinlets": 0,
+                                    "numoutlets": 1,
+                                    "outlettype": [
+                                        ""
+                                    ],
+                                    "patching_rect": [
+                                        140,
+                                        778,
+                                        125,
+                                        22
+                                    ],
+                                    "text": "r ctl_event_b",
+                                    "varname": "teach_logic_s3_recall_control"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s3_recall_stage_equal",
+                                    "maxclass": "newobj",
+                                    "numinlets": 1,
+                                    "numoutlets": 1,
+                                    "outlettype": [
+                                        ""
+                                    ],
+                                    "patching_rect": [
+                                        20,
+                                        810,
+                                        45,
+                                        22
+                                    ],
+                                    "text": "== 3",
+                                    "varname": "teach_logic_s3_recall_stage_equal"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s3_recall_control_gate",
+                                    "maxclass": "newobj",
+                                    "numinlets": 2,
+                                    "numoutlets": 1,
+                                    "outlettype": [
+                                        ""
+                                    ],
+                                    "patching_rect": [
+                                        140,
+                                        810,
+                                        50,
+                                        22
+                                    ],
+                                    "text": "gate 1",
+                                    "varname": "teach_logic_s3_recall_control_gate"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s3_recall_trigger",
+                                    "maxclass": "newobj",
+                                    "numinlets": 1,
+                                    "numoutlets": 5,
+                                    "outlettype": [
+                                        "bang",
+                                        "bang",
+                                        "bang",
+                                        "bang",
+                                        "bang"
+                                    ],
+                                    "patching_rect": [
+                                        205,
+                                        810,
+                                        80,
+                                        22
+                                    ],
+                                    "text": "t b b b b b",
+                                    "varname": "teach_logic_s3_recall_trigger"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s3_recall_delay_stop",
+                                    "maxclass": "message",
+                                    "numinlets": 2,
+                                    "numoutlets": 1,
+                                    "outlettype": [
+                                        ""
+                                    ],
+                                    "patching_rect": [
+                                        300,
+                                        778,
+                                        42,
+                                        22
+                                    ],
+                                    "text": "stop",
+                                    "varname": "teach_logic_s3_recall_delay_stop"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s3_recall_active_on",
+                                    "maxclass": "message",
+                                    "numinlets": 2,
+                                    "numoutlets": 1,
+                                    "outlettype": [
+                                        ""
+                                    ],
+                                    "patching_rect": [
+                                        355,
+                                        778,
+                                        32,
+                                        22
+                                    ],
+                                    "text": "1",
+                                    "varname": "teach_logic_s3_recall_active_on"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s3_recall_control_send",
+                                    "maxclass": "newobj",
+                                    "numinlets": 1,
+                                    "numoutlets": 0,
+                                    "outlettype": [],
+                                    "patching_rect": [
+                                        400,
+                                        778,
+                                        150,
+                                        22
+                                    ],
+                                    "text": "s teach_s3_recall_control",
+                                    "varname": "teach_logic_s3_recall_control_send"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s3_recall_last_text",
+                                    "maxclass": "message",
+                                    "numinlets": 2,
+                                    "numoutlets": 1,
+                                    "outlettype": [
+                                        ""
+                                    ],
+                                    "patching_rect": [
+                                        300,
+                                        810,
+                                        165,
+                                        22
+                                    ],
+                                    "text": "set S3-03_CLEAR",
+                                    "varname": "teach_logic_s3_recall_last_text"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s3_recall_delay",
+                                    "maxclass": "newobj",
+                                    "numinlets": 1,
+                                    "numoutlets": 1,
+                                    "outlettype": [
+                                        ""
+                                    ],
+                                    "patching_rect": [
+                                        300,
+                                        842,
+                                        80,
+                                        22
+                                    ],
+                                    "text": "delay 1900",
+                                    "varname": "teach_logic_s3_recall_delay"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s3_recall_active_off",
+                                    "maxclass": "message",
+                                    "numinlets": 2,
+                                    "numoutlets": 1,
+                                    "outlettype": [
+                                        ""
+                                    ],
+                                    "patching_rect": [
+                                        395,
+                                        842,
+                                        32,
+                                        22
+                                    ],
+                                    "text": "0",
+                                    "varname": "teach_logic_s3_recall_active_off"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s3_recall_active_send",
+                                    "maxclass": "newobj",
+                                    "numinlets": 1,
+                                    "numoutlets": 0,
+                                    "outlettype": [],
+                                    "patching_rect": [
+                                        440,
+                                        842,
+                                        145,
+                                        22
+                                    ],
+                                    "text": "s teach_s3_recall_active",
+                                    "varname": "teach_logic_s3_recall_active_send"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s3_bed_label",
+                                    "maxclass": "comment",
+                                    "numinlets": 1,
+                                    "numoutlets": 0,
+                                    "patching_rect": [
+                                        590,
+                                        750,
+                                        300,
+                                        20
+                                    ],
+                                    "text": "S3-04 WIND/SAND BED 风沙底噪",
+                                    "varname": "teach_logic_s3_bed_label",
+                                    "fontface": 1
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s3_bed_scene",
+                                    "maxclass": "newobj",
+                                    "numinlets": 0,
+                                    "numoutlets": 1,
+                                    "outlettype": [
+                                        ""
+                                    ],
+                                    "patching_rect": [
+                                        590,
+                                        778,
+                                        105,
+                                        22
+                                    ],
+                                    "text": "r nostos_scene",
+                                    "varname": "teach_logic_s3_bed_scene"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s3_bed_control",
+                                    "maxclass": "newobj",
+                                    "numinlets": 0,
+                                    "numoutlets": 1,
+                                    "outlettype": [
+                                        ""
+                                    ],
+                                    "patching_rect": [
+                                        710,
+                                        778,
+                                        125,
+                                        22
+                                    ],
+                                    "text": "r ctl_bed",
+                                    "varname": "teach_logic_s3_bed_control"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s3_bed_state",
+                                    "maxclass": "newobj",
+                                    "numinlets": 2,
+                                    "numoutlets": 1,
+                                    "outlettype": [
+                                        ""
+                                    ],
+                                    "patching_rect": [
+                                        850,
+                                        778,
+                                        75,
+                                        22
+                                    ],
+                                    "text": "pak 0 0.",
+                                    "varname": "teach_logic_s3_bed_state"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s3_bed_active_expr",
+                                    "maxclass": "newobj",
+                                    "numinlets": 2,
+                                    "numoutlets": 1,
+                                    "outlettype": [
+                                        ""
+                                    ],
+                                    "patching_rect": [
+                                        940,
+                                        778,
+                                        190,
+                                        22
+                                    ],
+                                    "text": "expr ($i1 == 3) && ($f2 > 0.01)",
+                                    "varname": "teach_logic_s3_bed_active_expr"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s3_bed_active_change",
+                                    "maxclass": "newobj",
+                                    "numinlets": 1,
+                                    "numoutlets": 1,
+                                    "outlettype": [
+                                        ""
+                                    ],
+                                    "patching_rect": [
+                                        940,
+                                        810,
+                                        55,
+                                        22
+                                    ],
+                                    "text": "change",
+                                    "varname": "teach_logic_s3_bed_active_change"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s3_bed_active_send",
+                                    "maxclass": "newobj",
+                                    "numinlets": 1,
+                                    "numoutlets": 0,
+                                    "outlettype": [],
+                                    "patching_rect": [
+                                        1010,
+                                        810,
+                                        145,
+                                        22
+                                    ],
+                                    "text": "s teach_s3_bed_active",
+                                    "varname": "teach_logic_s3_bed_active_send"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s3_bed_stage_equal",
+                                    "maxclass": "newobj",
+                                    "numinlets": 1,
+                                    "numoutlets": 1,
+                                    "outlettype": [
+                                        ""
+                                    ],
+                                    "patching_rect": [
+                                        590,
+                                        810,
+                                        45,
+                                        22
+                                    ],
+                                    "text": "== 3",
+                                    "varname": "teach_logic_s3_bed_stage_equal"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s3_bed_control_gate",
+                                    "maxclass": "newobj",
+                                    "numinlets": 2,
+                                    "numoutlets": 1,
+                                    "outlettype": [
+                                        ""
+                                    ],
+                                    "patching_rect": [
+                                        710,
+                                        810,
+                                        50,
+                                        22
+                                    ],
+                                    "text": "gate 1",
+                                    "varname": "teach_logic_s3_bed_control_gate"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s3_bed_control_trigger",
+                                    "maxclass": "newobj",
+                                    "numinlets": 1,
+                                    "numoutlets": 2,
+                                    "outlettype": [
+                                        "bang",
+                                        "bang"
+                                    ],
+                                    "patching_rect": [
+                                        775,
+                                        810,
+                                        45,
+                                        22
+                                    ],
+                                    "text": "t b b",
+                                    "varname": "teach_logic_s3_bed_control_trigger"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s3_bed_control_send",
+                                    "maxclass": "newobj",
+                                    "numinlets": 1,
+                                    "numoutlets": 0,
+                                    "outlettype": [],
+                                    "patching_rect": [
+                                        835,
+                                        842,
+                                        150,
+                                        22
+                                    ],
+                                    "text": "s teach_s3_bed_control",
+                                    "varname": "teach_logic_s3_bed_control_send"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s3_bed_last_text",
+                                    "maxclass": "message",
+                                    "numinlets": 2,
+                                    "numoutlets": 1,
+                                    "outlettype": [
+                                        ""
+                                    ],
+                                    "patching_rect": [
+                                        835,
+                                        810,
+                                        165,
+                                        22
+                                    ],
+                                    "text": "set S3-04_WIND/SAND",
+                                    "varname": "teach_logic_s3_bed_last_text"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s3_wave_label",
+                                    "maxclass": "comment",
+                                    "numinlets": 1,
+                                    "numoutlets": 0,
+                                    "patching_rect": [
+                                        1160,
+                                        750,
+                                        300,
+                                        20
+                                    ],
+                                    "text": "S3-05 SAND WAVE 沙浪事件",
+                                    "varname": "teach_logic_s3_wave_label",
+                                    "fontface": 1
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s3_wave_scene",
+                                    "maxclass": "newobj",
+                                    "numinlets": 0,
+                                    "numoutlets": 1,
+                                    "outlettype": [
+                                        ""
+                                    ],
+                                    "patching_rect": [
+                                        1160,
+                                        778,
+                                        105,
+                                        22
+                                    ],
+                                    "text": "r nostos_scene",
+                                    "varname": "teach_logic_s3_wave_scene"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s3_wave_control",
+                                    "maxclass": "newobj",
+                                    "numinlets": 0,
+                                    "numoutlets": 1,
+                                    "outlettype": [
+                                        ""
+                                    ],
+                                    "patching_rect": [
+                                        1280,
+                                        778,
+                                        125,
+                                        22
+                                    ],
+                                    "text": "r ctl_bed_particle",
+                                    "varname": "teach_logic_s3_wave_control"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s3_wave_stage_equal",
+                                    "maxclass": "newobj",
+                                    "numinlets": 1,
+                                    "numoutlets": 1,
+                                    "outlettype": [
+                                        ""
+                                    ],
+                                    "patching_rect": [
+                                        1160,
+                                        810,
+                                        45,
+                                        22
+                                    ],
+                                    "text": "== 3",
+                                    "varname": "teach_logic_s3_wave_stage_equal"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s3_wave_control_gate",
+                                    "maxclass": "newobj",
+                                    "numinlets": 2,
+                                    "numoutlets": 1,
+                                    "outlettype": [
+                                        ""
+                                    ],
+                                    "patching_rect": [
+                                        1280,
+                                        810,
+                                        50,
+                                        22
+                                    ],
+                                    "text": "gate 1",
+                                    "varname": "teach_logic_s3_wave_control_gate"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s3_wave_trigger",
+                                    "maxclass": "newobj",
+                                    "numinlets": 1,
+                                    "numoutlets": 5,
+                                    "outlettype": [
+                                        "bang",
+                                        "bang",
+                                        "bang",
+                                        "bang",
+                                        "bang"
+                                    ],
+                                    "patching_rect": [
+                                        1345,
+                                        810,
+                                        80,
+                                        22
+                                    ],
+                                    "text": "t b b b b b",
+                                    "varname": "teach_logic_s3_wave_trigger"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s3_wave_delay_stop",
+                                    "maxclass": "message",
+                                    "numinlets": 2,
+                                    "numoutlets": 1,
+                                    "outlettype": [
+                                        ""
+                                    ],
+                                    "patching_rect": [
+                                        1440,
+                                        778,
+                                        42,
+                                        22
+                                    ],
+                                    "text": "stop",
+                                    "varname": "teach_logic_s3_wave_delay_stop"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s3_wave_active_on",
+                                    "maxclass": "message",
+                                    "numinlets": 2,
+                                    "numoutlets": 1,
+                                    "outlettype": [
+                                        ""
+                                    ],
+                                    "patching_rect": [
+                                        1495,
+                                        778,
+                                        32,
+                                        22
+                                    ],
+                                    "text": "1",
+                                    "varname": "teach_logic_s3_wave_active_on"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s3_wave_control_send",
+                                    "maxclass": "newobj",
+                                    "numinlets": 1,
+                                    "numoutlets": 0,
+                                    "outlettype": [],
+                                    "patching_rect": [
+                                        1540,
+                                        778,
+                                        150,
+                                        22
+                                    ],
+                                    "text": "s teach_s3_wave_control",
+                                    "varname": "teach_logic_s3_wave_control_send"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s3_wave_last_text",
+                                    "maxclass": "message",
+                                    "numinlets": 2,
+                                    "numoutlets": 1,
+                                    "outlettype": [
+                                        ""
+                                    ],
+                                    "patching_rect": [
+                                        1440,
+                                        810,
+                                        165,
+                                        22
+                                    ],
+                                    "text": "set S3-05_SAND",
+                                    "varname": "teach_logic_s3_wave_last_text"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s3_wave_delay",
+                                    "maxclass": "newobj",
+                                    "numinlets": 1,
+                                    "numoutlets": 1,
+                                    "outlettype": [
+                                        ""
+                                    ],
+                                    "patching_rect": [
+                                        1440,
+                                        842,
+                                        80,
+                                        22
+                                    ],
+                                    "text": "delay 1600",
+                                    "varname": "teach_logic_s3_wave_delay"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s3_wave_active_off",
+                                    "maxclass": "message",
+                                    "numinlets": 2,
+                                    "numoutlets": 1,
+                                    "outlettype": [
+                                        ""
+                                    ],
+                                    "patching_rect": [
+                                        1535,
+                                        842,
+                                        32,
+                                        22
+                                    ],
+                                    "text": "0",
+                                    "varname": "teach_logic_s3_wave_active_off"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_s3_wave_active_send",
+                                    "maxclass": "newobj",
+                                    "numinlets": 1,
+                                    "numoutlets": 0,
+                                    "outlettype": [],
+                                    "patching_rect": [
+                                        1580,
+                                        842,
+                                        145,
+                                        22
+                                    ],
+                                    "text": "s teach_s3_wave_active",
+                                    "varname": "teach_logic_s3_wave_active_send"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_reset_receive",
+                                    "maxclass": "newobj",
+                                    "numinlets": 0,
+                                    "numoutlets": 1,
+                                    "outlettype": [
+                                        ""
+                                    ],
+                                    "patching_rect": [
+                                        20,
+                                        920,
+                                        85,
+                                        22
+                                    ],
+                                    "text": "r ctl_reset",
+                                    "varname": "teach_logic_reset_receive"
+                                }
+                            },
+                            {
+                                "box": {
+                                    "id": "teach_logic_reset_text",
+                                    "maxclass": "message",
+                                    "numinlets": 2,
+                                    "numoutlets": 1,
+                                    "outlettype": [
+                                        ""
+                                    ],
+                                    "patching_rect": [
+                                        125,
+                                        920,
+                                        75,
+                                        22
+                                    ],
+                                    "text": "set RESET",
+                                    "varname": "teach_logic_reset_text"
+                                }
+                            }
+                        ],
+                        "lines": [
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_scene_receive",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_scene_select",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_scene_select",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_scene1_text",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_scene_select",
+                                        1
+                                    ],
+                                    "destination": [
+                                        "teach_logic_scene2_text",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_scene_select",
+                                        2
+                                    ],
+                                    "destination": [
+                                        "teach_logic_scene3_text",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_scene1_text",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_last_event_send",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_scene2_text",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_last_event_send",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_scene3_text",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_last_event_send",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s1_voice_scene",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s1_voice_state",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s1_voice_control",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s1_voice_state",
+                                        1
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s1_voice_state",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s1_voice_active_expr",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s1_voice_active_expr",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s1_voice_active_change",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s1_voice_active_change",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s1_voice_active_send",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s1_voice_scene",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s1_voice_stage_equal",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s1_voice_stage_equal",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s1_voice_control_gate",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s1_voice_control",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s1_voice_control_gate",
+                                        1
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s1_voice_control_gate",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s1_voice_control_trigger",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s1_voice_control_trigger",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s1_voice_last_text",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s1_voice_control_trigger",
+                                        1
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s1_voice_control_send",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s1_voice_last_text",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_last_event_send",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s1_reverse_scene",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s1_reverse_stage_equal",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s1_reverse_stage_equal",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s1_reverse_control_gate",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s1_reverse_control",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s1_reverse_control_gate",
+                                        1
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s1_reverse_control_gate",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s1_reverse_trigger",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s1_reverse_trigger",
+                                        4
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s1_reverse_delay_stop",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s1_reverse_delay_stop",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s1_reverse_delay",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s1_reverse_trigger",
+                                        3
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s1_reverse_active_on",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s1_reverse_active_on",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s1_reverse_active_send",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s1_reverse_trigger",
+                                        2
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s1_reverse_control_send",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s1_reverse_trigger",
+                                        1
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s1_reverse_last_text",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s1_reverse_last_text",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_last_event_send",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s1_reverse_trigger",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s1_reverse_delay",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s1_reverse_delay",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s1_reverse_active_off",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s1_reverse_active_off",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s1_reverse_active_send",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s1_lurch_scene",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s1_lurch_stage_equal",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s1_lurch_stage_equal",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s1_lurch_control_gate",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s1_lurch_control",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s1_lurch_control_gate",
+                                        1
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s1_lurch_control_gate",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s1_lurch_trigger",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s1_lurch_trigger",
+                                        4
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s1_lurch_delay_stop",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s1_lurch_delay_stop",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s1_lurch_delay",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s1_lurch_trigger",
+                                        3
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s1_lurch_active_on",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s1_lurch_active_on",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s1_lurch_active_send",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s1_lurch_trigger",
+                                        2
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s1_lurch_control_send",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s1_lurch_trigger",
+                                        1
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s1_lurch_last_text",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s1_lurch_last_text",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_last_event_send",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s1_lurch_trigger",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s1_lurch_delay",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s1_lurch_delay",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s1_lurch_active_off",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s1_lurch_active_off",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s1_lurch_active_send",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s1_bed_scene",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s1_bed_state",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s1_bed_control",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s1_bed_state",
+                                        1
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s1_bed_state",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s1_bed_active_expr",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s1_bed_active_expr",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s1_bed_active_change",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s1_bed_active_change",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s1_bed_active_send",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s1_bed_scene",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s1_bed_stage_equal",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s1_bed_stage_equal",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s1_bed_control_gate",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s1_bed_control",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s1_bed_control_gate",
+                                        1
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s1_bed_control_gate",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s1_bed_control_trigger",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s1_bed_control_trigger",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s1_bed_last_text",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s1_bed_control_trigger",
+                                        1
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s1_bed_control_send",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s1_bed_last_text",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_last_event_send",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s2_grains_scene",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s2_grains_state",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s2_grains_control",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s2_grains_state",
+                                        1
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s2_grains_state",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s2_grains_active_expr",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s2_grains_active_expr",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s2_grains_active_change",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s2_grains_active_change",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s2_grains_active_send",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s2_grains_scene",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s2_grains_stage_equal",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s2_grains_stage_equal",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s2_grains_control_gate",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s2_grains_control",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s2_grains_control_gate",
+                                        1
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s2_grains_control_gate",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s2_grains_control_trigger",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s2_grains_control_trigger",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s2_grains_last_text",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s2_grains_control_trigger",
+                                        1
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s2_grains_control_send",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s2_grains_last_text",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_last_event_send",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s2_storm_scene",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s2_storm_stage_equal",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s2_storm_stage_equal",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s2_storm_control_gate",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s2_storm_control",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s2_storm_control_gate",
+                                        1
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s2_storm_control_gate",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s2_storm_trigger",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s2_storm_trigger",
+                                        4
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s2_storm_delay_stop",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s2_storm_delay_stop",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s2_storm_delay",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s2_storm_trigger",
+                                        3
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s2_storm_active_on",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s2_storm_active_on",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s2_storm_active_send",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s2_storm_trigger",
+                                        2
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s2_storm_control_send",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s2_storm_trigger",
+                                        1
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s2_storm_last_text",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s2_storm_last_text",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_last_event_send",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s2_storm_trigger",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s2_storm_delay",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s2_storm_delay",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s2_storm_active_off",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s2_storm_active_off",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s2_storm_active_send",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s2_hold_scene",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s2_hold_state",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s2_hold_control",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s2_hold_state",
+                                        1
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s2_hold_state",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s2_hold_active_expr",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s2_hold_active_expr",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s2_hold_active_change",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s2_hold_active_change",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s2_hold_active_send",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s2_hold_scene",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s2_hold_stage_equal",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s2_hold_stage_equal",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s2_hold_control_gate",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s2_hold_control",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s2_hold_control_gate",
+                                        1
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s2_hold_control_gate",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s2_hold_control_trigger",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s2_hold_control_trigger",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s2_hold_last_text",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s2_hold_control_trigger",
+                                        1
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s2_hold_control_send",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s2_hold_last_text",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_last_event_send",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s2_metal_scene",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s2_metal_state",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s2_metal_control",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s2_metal_state",
+                                        1
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s2_metal_state",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s2_metal_active_expr",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s2_metal_active_expr",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s2_metal_active_change",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s2_metal_active_change",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s2_metal_active_send",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s2_metal_scene",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s2_metal_stage_equal",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s2_metal_stage_equal",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s2_metal_control_gate",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s2_metal_control",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s2_metal_control_gate",
+                                        1
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s2_metal_control_gate",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s2_metal_control_trigger",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s2_metal_control_trigger",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s2_metal_last_text",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s2_metal_control_trigger",
+                                        1
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s2_metal_control_send",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s2_metal_last_text",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_last_event_send",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s2_recall_scene",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s2_recall_stage_equal",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s2_recall_stage_equal",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s2_recall_control_gate",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s2_recall_control",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s2_recall_control_gate",
+                                        1
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s2_recall_control_gate",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s2_recall_trigger",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s2_recall_trigger",
+                                        4
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s2_recall_delay_stop",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s2_recall_delay_stop",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s2_recall_delay",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s2_recall_trigger",
+                                        3
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s2_recall_active_on",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s2_recall_active_on",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s2_recall_active_send",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s2_recall_trigger",
+                                        2
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s2_recall_control_send",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s2_recall_trigger",
+                                        1
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s2_recall_last_text",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s2_recall_last_text",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_last_event_send",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s2_recall_trigger",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s2_recall_delay",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s2_recall_delay",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s2_recall_active_off",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s2_recall_active_off",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s2_recall_active_send",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s2_debris_scene",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s2_debris_stage_equal",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s2_debris_stage_equal",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s2_debris_control_gate",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s2_debris_control",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s2_debris_control_gate",
+                                        1
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s2_debris_control_gate",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s2_debris_trigger",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s2_debris_trigger",
+                                        4
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s2_debris_delay_stop",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s2_debris_delay_stop",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s2_debris_delay",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s2_debris_trigger",
+                                        3
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s2_debris_active_on",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s2_debris_active_on",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s2_debris_active_send",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s2_debris_trigger",
+                                        2
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s2_debris_control_send",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s2_debris_trigger",
+                                        1
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s2_debris_last_text",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s2_debris_last_text",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_last_event_send",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s2_debris_trigger",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s2_debris_delay",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s2_debris_delay",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s2_debris_active_off",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s2_debris_active_off",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s2_debris_active_send",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s3_voice_scene",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s3_voice_state",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s3_voice_control",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s3_voice_state",
+                                        1
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s3_voice_state",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s3_voice_active_expr",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s3_voice_active_expr",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s3_voice_active_change",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s3_voice_active_change",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s3_voice_active_send",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s3_voice_scene",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s3_voice_stage_equal",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s3_voice_stage_equal",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s3_voice_control_gate",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s3_voice_control",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s3_voice_control_gate",
+                                        1
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s3_voice_control_gate",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s3_voice_control_trigger",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s3_voice_control_trigger",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s3_voice_last_text",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s3_voice_control_trigger",
+                                        1
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s3_voice_control_send",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s3_voice_last_text",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_last_event_send",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s3_oracle_scene",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s3_oracle_stage_equal",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s3_oracle_stage_equal",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s3_oracle_control_gate",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s3_oracle_control",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s3_oracle_control_gate",
+                                        1
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s3_oracle_control_gate",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s3_oracle_trigger",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s3_oracle_trigger",
+                                        4
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s3_oracle_delay_stop",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s3_oracle_delay_stop",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s3_oracle_delay",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s3_oracle_trigger",
+                                        3
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s3_oracle_active_on",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s3_oracle_active_on",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s3_oracle_active_send",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s3_oracle_trigger",
+                                        2
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s3_oracle_control_send",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s3_oracle_trigger",
+                                        1
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s3_oracle_last_text",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s3_oracle_last_text",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_last_event_send",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s3_oracle_trigger",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s3_oracle_delay",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s3_oracle_delay",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s3_oracle_active_off",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s3_oracle_active_off",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s3_oracle_active_send",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s3_recall_scene",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s3_recall_stage_equal",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s3_recall_stage_equal",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s3_recall_control_gate",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s3_recall_control",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s3_recall_control_gate",
+                                        1
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s3_recall_control_gate",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s3_recall_trigger",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s3_recall_trigger",
+                                        4
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s3_recall_delay_stop",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s3_recall_delay_stop",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s3_recall_delay",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s3_recall_trigger",
+                                        3
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s3_recall_active_on",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s3_recall_active_on",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s3_recall_active_send",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s3_recall_trigger",
+                                        2
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s3_recall_control_send",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s3_recall_trigger",
+                                        1
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s3_recall_last_text",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s3_recall_last_text",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_last_event_send",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s3_recall_trigger",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s3_recall_delay",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s3_recall_delay",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s3_recall_active_off",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s3_recall_active_off",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s3_recall_active_send",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s3_bed_scene",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s3_bed_state",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s3_bed_control",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s3_bed_state",
+                                        1
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s3_bed_state",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s3_bed_active_expr",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s3_bed_active_expr",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s3_bed_active_change",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s3_bed_active_change",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s3_bed_active_send",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s3_bed_scene",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s3_bed_stage_equal",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s3_bed_stage_equal",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s3_bed_control_gate",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s3_bed_control",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s3_bed_control_gate",
+                                        1
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s3_bed_control_gate",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s3_bed_control_trigger",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s3_bed_control_trigger",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s3_bed_last_text",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s3_bed_control_trigger",
+                                        1
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s3_bed_control_send",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s3_bed_last_text",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_last_event_send",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s3_wave_scene",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s3_wave_stage_equal",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s3_wave_stage_equal",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s3_wave_control_gate",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s3_wave_control",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s3_wave_control_gate",
+                                        1
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s3_wave_control_gate",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s3_wave_trigger",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s3_wave_trigger",
+                                        4
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s3_wave_delay_stop",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s3_wave_delay_stop",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s3_wave_delay",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s3_wave_trigger",
+                                        3
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s3_wave_active_on",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s3_wave_active_on",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s3_wave_active_send",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s3_wave_trigger",
+                                        2
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s3_wave_control_send",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s3_wave_trigger",
+                                        1
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s3_wave_last_text",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s3_wave_last_text",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_last_event_send",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s3_wave_trigger",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s3_wave_delay",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s3_wave_delay",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s3_wave_active_off",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_s3_wave_active_off",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s3_wave_active_send",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_reset_receive",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_reset_text",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_reset_text",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_last_event_send",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_reset_receive",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s1_reverse_delay_stop",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_reset_receive",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s1_reverse_active_off",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_reset_receive",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s1_lurch_delay_stop",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_reset_receive",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s1_lurch_active_off",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_reset_receive",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s2_storm_delay_stop",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_reset_receive",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s2_storm_active_off",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_reset_receive",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s2_recall_delay_stop",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_reset_receive",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s2_recall_active_off",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_reset_receive",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s2_debris_delay_stop",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_reset_receive",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s2_debris_active_off",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_reset_receive",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s3_oracle_delay_stop",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_reset_receive",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s3_oracle_active_off",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_reset_receive",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s3_recall_delay_stop",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_reset_receive",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s3_recall_active_off",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_reset_receive",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s3_wave_delay_stop",
+                                        0
+                                    ]
+                                }
+                            },
+                            {
+                                "patchline": {
+                                    "source": [
+                                        "teach_logic_reset_receive",
+                                        0
+                                    ],
+                                    "destination": [
+                                        "teach_logic_s3_wave_active_off",
+                                        0
+                                    ]
+                                }
+                            }
+                        ]
+                    },
+                    "patching_rect": [
+                        2180,
+                        6045,
+                        170,
+                        22
+                    ],
+                    "text": "p teaching_status_logic",
+                    "varname": "teach_status_logic"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_section_label",
+                    "maxclass": "comment",
+                    "numinlets": 1,
+                    "numoutlets": 0,
+                    "patching_rect": [
+                        40,
+                        6030,
+                        1800,
+                        34
+                    ],
+                    "text": "8｜B版教学监视器：从控制到真实声音",
+                    "varname": "teach_section_label",
+                    "fontface": 1,
+                    "fontsize": 20,
+                    "textcolor": [
+                        0.22,
+                        0.48,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_section_help",
+                    "maxclass": "comment",
+                    "numinlets": 1,
+                    "numoutlets": 0,
+                    "patching_rect": [
+                        40,
+                        6075,
+                        1800,
+                        24
+                    ],
+                    "text": "读法：紫灯＝控制消息刚到达；黄灯＝模块处于作用期；绿灯＝作用期内确有音频。峰值为线性振幅0—1。相同编号也标在上方声音模块入口。",
+                    "varname": "teach_section_help"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_legend_control",
+                    "maxclass": "comment",
+                    "numinlets": 1,
+                    "numoutlets": 0,
+                    "patching_rect": [
+                        40,
+                        6110,
+                        110,
+                        22
+                    ],
+                    "text": "● 紫：控制",
+                    "varname": "teach_legend_control",
+                    "fontface": 1,
+                    "textcolor": [
+                        0.72,
+                        0.22,
+                        0.88,
+                        1
+                    ]
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_legend_active",
+                    "maxclass": "comment",
+                    "numinlets": 1,
+                    "numoutlets": 0,
+                    "patching_rect": [
+                        165,
+                        6110,
+                        120,
+                        22
+                    ],
+                    "text": "● 黄：工作中",
+                    "varname": "teach_legend_active",
+                    "fontface": 1,
+                    "textcolor": [
+                        0.96,
+                        0.72,
+                        0.12,
+                        1
+                    ]
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_legend_audio",
+                    "maxclass": "comment",
+                    "numinlets": 1,
+                    "numoutlets": 0,
+                    "patching_rect": [
+                        300,
+                        6110,
+                        120,
+                        22
+                    ],
+                    "text": "● 绿：有声音",
+                    "varname": "teach_legend_audio",
+                    "fontface": 1,
+                    "textcolor": [
+                        0.18,
+                        0.78,
+                        0.34,
+                        1
+                    ]
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_state_stage_label",
+                    "maxclass": "comment",
+                    "numinlets": 1,
+                    "numoutlets": 0,
+                    "patching_rect": [
+                        500,
+                        6105,
+                        110,
+                        20
+                    ],
+                    "text": "STAGE",
+                    "varname": "teach_state_stage_label",
+                    "fontface": 1
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_state_stage_receive",
+                    "maxclass": "newobj",
+                    "numinlets": 0,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        ""
+                    ],
+                    "patching_rect": [
+                        500,
+                        6130,
+                        130,
+                        22
+                    ],
+                    "text": "r nostos_scene",
+                    "varname": "teach_state_stage_receive"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_state_stage_value",
+                    "maxclass": "number",
+                    "numinlets": 1,
+                    "numoutlets": 2,
+                    "outlettype": [
+                        "",
+                        "bang"
+                    ],
+                    "parameter_enable": 0,
+                    "patching_rect": [
+                        640,
+                        6130,
+                        58,
+                        22
+                    ],
+                    "varname": "teach_state_stage_value"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_state_timer_label",
+                    "maxclass": "comment",
+                    "numinlets": 1,
+                    "numoutlets": 0,
+                    "patching_rect": [
+                        705,
+                        6105,
+                        110,
+                        20
+                    ],
+                    "text": "TIME(s)",
+                    "varname": "teach_state_timer_label",
+                    "fontface": 1
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_state_timer_receive",
+                    "maxclass": "newobj",
+                    "numinlets": 0,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        ""
+                    ],
+                    "patching_rect": [
+                        705,
+                        6130,
+                        130,
+                        22
+                    ],
+                    "text": "r nostos_timer_seconds",
+                    "varname": "teach_state_timer_receive"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_state_timer_value",
+                    "maxclass": "number",
+                    "numinlets": 1,
+                    "numoutlets": 2,
+                    "outlettype": [
+                        "",
+                        "bang"
+                    ],
+                    "parameter_enable": 0,
+                    "patching_rect": [
+                        845,
+                        6130,
+                        58,
+                        22
+                    ],
+                    "varname": "teach_state_timer_value"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_state_transform_label",
+                    "maxclass": "comment",
+                    "numinlets": 1,
+                    "numoutlets": 0,
+                    "patching_rect": [
+                        910,
+                        6105,
+                        110,
+                        20
+                    ],
+                    "text": "TRANSFORM",
+                    "varname": "teach_state_transform_label",
+                    "fontface": 1
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_state_transform_receive",
+                    "maxclass": "newobj",
+                    "numinlets": 0,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        ""
+                    ],
+                    "patching_rect": [
+                        910,
+                        6130,
+                        130,
+                        22
+                    ],
+                    "text": "r ctl_transform",
+                    "varname": "teach_state_transform_receive"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_state_transform_value",
+                    "maxclass": "flonum",
+                    "numinlets": 1,
+                    "numoutlets": 2,
+                    "outlettype": [
+                        "",
+                        "bang"
+                    ],
+                    "parameter_enable": 0,
+                    "patching_rect": [
+                        1050,
+                        6130,
+                        58,
+                        22
+                    ],
+                    "varname": "teach_state_transform_value"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_state_density_label",
+                    "maxclass": "comment",
+                    "numinlets": 1,
+                    "numoutlets": 0,
+                    "patching_rect": [
+                        1115,
+                        6105,
+                        110,
+                        20
+                    ],
+                    "text": "DENSITY",
+                    "varname": "teach_state_density_label",
+                    "fontface": 1
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_state_density_receive",
+                    "maxclass": "newobj",
+                    "numinlets": 0,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        ""
+                    ],
+                    "patching_rect": [
+                        1115,
+                        6130,
+                        130,
+                        22
+                    ],
+                    "text": "r ctl_density",
+                    "varname": "teach_state_density_receive"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_state_density_value",
+                    "maxclass": "flonum",
+                    "numinlets": 1,
+                    "numoutlets": 2,
+                    "outlettype": [
+                        "",
+                        "bang"
+                    ],
+                    "parameter_enable": 0,
+                    "patching_rect": [
+                        1255,
+                        6130,
+                        58,
+                        22
+                    ],
+                    "varname": "teach_state_density_value"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_state_voice_label",
+                    "maxclass": "comment",
+                    "numinlets": 1,
+                    "numoutlets": 0,
+                    "patching_rect": [
+                        1320,
+                        6105,
+                        110,
+                        20
+                    ],
+                    "text": "VOICE",
+                    "varname": "teach_state_voice_label",
+                    "fontface": 1
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_state_voice_receive",
+                    "maxclass": "newobj",
+                    "numinlets": 0,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        ""
+                    ],
+                    "patching_rect": [
+                        1320,
+                        6130,
+                        130,
+                        22
+                    ],
+                    "text": "r ctl_voice",
+                    "varname": "teach_state_voice_receive"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_state_voice_value",
+                    "maxclass": "flonum",
+                    "numinlets": 1,
+                    "numoutlets": 2,
+                    "outlettype": [
+                        "",
+                        "bang"
+                    ],
+                    "parameter_enable": 0,
+                    "patching_rect": [
+                        1460,
+                        6130,
+                        58,
+                        22
+                    ],
+                    "varname": "teach_state_voice_value"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_state_bed_label",
+                    "maxclass": "comment",
+                    "numinlets": 1,
+                    "numoutlets": 0,
+                    "patching_rect": [
+                        1525,
+                        6105,
+                        110,
+                        20
+                    ],
+                    "text": "BED",
+                    "varname": "teach_state_bed_label",
+                    "fontface": 1
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_state_bed_receive",
+                    "maxclass": "newobj",
+                    "numinlets": 0,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        ""
+                    ],
+                    "patching_rect": [
+                        1525,
+                        6130,
+                        130,
+                        22
+                    ],
+                    "text": "r ctl_bed",
+                    "varname": "teach_state_bed_receive"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_state_bed_value",
+                    "maxclass": "flonum",
+                    "numinlets": 1,
+                    "numoutlets": 2,
+                    "outlettype": [
+                        "",
+                        "bang"
+                    ],
+                    "parameter_enable": 0,
+                    "patching_rect": [
+                        1665,
+                        6130,
+                        58,
+                        22
+                    ],
+                    "varname": "teach_state_bed_value"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_state_master_label",
+                    "maxclass": "comment",
+                    "numinlets": 1,
+                    "numoutlets": 0,
+                    "patching_rect": [
+                        1730,
+                        6105,
+                        110,
+                        20
+                    ],
+                    "text": "MASTER dB",
+                    "varname": "teach_state_master_label",
+                    "fontface": 1
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_state_master_receive",
+                    "maxclass": "newobj",
+                    "numinlets": 0,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        ""
+                    ],
+                    "patching_rect": [
+                        1730,
+                        6130,
+                        130,
+                        22
+                    ],
+                    "text": "r ctl_master_db",
+                    "varname": "teach_state_master_receive"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_state_master_value",
+                    "maxclass": "flonum",
+                    "numinlets": 1,
+                    "numoutlets": 2,
+                    "outlettype": [
+                        "",
+                        "bang"
+                    ],
+                    "parameter_enable": 0,
+                    "patching_rect": [
+                        1870,
+                        6130,
+                        58,
+                        22
+                    ],
+                    "varname": "teach_state_master_value"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_state_mute_label",
+                    "maxclass": "comment",
+                    "numinlets": 1,
+                    "numoutlets": 0,
+                    "patching_rect": [
+                        1935,
+                        6105,
+                        110,
+                        20
+                    ],
+                    "text": "MUTE",
+                    "varname": "teach_state_mute_label",
+                    "fontface": 1
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_state_mute_receive",
+                    "maxclass": "newobj",
+                    "numinlets": 0,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        ""
+                    ],
+                    "patching_rect": [
+                        1935,
+                        6130,
+                        130,
+                        22
+                    ],
+                    "text": "r ctl_mute",
+                    "varname": "teach_state_mute_receive"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_state_mute_value",
+                    "maxclass": "number",
+                    "numinlets": 1,
+                    "numoutlets": 2,
+                    "outlettype": [
+                        "",
+                        "bang"
+                    ],
+                    "parameter_enable": 0,
+                    "patching_rect": [
+                        2075,
+                        6130,
+                        58,
+                        22
+                    ],
+                    "varname": "teach_state_mute_value"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_last_event_label",
+                    "maxclass": "comment",
+                    "numinlets": 1,
+                    "numoutlets": 0,
+                    "patching_rect": [
+                        40,
+                        6158,
+                        180,
+                        20
+                    ],
+                    "text": "LAST EVENT／最近动作",
+                    "varname": "teach_last_event_label",
+                    "fontface": 1
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_last_event_receive",
+                    "maxclass": "newobj",
+                    "numinlets": 0,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        ""
+                    ],
+                    "patching_rect": [
+                        225,
+                        6156,
+                        130,
+                        22
+                    ],
+                    "text": "r teach_last_event",
+                    "varname": "teach_last_event_receive"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_last_event_display",
+                    "maxclass": "message",
+                    "numinlets": 2,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        ""
+                    ],
+                    "patching_rect": [
+                        370,
+                        6156,
+                        270,
+                        22
+                    ],
+                    "text": "等待场景或事件",
+                    "varname": "teach_last_event_display"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_stage_1_header",
+                    "maxclass": "comment",
+                    "numinlets": 1,
+                    "numoutlets": 0,
+                    "patching_rect": [
+                        40,
+                        6200,
+                        600,
+                        26
+                    ],
+                    "text": "STAGE 1｜出发／战争",
+                    "varname": "teach_stage_1_header",
+                    "fontface": 1,
+                    "fontsize": 16,
+                    "textcolor": [
+                        0.22,
+                        0.48,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s1_voice_label",
+                    "maxclass": "comment",
+                    "numinlets": 1,
+                    "numoutlets": 0,
+                    "patching_rect": [
+                        40,
+                        6240,
+                        255,
+                        22
+                    ],
+                    "text": "S1-01  VOICE LOOP 连续语音",
+                    "varname": "teach_row_s1_voice_label",
+                    "fontface": 1
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s1_voice_control_receive",
+                    "maxclass": "newobj",
+                    "numinlets": 0,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        ""
+                    ],
+                    "patching_rect": [
+                        300,
+                        6240,
+                        145,
+                        22
+                    ],
+                    "text": "r teach_s1_voice_control",
+                    "varname": "teach_row_s1_voice_control_receive"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s1_voice_control_flash",
+                    "maxclass": "button",
+                    "numinlets": 1,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        "bang"
+                    ],
+                    "parameter_enable": 0,
+                    "patching_rect": [
+                        455,
+                        6240,
+                        22,
+                        22
+                    ],
+                    "bgcolor": [
+                        0.22,
+                        0.22,
+                        0.24,
+                        1
+                    ],
+                    "fgcolor": [
+                        0.72,
+                        0.22,
+                        0.88,
+                        1
+                    ],
+                    "varname": "teach_row_s1_voice_control_flash"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s1_voice_active_receive",
+                    "maxclass": "newobj",
+                    "numinlets": 0,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        ""
+                    ],
+                    "patching_rect": [
+                        485,
+                        6240,
+                        140,
+                        22
+                    ],
+                    "text": "r teach_s1_voice_active",
+                    "varname": "teach_row_s1_voice_active_receive"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s1_voice_active_light",
+                    "maxclass": "toggle",
+                    "numinlets": 1,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        "int"
+                    ],
+                    "parameter_enable": 0,
+                    "patching_rect": [
+                        635,
+                        6240,
+                        22,
+                        22
+                    ],
+                    "bgcolor": [
+                        0.22,
+                        0.22,
+                        0.24,
+                        1
+                    ],
+                    "checkedcolor": [
+                        0.96,
+                        0.72,
+                        0.12,
+                        1
+                    ],
+                    "uncheckedcolor": [
+                        0.12,
+                        0.12,
+                        0.13,
+                        1
+                    ],
+                    "varname": "teach_row_s1_voice_active_light"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s1_voice_signal_receive",
+                    "maxclass": "newobj",
+                    "numinlets": 0,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        "signal"
+                    ],
+                    "patching_rect": [
+                        40,
+                        6267,
+                        175,
+                        22
+                    ],
+                    "text": "receive~ teach_s1_voice_sig",
+                    "varname": "teach_row_s1_voice_signal_receive"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s1_voice_meter",
+                    "maxclass": "meter~",
+                    "numinlets": 1,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        "float"
+                    ],
+                    "patching_rect": [
+                        225,
+                        6267,
+                        18,
+                        28
+                    ],
+                    "varname": "teach_row_s1_voice_meter"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s1_voice_peak",
+                    "maxclass": "newobj",
+                    "numinlets": 1,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        "float"
+                    ],
+                    "patching_rect": [
+                        255,
+                        6267,
+                        90,
+                        22
+                    ],
+                    "text": "peakamp~ 100",
+                    "varname": "teach_row_s1_voice_peak"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s1_voice_peak_value",
+                    "maxclass": "flonum",
+                    "numinlets": 1,
+                    "numoutlets": 2,
+                    "outlettype": [
+                        "",
+                        "bang"
+                    ],
+                    "parameter_enable": 0,
+                    "patching_rect": [
+                        355,
+                        6267,
+                        65,
+                        22
+                    ],
+                    "varname": "teach_row_s1_voice_peak_value"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s1_voice_threshold",
+                    "maxclass": "newobj",
+                    "numinlets": 1,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        ""
+                    ],
+                    "patching_rect": [
+                        430,
+                        6267,
+                        60,
+                        22
+                    ],
+                    "text": "> 0.002",
+                    "varname": "teach_row_s1_voice_threshold"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s1_voice_audible_state",
+                    "maxclass": "newobj",
+                    "numinlets": 2,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        ""
+                    ],
+                    "patching_rect": [
+                        500,
+                        6267,
+                        65,
+                        22
+                    ],
+                    "text": "pak 0 0",
+                    "varname": "teach_row_s1_voice_audible_state"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s1_voice_audible_expr",
+                    "maxclass": "newobj",
+                    "numinlets": 2,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        ""
+                    ],
+                    "patching_rect": [
+                        575,
+                        6267,
+                        105,
+                        22
+                    ],
+                    "text": "expr $i1 && $i2",
+                    "varname": "teach_row_s1_voice_audible_expr"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s1_voice_audible_change",
+                    "maxclass": "newobj",
+                    "numinlets": 1,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        ""
+                    ],
+                    "patching_rect": [
+                        690,
+                        6267,
+                        55,
+                        22
+                    ],
+                    "text": "change",
+                    "varname": "teach_row_s1_voice_audible_change"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s1_voice_audio_light",
+                    "maxclass": "toggle",
+                    "numinlets": 1,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        "int"
+                    ],
+                    "parameter_enable": 0,
+                    "patching_rect": [
+                        755,
+                        6267,
+                        22,
+                        22
+                    ],
+                    "bgcolor": [
+                        0.22,
+                        0.22,
+                        0.24,
+                        1
+                    ],
+                    "checkedcolor": [
+                        0.18,
+                        0.78,
+                        0.34,
+                        1
+                    ],
+                    "uncheckedcolor": [
+                        0.12,
+                        0.12,
+                        0.13,
+                        1
+                    ],
+                    "varname": "teach_row_s1_voice_audio_light"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s1_reverse_label",
+                    "maxclass": "comment",
+                    "numinlets": 1,
+                    "numoutlets": 0,
+                    "patching_rect": [
+                        40,
+                        6306,
+                        255,
+                        22
+                    ],
+                    "text": "S1-02  REVERSE 倒放冲击",
+                    "varname": "teach_row_s1_reverse_label",
+                    "fontface": 1
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s1_reverse_control_receive",
+                    "maxclass": "newobj",
+                    "numinlets": 0,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        ""
+                    ],
+                    "patching_rect": [
+                        300,
+                        6306,
+                        145,
+                        22
+                    ],
+                    "text": "r teach_s1_reverse_control",
+                    "varname": "teach_row_s1_reverse_control_receive"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s1_reverse_control_flash",
+                    "maxclass": "button",
+                    "numinlets": 1,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        "bang"
+                    ],
+                    "parameter_enable": 0,
+                    "patching_rect": [
+                        455,
+                        6306,
+                        22,
+                        22
+                    ],
+                    "bgcolor": [
+                        0.22,
+                        0.22,
+                        0.24,
+                        1
+                    ],
+                    "fgcolor": [
+                        0.72,
+                        0.22,
+                        0.88,
+                        1
+                    ],
+                    "varname": "teach_row_s1_reverse_control_flash"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s1_reverse_active_receive",
+                    "maxclass": "newobj",
+                    "numinlets": 0,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        ""
+                    ],
+                    "patching_rect": [
+                        485,
+                        6306,
+                        140,
+                        22
+                    ],
+                    "text": "r teach_s1_reverse_active",
+                    "varname": "teach_row_s1_reverse_active_receive"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s1_reverse_active_light",
+                    "maxclass": "toggle",
+                    "numinlets": 1,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        "int"
+                    ],
+                    "parameter_enable": 0,
+                    "patching_rect": [
+                        635,
+                        6306,
+                        22,
+                        22
+                    ],
+                    "bgcolor": [
+                        0.22,
+                        0.22,
+                        0.24,
+                        1
+                    ],
+                    "checkedcolor": [
+                        0.96,
+                        0.72,
+                        0.12,
+                        1
+                    ],
+                    "uncheckedcolor": [
+                        0.12,
+                        0.12,
+                        0.13,
+                        1
+                    ],
+                    "varname": "teach_row_s1_reverse_active_light"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s1_reverse_signal_receive",
+                    "maxclass": "newobj",
+                    "numinlets": 0,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        "signal"
+                    ],
+                    "patching_rect": [
+                        40,
+                        6333,
+                        175,
+                        22
+                    ],
+                    "text": "receive~ teach_s1_voice_sig",
+                    "varname": "teach_row_s1_reverse_signal_receive"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s1_reverse_meter",
+                    "maxclass": "meter~",
+                    "numinlets": 1,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        "float"
+                    ],
+                    "patching_rect": [
+                        225,
+                        6333,
+                        18,
+                        28
+                    ],
+                    "varname": "teach_row_s1_reverse_meter"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s1_reverse_peak",
+                    "maxclass": "newobj",
+                    "numinlets": 1,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        "float"
+                    ],
+                    "patching_rect": [
+                        255,
+                        6333,
+                        90,
+                        22
+                    ],
+                    "text": "peakamp~ 100",
+                    "varname": "teach_row_s1_reverse_peak"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s1_reverse_peak_value",
+                    "maxclass": "flonum",
+                    "numinlets": 1,
+                    "numoutlets": 2,
+                    "outlettype": [
+                        "",
+                        "bang"
+                    ],
+                    "parameter_enable": 0,
+                    "patching_rect": [
+                        355,
+                        6333,
+                        65,
+                        22
+                    ],
+                    "varname": "teach_row_s1_reverse_peak_value"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s1_reverse_threshold",
+                    "maxclass": "newobj",
+                    "numinlets": 1,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        ""
+                    ],
+                    "patching_rect": [
+                        430,
+                        6333,
+                        60,
+                        22
+                    ],
+                    "text": "> 0.002",
+                    "varname": "teach_row_s1_reverse_threshold"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s1_reverse_audible_state",
+                    "maxclass": "newobj",
+                    "numinlets": 2,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        ""
+                    ],
+                    "patching_rect": [
+                        500,
+                        6333,
+                        65,
+                        22
+                    ],
+                    "text": "pak 0 0",
+                    "varname": "teach_row_s1_reverse_audible_state"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s1_reverse_audible_expr",
+                    "maxclass": "newobj",
+                    "numinlets": 2,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        ""
+                    ],
+                    "patching_rect": [
+                        575,
+                        6333,
+                        105,
+                        22
+                    ],
+                    "text": "expr $i1 && $i2",
+                    "varname": "teach_row_s1_reverse_audible_expr"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s1_reverse_audible_change",
+                    "maxclass": "newobj",
+                    "numinlets": 1,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        ""
+                    ],
+                    "patching_rect": [
+                        690,
+                        6333,
+                        55,
+                        22
+                    ],
+                    "text": "change",
+                    "varname": "teach_row_s1_reverse_audible_change"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s1_reverse_audio_light",
+                    "maxclass": "toggle",
+                    "numinlets": 1,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        "int"
+                    ],
+                    "parameter_enable": 0,
+                    "patching_rect": [
+                        755,
+                        6333,
+                        22,
+                        22
+                    ],
+                    "bgcolor": [
+                        0.22,
+                        0.22,
+                        0.24,
+                        1
+                    ],
+                    "checkedcolor": [
+                        0.18,
+                        0.78,
+                        0.34,
+                        1
+                    ],
+                    "uncheckedcolor": [
+                        0.12,
+                        0.12,
+                        0.13,
+                        1
+                    ],
+                    "varname": "teach_row_s1_reverse_audio_light"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s1_lurch_label",
+                    "maxclass": "comment",
+                    "numinlets": 1,
+                    "numoutlets": 0,
+                    "patching_rect": [
+                        40,
+                        6372,
+                        255,
+                        22
+                    ],
+                    "text": "S1-03  LURCH 短暂失速",
+                    "varname": "teach_row_s1_lurch_label",
+                    "fontface": 1
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s1_lurch_control_receive",
+                    "maxclass": "newobj",
+                    "numinlets": 0,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        ""
+                    ],
+                    "patching_rect": [
+                        300,
+                        6372,
+                        145,
+                        22
+                    ],
+                    "text": "r teach_s1_lurch_control",
+                    "varname": "teach_row_s1_lurch_control_receive"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s1_lurch_control_flash",
+                    "maxclass": "button",
+                    "numinlets": 1,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        "bang"
+                    ],
+                    "parameter_enable": 0,
+                    "patching_rect": [
+                        455,
+                        6372,
+                        22,
+                        22
+                    ],
+                    "bgcolor": [
+                        0.22,
+                        0.22,
+                        0.24,
+                        1
+                    ],
+                    "fgcolor": [
+                        0.72,
+                        0.22,
+                        0.88,
+                        1
+                    ],
+                    "varname": "teach_row_s1_lurch_control_flash"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s1_lurch_active_receive",
+                    "maxclass": "newobj",
+                    "numinlets": 0,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        ""
+                    ],
+                    "patching_rect": [
+                        485,
+                        6372,
+                        140,
+                        22
+                    ],
+                    "text": "r teach_s1_lurch_active",
+                    "varname": "teach_row_s1_lurch_active_receive"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s1_lurch_active_light",
+                    "maxclass": "toggle",
+                    "numinlets": 1,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        "int"
+                    ],
+                    "parameter_enable": 0,
+                    "patching_rect": [
+                        635,
+                        6372,
+                        22,
+                        22
+                    ],
+                    "bgcolor": [
+                        0.22,
+                        0.22,
+                        0.24,
+                        1
+                    ],
+                    "checkedcolor": [
+                        0.96,
+                        0.72,
+                        0.12,
+                        1
+                    ],
+                    "uncheckedcolor": [
+                        0.12,
+                        0.12,
+                        0.13,
+                        1
+                    ],
+                    "varname": "teach_row_s1_lurch_active_light"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s1_lurch_signal_receive",
+                    "maxclass": "newobj",
+                    "numinlets": 0,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        "signal"
+                    ],
+                    "patching_rect": [
+                        40,
+                        6399,
+                        175,
+                        22
+                    ],
+                    "text": "receive~ teach_s1_voice_sig",
+                    "varname": "teach_row_s1_lurch_signal_receive"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s1_lurch_meter",
+                    "maxclass": "meter~",
+                    "numinlets": 1,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        "float"
+                    ],
+                    "patching_rect": [
+                        225,
+                        6399,
+                        18,
+                        28
+                    ],
+                    "varname": "teach_row_s1_lurch_meter"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s1_lurch_peak",
+                    "maxclass": "newobj",
+                    "numinlets": 1,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        "float"
+                    ],
+                    "patching_rect": [
+                        255,
+                        6399,
+                        90,
+                        22
+                    ],
+                    "text": "peakamp~ 100",
+                    "varname": "teach_row_s1_lurch_peak"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s1_lurch_peak_value",
+                    "maxclass": "flonum",
+                    "numinlets": 1,
+                    "numoutlets": 2,
+                    "outlettype": [
+                        "",
+                        "bang"
+                    ],
+                    "parameter_enable": 0,
+                    "patching_rect": [
+                        355,
+                        6399,
+                        65,
+                        22
+                    ],
+                    "varname": "teach_row_s1_lurch_peak_value"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s1_lurch_threshold",
+                    "maxclass": "newobj",
+                    "numinlets": 1,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        ""
+                    ],
+                    "patching_rect": [
+                        430,
+                        6399,
+                        60,
+                        22
+                    ],
+                    "text": "> 0.002",
+                    "varname": "teach_row_s1_lurch_threshold"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s1_lurch_audible_state",
+                    "maxclass": "newobj",
+                    "numinlets": 2,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        ""
+                    ],
+                    "patching_rect": [
+                        500,
+                        6399,
+                        65,
+                        22
+                    ],
+                    "text": "pak 0 0",
+                    "varname": "teach_row_s1_lurch_audible_state"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s1_lurch_audible_expr",
+                    "maxclass": "newobj",
+                    "numinlets": 2,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        ""
+                    ],
+                    "patching_rect": [
+                        575,
+                        6399,
+                        105,
+                        22
+                    ],
+                    "text": "expr $i1 && $i2",
+                    "varname": "teach_row_s1_lurch_audible_expr"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s1_lurch_audible_change",
+                    "maxclass": "newobj",
+                    "numinlets": 1,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        ""
+                    ],
+                    "patching_rect": [
+                        690,
+                        6399,
+                        55,
+                        22
+                    ],
+                    "text": "change",
+                    "varname": "teach_row_s1_lurch_audible_change"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s1_lurch_audio_light",
+                    "maxclass": "toggle",
+                    "numinlets": 1,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        "int"
+                    ],
+                    "parameter_enable": 0,
+                    "patching_rect": [
+                        755,
+                        6399,
+                        22,
+                        22
+                    ],
+                    "bgcolor": [
+                        0.22,
+                        0.22,
+                        0.24,
+                        1
+                    ],
+                    "checkedcolor": [
+                        0.18,
+                        0.78,
+                        0.34,
+                        1
+                    ],
+                    "uncheckedcolor": [
+                        0.12,
+                        0.12,
+                        0.13,
+                        1
+                    ],
+                    "varname": "teach_row_s1_lurch_audio_light"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s1_bed_label",
+                    "maxclass": "comment",
+                    "numinlets": 1,
+                    "numoutlets": 0,
+                    "patching_rect": [
+                        40,
+                        6438,
+                        255,
+                        22
+                    ],
+                    "text": "S1-04  MARCH BED 战争脉动",
+                    "varname": "teach_row_s1_bed_label",
+                    "fontface": 1
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s1_bed_control_receive",
+                    "maxclass": "newobj",
+                    "numinlets": 0,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        ""
+                    ],
+                    "patching_rect": [
+                        300,
+                        6438,
+                        145,
+                        22
+                    ],
+                    "text": "r teach_s1_bed_control",
+                    "varname": "teach_row_s1_bed_control_receive"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s1_bed_control_flash",
+                    "maxclass": "button",
+                    "numinlets": 1,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        "bang"
+                    ],
+                    "parameter_enable": 0,
+                    "patching_rect": [
+                        455,
+                        6438,
+                        22,
+                        22
+                    ],
+                    "bgcolor": [
+                        0.22,
+                        0.22,
+                        0.24,
+                        1
+                    ],
+                    "fgcolor": [
+                        0.72,
+                        0.22,
+                        0.88,
+                        1
+                    ],
+                    "varname": "teach_row_s1_bed_control_flash"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s1_bed_active_receive",
+                    "maxclass": "newobj",
+                    "numinlets": 0,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        ""
+                    ],
+                    "patching_rect": [
+                        485,
+                        6438,
+                        140,
+                        22
+                    ],
+                    "text": "r teach_s1_bed_active",
+                    "varname": "teach_row_s1_bed_active_receive"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s1_bed_active_light",
+                    "maxclass": "toggle",
+                    "numinlets": 1,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        "int"
+                    ],
+                    "parameter_enable": 0,
+                    "patching_rect": [
+                        635,
+                        6438,
+                        22,
+                        22
+                    ],
+                    "bgcolor": [
+                        0.22,
+                        0.22,
+                        0.24,
+                        1
+                    ],
+                    "checkedcolor": [
+                        0.96,
+                        0.72,
+                        0.12,
+                        1
+                    ],
+                    "uncheckedcolor": [
+                        0.12,
+                        0.12,
+                        0.13,
+                        1
+                    ],
+                    "varname": "teach_row_s1_bed_active_light"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s1_bed_signal_receive",
+                    "maxclass": "newobj",
+                    "numinlets": 0,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        "signal"
+                    ],
+                    "patching_rect": [
+                        40,
+                        6465,
+                        175,
+                        22
+                    ],
+                    "text": "receive~ teach_s1_bed_sig",
+                    "varname": "teach_row_s1_bed_signal_receive"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s1_bed_meter",
+                    "maxclass": "meter~",
+                    "numinlets": 1,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        "float"
+                    ],
+                    "patching_rect": [
+                        225,
+                        6465,
+                        18,
+                        28
+                    ],
+                    "varname": "teach_row_s1_bed_meter"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s1_bed_peak",
+                    "maxclass": "newobj",
+                    "numinlets": 1,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        "float"
+                    ],
+                    "patching_rect": [
+                        255,
+                        6465,
+                        90,
+                        22
+                    ],
+                    "text": "peakamp~ 100",
+                    "varname": "teach_row_s1_bed_peak"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s1_bed_peak_value",
+                    "maxclass": "flonum",
+                    "numinlets": 1,
+                    "numoutlets": 2,
+                    "outlettype": [
+                        "",
+                        "bang"
+                    ],
+                    "parameter_enable": 0,
+                    "patching_rect": [
+                        355,
+                        6465,
+                        65,
+                        22
+                    ],
+                    "varname": "teach_row_s1_bed_peak_value"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s1_bed_threshold",
+                    "maxclass": "newobj",
+                    "numinlets": 1,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        ""
+                    ],
+                    "patching_rect": [
+                        430,
+                        6465,
+                        60,
+                        22
+                    ],
+                    "text": "> 0.002",
+                    "varname": "teach_row_s1_bed_threshold"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s1_bed_audible_state",
+                    "maxclass": "newobj",
+                    "numinlets": 2,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        ""
+                    ],
+                    "patching_rect": [
+                        500,
+                        6465,
+                        65,
+                        22
+                    ],
+                    "text": "pak 0 0",
+                    "varname": "teach_row_s1_bed_audible_state"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s1_bed_audible_expr",
+                    "maxclass": "newobj",
+                    "numinlets": 2,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        ""
+                    ],
+                    "patching_rect": [
+                        575,
+                        6465,
+                        105,
+                        22
+                    ],
+                    "text": "expr $i1 && $i2",
+                    "varname": "teach_row_s1_bed_audible_expr"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s1_bed_audible_change",
+                    "maxclass": "newobj",
+                    "numinlets": 1,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        ""
+                    ],
+                    "patching_rect": [
+                        690,
+                        6465,
+                        55,
+                        22
+                    ],
+                    "text": "change",
+                    "varname": "teach_row_s1_bed_audible_change"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s1_bed_audio_light",
+                    "maxclass": "toggle",
+                    "numinlets": 1,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        "int"
+                    ],
+                    "parameter_enable": 0,
+                    "patching_rect": [
+                        755,
+                        6465,
+                        22,
+                        22
+                    ],
+                    "bgcolor": [
+                        0.22,
+                        0.22,
+                        0.24,
+                        1
+                    ],
+                    "checkedcolor": [
+                        0.18,
+                        0.78,
+                        0.34,
+                        1
+                    ],
+                    "uncheckedcolor": [
+                        0.12,
+                        0.12,
+                        0.13,
+                        1
+                    ],
+                    "varname": "teach_row_s1_bed_audio_light"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_stage_2_header",
+                    "maxclass": "comment",
+                    "numinlets": 1,
+                    "numoutlets": 0,
+                    "patching_rect": [
+                        820,
+                        6200,
+                        600,
+                        26
+                    ],
+                    "text": "STAGE 2｜破碎／漂流",
+                    "varname": "teach_stage_2_header",
+                    "fontface": 1,
+                    "fontsize": 16,
+                    "textcolor": [
+                        0.22,
+                        0.48,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s2_grains_label",
+                    "maxclass": "comment",
+                    "numinlets": 1,
+                    "numoutlets": 0,
+                    "patching_rect": [
+                        820,
+                        6240,
+                        255,
+                        22
+                    ],
+                    "text": "S2-01  AUTO GRAINS 自动粒子",
+                    "varname": "teach_row_s2_grains_label",
+                    "fontface": 1
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s2_grains_control_receive",
+                    "maxclass": "newobj",
+                    "numinlets": 0,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        ""
+                    ],
+                    "patching_rect": [
+                        1080,
+                        6240,
+                        145,
+                        22
+                    ],
+                    "text": "r teach_s2_grains_control",
+                    "varname": "teach_row_s2_grains_control_receive"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s2_grains_control_flash",
+                    "maxclass": "button",
+                    "numinlets": 1,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        "bang"
+                    ],
+                    "parameter_enable": 0,
+                    "patching_rect": [
+                        1235,
+                        6240,
+                        22,
+                        22
+                    ],
+                    "bgcolor": [
+                        0.22,
+                        0.22,
+                        0.24,
+                        1
+                    ],
+                    "fgcolor": [
+                        0.72,
+                        0.22,
+                        0.88,
+                        1
+                    ],
+                    "varname": "teach_row_s2_grains_control_flash"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s2_grains_active_receive",
+                    "maxclass": "newobj",
+                    "numinlets": 0,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        ""
+                    ],
+                    "patching_rect": [
+                        1265,
+                        6240,
+                        140,
+                        22
+                    ],
+                    "text": "r teach_s2_grains_active",
+                    "varname": "teach_row_s2_grains_active_receive"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s2_grains_active_light",
+                    "maxclass": "toggle",
+                    "numinlets": 1,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        "int"
+                    ],
+                    "parameter_enable": 0,
+                    "patching_rect": [
+                        1415,
+                        6240,
+                        22,
+                        22
+                    ],
+                    "bgcolor": [
+                        0.22,
+                        0.22,
+                        0.24,
+                        1
+                    ],
+                    "checkedcolor": [
+                        0.96,
+                        0.72,
+                        0.12,
+                        1
+                    ],
+                    "uncheckedcolor": [
+                        0.12,
+                        0.12,
+                        0.13,
+                        1
+                    ],
+                    "varname": "teach_row_s2_grains_active_light"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s2_grains_signal_receive",
+                    "maxclass": "newobj",
+                    "numinlets": 0,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        "signal"
+                    ],
+                    "patching_rect": [
+                        820,
+                        6267,
+                        175,
+                        22
+                    ],
+                    "text": "receive~ teach_s2_grain_sig",
+                    "varname": "teach_row_s2_grains_signal_receive"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s2_grains_meter",
+                    "maxclass": "meter~",
+                    "numinlets": 1,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        "float"
+                    ],
+                    "patching_rect": [
+                        1005,
+                        6267,
+                        18,
+                        28
+                    ],
+                    "varname": "teach_row_s2_grains_meter"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s2_grains_peak",
+                    "maxclass": "newobj",
+                    "numinlets": 1,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        "float"
+                    ],
+                    "patching_rect": [
+                        1035,
+                        6267,
+                        90,
+                        22
+                    ],
+                    "text": "peakamp~ 100",
+                    "varname": "teach_row_s2_grains_peak"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s2_grains_peak_value",
+                    "maxclass": "flonum",
+                    "numinlets": 1,
+                    "numoutlets": 2,
+                    "outlettype": [
+                        "",
+                        "bang"
+                    ],
+                    "parameter_enable": 0,
+                    "patching_rect": [
+                        1135,
+                        6267,
+                        65,
+                        22
+                    ],
+                    "varname": "teach_row_s2_grains_peak_value"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s2_grains_threshold",
+                    "maxclass": "newobj",
+                    "numinlets": 1,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        ""
+                    ],
+                    "patching_rect": [
+                        1210,
+                        6267,
+                        60,
+                        22
+                    ],
+                    "text": "> 0.002",
+                    "varname": "teach_row_s2_grains_threshold"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s2_grains_audible_state",
+                    "maxclass": "newobj",
+                    "numinlets": 2,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        ""
+                    ],
+                    "patching_rect": [
+                        1280,
+                        6267,
+                        65,
+                        22
+                    ],
+                    "text": "pak 0 0",
+                    "varname": "teach_row_s2_grains_audible_state"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s2_grains_audible_expr",
+                    "maxclass": "newobj",
+                    "numinlets": 2,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        ""
+                    ],
+                    "patching_rect": [
+                        1355,
+                        6267,
+                        105,
+                        22
+                    ],
+                    "text": "expr $i1 && $i2",
+                    "varname": "teach_row_s2_grains_audible_expr"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s2_grains_audible_change",
+                    "maxclass": "newobj",
+                    "numinlets": 1,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        ""
+                    ],
+                    "patching_rect": [
+                        1470,
+                        6267,
+                        55,
+                        22
+                    ],
+                    "text": "change",
+                    "varname": "teach_row_s2_grains_audible_change"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s2_grains_audio_light",
+                    "maxclass": "toggle",
+                    "numinlets": 1,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        "int"
+                    ],
+                    "parameter_enable": 0,
+                    "patching_rect": [
+                        1535,
+                        6267,
+                        22,
+                        22
+                    ],
+                    "bgcolor": [
+                        0.22,
+                        0.22,
+                        0.24,
+                        1
+                    ],
+                    "checkedcolor": [
+                        0.18,
+                        0.78,
+                        0.34,
+                        1
+                    ],
+                    "uncheckedcolor": [
+                        0.12,
+                        0.12,
+                        0.13,
+                        1
+                    ],
+                    "varname": "teach_row_s2_grains_audio_light"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s2_storm_label",
+                    "maxclass": "comment",
+                    "numinlets": 1,
+                    "numoutlets": 0,
+                    "patching_rect": [
+                        820,
+                        6306,
+                        255,
+                        22
+                    ],
+                    "text": "S2-02  PARTICLE STORM 粒子风暴",
+                    "varname": "teach_row_s2_storm_label",
+                    "fontface": 1
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s2_storm_control_receive",
+                    "maxclass": "newobj",
+                    "numinlets": 0,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        ""
+                    ],
+                    "patching_rect": [
+                        1080,
+                        6306,
+                        145,
+                        22
+                    ],
+                    "text": "r teach_s2_storm_control",
+                    "varname": "teach_row_s2_storm_control_receive"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s2_storm_control_flash",
+                    "maxclass": "button",
+                    "numinlets": 1,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        "bang"
+                    ],
+                    "parameter_enable": 0,
+                    "patching_rect": [
+                        1235,
+                        6306,
+                        22,
+                        22
+                    ],
+                    "bgcolor": [
+                        0.22,
+                        0.22,
+                        0.24,
+                        1
+                    ],
+                    "fgcolor": [
+                        0.72,
+                        0.22,
+                        0.88,
+                        1
+                    ],
+                    "varname": "teach_row_s2_storm_control_flash"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s2_storm_active_receive",
+                    "maxclass": "newobj",
+                    "numinlets": 0,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        ""
+                    ],
+                    "patching_rect": [
+                        1265,
+                        6306,
+                        140,
+                        22
+                    ],
+                    "text": "r teach_s2_storm_active",
+                    "varname": "teach_row_s2_storm_active_receive"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s2_storm_active_light",
+                    "maxclass": "toggle",
+                    "numinlets": 1,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        "int"
+                    ],
+                    "parameter_enable": 0,
+                    "patching_rect": [
+                        1415,
+                        6306,
+                        22,
+                        22
+                    ],
+                    "bgcolor": [
+                        0.22,
+                        0.22,
+                        0.24,
+                        1
+                    ],
+                    "checkedcolor": [
+                        0.96,
+                        0.72,
+                        0.12,
+                        1
+                    ],
+                    "uncheckedcolor": [
+                        0.12,
+                        0.12,
+                        0.13,
+                        1
+                    ],
+                    "varname": "teach_row_s2_storm_active_light"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s2_storm_signal_receive",
+                    "maxclass": "newobj",
+                    "numinlets": 0,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        "signal"
+                    ],
+                    "patching_rect": [
+                        820,
+                        6333,
+                        175,
+                        22
+                    ],
+                    "text": "receive~ teach_s2_grain_sig",
+                    "varname": "teach_row_s2_storm_signal_receive"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s2_storm_meter",
+                    "maxclass": "meter~",
+                    "numinlets": 1,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        "float"
+                    ],
+                    "patching_rect": [
+                        1005,
+                        6333,
+                        18,
+                        28
+                    ],
+                    "varname": "teach_row_s2_storm_meter"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s2_storm_peak",
+                    "maxclass": "newobj",
+                    "numinlets": 1,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        "float"
+                    ],
+                    "patching_rect": [
+                        1035,
+                        6333,
+                        90,
+                        22
+                    ],
+                    "text": "peakamp~ 100",
+                    "varname": "teach_row_s2_storm_peak"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s2_storm_peak_value",
+                    "maxclass": "flonum",
+                    "numinlets": 1,
+                    "numoutlets": 2,
+                    "outlettype": [
+                        "",
+                        "bang"
+                    ],
+                    "parameter_enable": 0,
+                    "patching_rect": [
+                        1135,
+                        6333,
+                        65,
+                        22
+                    ],
+                    "varname": "teach_row_s2_storm_peak_value"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s2_storm_threshold",
+                    "maxclass": "newobj",
+                    "numinlets": 1,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        ""
+                    ],
+                    "patching_rect": [
+                        1210,
+                        6333,
+                        60,
+                        22
+                    ],
+                    "text": "> 0.002",
+                    "varname": "teach_row_s2_storm_threshold"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s2_storm_audible_state",
+                    "maxclass": "newobj",
+                    "numinlets": 2,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        ""
+                    ],
+                    "patching_rect": [
+                        1280,
+                        6333,
+                        65,
+                        22
+                    ],
+                    "text": "pak 0 0",
+                    "varname": "teach_row_s2_storm_audible_state"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s2_storm_audible_expr",
+                    "maxclass": "newobj",
+                    "numinlets": 2,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        ""
+                    ],
+                    "patching_rect": [
+                        1355,
+                        6333,
+                        105,
+                        22
+                    ],
+                    "text": "expr $i1 && $i2",
+                    "varname": "teach_row_s2_storm_audible_expr"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s2_storm_audible_change",
+                    "maxclass": "newobj",
+                    "numinlets": 1,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        ""
+                    ],
+                    "patching_rect": [
+                        1470,
+                        6333,
+                        55,
+                        22
+                    ],
+                    "text": "change",
+                    "varname": "teach_row_s2_storm_audible_change"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s2_storm_audio_light",
+                    "maxclass": "toggle",
+                    "numinlets": 1,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        "int"
+                    ],
+                    "parameter_enable": 0,
+                    "patching_rect": [
+                        1535,
+                        6333,
+                        22,
+                        22
+                    ],
+                    "bgcolor": [
+                        0.22,
+                        0.22,
+                        0.24,
+                        1
+                    ],
+                    "checkedcolor": [
+                        0.18,
+                        0.78,
+                        0.34,
+                        1
+                    ],
+                    "uncheckedcolor": [
+                        0.12,
+                        0.12,
+                        0.13,
+                        1
+                    ],
+                    "varname": "teach_row_s2_storm_audio_light"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s2_hold_label",
+                    "maxclass": "comment",
+                    "numinlets": 1,
+                    "numoutlets": 0,
+                    "patching_rect": [
+                        820,
+                        6372,
+                        255,
+                        22
+                    ],
+                    "text": "S2-03  HOLD LOOP 抓取残片",
+                    "varname": "teach_row_s2_hold_label",
+                    "fontface": 1
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s2_hold_control_receive",
+                    "maxclass": "newobj",
+                    "numinlets": 0,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        ""
+                    ],
+                    "patching_rect": [
+                        1080,
+                        6372,
+                        145,
+                        22
+                    ],
+                    "text": "r teach_s2_hold_control",
+                    "varname": "teach_row_s2_hold_control_receive"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s2_hold_control_flash",
+                    "maxclass": "button",
+                    "numinlets": 1,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        "bang"
+                    ],
+                    "parameter_enable": 0,
+                    "patching_rect": [
+                        1235,
+                        6372,
+                        22,
+                        22
+                    ],
+                    "bgcolor": [
+                        0.22,
+                        0.22,
+                        0.24,
+                        1
+                    ],
+                    "fgcolor": [
+                        0.72,
+                        0.22,
+                        0.88,
+                        1
+                    ],
+                    "varname": "teach_row_s2_hold_control_flash"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s2_hold_active_receive",
+                    "maxclass": "newobj",
+                    "numinlets": 0,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        ""
+                    ],
+                    "patching_rect": [
+                        1265,
+                        6372,
+                        140,
+                        22
+                    ],
+                    "text": "r teach_s2_hold_active",
+                    "varname": "teach_row_s2_hold_active_receive"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s2_hold_active_light",
+                    "maxclass": "toggle",
+                    "numinlets": 1,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        "int"
+                    ],
+                    "parameter_enable": 0,
+                    "patching_rect": [
+                        1415,
+                        6372,
+                        22,
+                        22
+                    ],
+                    "bgcolor": [
+                        0.22,
+                        0.22,
+                        0.24,
+                        1
+                    ],
+                    "checkedcolor": [
+                        0.96,
+                        0.72,
+                        0.12,
+                        1
+                    ],
+                    "uncheckedcolor": [
+                        0.12,
+                        0.12,
+                        0.13,
+                        1
+                    ],
+                    "varname": "teach_row_s2_hold_active_light"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s2_hold_signal_receive",
+                    "maxclass": "newobj",
+                    "numinlets": 0,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        "signal"
+                    ],
+                    "patching_rect": [
+                        820,
+                        6399,
+                        175,
+                        22
+                    ],
+                    "text": "receive~ teach_s2_hold_sig",
+                    "varname": "teach_row_s2_hold_signal_receive"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s2_hold_meter",
+                    "maxclass": "meter~",
+                    "numinlets": 1,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        "float"
+                    ],
+                    "patching_rect": [
+                        1005,
+                        6399,
+                        18,
+                        28
+                    ],
+                    "varname": "teach_row_s2_hold_meter"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s2_hold_peak",
+                    "maxclass": "newobj",
+                    "numinlets": 1,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        "float"
+                    ],
+                    "patching_rect": [
+                        1035,
+                        6399,
+                        90,
+                        22
+                    ],
+                    "text": "peakamp~ 100",
+                    "varname": "teach_row_s2_hold_peak"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s2_hold_peak_value",
+                    "maxclass": "flonum",
+                    "numinlets": 1,
+                    "numoutlets": 2,
+                    "outlettype": [
+                        "",
+                        "bang"
+                    ],
+                    "parameter_enable": 0,
+                    "patching_rect": [
+                        1135,
+                        6399,
+                        65,
+                        22
+                    ],
+                    "varname": "teach_row_s2_hold_peak_value"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s2_hold_threshold",
+                    "maxclass": "newobj",
+                    "numinlets": 1,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        ""
+                    ],
+                    "patching_rect": [
+                        1210,
+                        6399,
+                        60,
+                        22
+                    ],
+                    "text": "> 0.002",
+                    "varname": "teach_row_s2_hold_threshold"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s2_hold_audible_state",
+                    "maxclass": "newobj",
+                    "numinlets": 2,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        ""
+                    ],
+                    "patching_rect": [
+                        1280,
+                        6399,
+                        65,
+                        22
+                    ],
+                    "text": "pak 0 0",
+                    "varname": "teach_row_s2_hold_audible_state"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s2_hold_audible_expr",
+                    "maxclass": "newobj",
+                    "numinlets": 2,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        ""
+                    ],
+                    "patching_rect": [
+                        1355,
+                        6399,
+                        105,
+                        22
+                    ],
+                    "text": "expr $i1 && $i2",
+                    "varname": "teach_row_s2_hold_audible_expr"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s2_hold_audible_change",
+                    "maxclass": "newobj",
+                    "numinlets": 1,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        ""
+                    ],
+                    "patching_rect": [
+                        1470,
+                        6399,
+                        55,
+                        22
+                    ],
+                    "text": "change",
+                    "varname": "teach_row_s2_hold_audible_change"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s2_hold_audio_light",
+                    "maxclass": "toggle",
+                    "numinlets": 1,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        "int"
+                    ],
+                    "parameter_enable": 0,
+                    "patching_rect": [
+                        1535,
+                        6399,
+                        22,
+                        22
+                    ],
+                    "bgcolor": [
+                        0.22,
+                        0.22,
+                        0.24,
+                        1
+                    ],
+                    "checkedcolor": [
+                        0.18,
+                        0.78,
+                        0.34,
+                        1
+                    ],
+                    "uncheckedcolor": [
+                        0.12,
+                        0.12,
+                        0.13,
+                        1
+                    ],
+                    "varname": "teach_row_s2_hold_audio_light"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s2_metal_label",
+                    "maxclass": "comment",
+                    "numinlets": 1,
+                    "numoutlets": 0,
+                    "patching_rect": [
+                        820,
+                        6438,
+                        255,
+                        22
+                    ],
+                    "text": "S2-04  METAL BED 金属底噪",
+                    "varname": "teach_row_s2_metal_label",
+                    "fontface": 1
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s2_metal_control_receive",
+                    "maxclass": "newobj",
+                    "numinlets": 0,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        ""
+                    ],
+                    "patching_rect": [
+                        1080,
+                        6438,
+                        145,
+                        22
+                    ],
+                    "text": "r teach_s2_metal_control",
+                    "varname": "teach_row_s2_metal_control_receive"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s2_metal_control_flash",
+                    "maxclass": "button",
+                    "numinlets": 1,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        "bang"
+                    ],
+                    "parameter_enable": 0,
+                    "patching_rect": [
+                        1235,
+                        6438,
+                        22,
+                        22
+                    ],
+                    "bgcolor": [
+                        0.22,
+                        0.22,
+                        0.24,
+                        1
+                    ],
+                    "fgcolor": [
+                        0.72,
+                        0.22,
+                        0.88,
+                        1
+                    ],
+                    "varname": "teach_row_s2_metal_control_flash"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s2_metal_active_receive",
+                    "maxclass": "newobj",
+                    "numinlets": 0,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        ""
+                    ],
+                    "patching_rect": [
+                        1265,
+                        6438,
+                        140,
+                        22
+                    ],
+                    "text": "r teach_s2_metal_active",
+                    "varname": "teach_row_s2_metal_active_receive"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s2_metal_active_light",
+                    "maxclass": "toggle",
+                    "numinlets": 1,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        "int"
+                    ],
+                    "parameter_enable": 0,
+                    "patching_rect": [
+                        1415,
+                        6438,
+                        22,
+                        22
+                    ],
+                    "bgcolor": [
+                        0.22,
+                        0.22,
+                        0.24,
+                        1
+                    ],
+                    "checkedcolor": [
+                        0.96,
+                        0.72,
+                        0.12,
+                        1
+                    ],
+                    "uncheckedcolor": [
+                        0.12,
+                        0.12,
+                        0.13,
+                        1
+                    ],
+                    "varname": "teach_row_s2_metal_active_light"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s2_metal_signal_receive",
+                    "maxclass": "newobj",
+                    "numinlets": 0,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        "signal"
+                    ],
+                    "patching_rect": [
+                        820,
+                        6465,
+                        175,
+                        22
+                    ],
+                    "text": "receive~ teach_s2_metal_sig",
+                    "varname": "teach_row_s2_metal_signal_receive"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s2_metal_meter",
+                    "maxclass": "meter~",
+                    "numinlets": 1,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        "float"
+                    ],
+                    "patching_rect": [
+                        1005,
+                        6465,
+                        18,
+                        28
+                    ],
+                    "varname": "teach_row_s2_metal_meter"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s2_metal_peak",
+                    "maxclass": "newobj",
+                    "numinlets": 1,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        "float"
+                    ],
+                    "patching_rect": [
+                        1035,
+                        6465,
+                        90,
+                        22
+                    ],
+                    "text": "peakamp~ 100",
+                    "varname": "teach_row_s2_metal_peak"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s2_metal_peak_value",
+                    "maxclass": "flonum",
+                    "numinlets": 1,
+                    "numoutlets": 2,
+                    "outlettype": [
+                        "",
+                        "bang"
+                    ],
+                    "parameter_enable": 0,
+                    "patching_rect": [
+                        1135,
+                        6465,
+                        65,
+                        22
+                    ],
+                    "varname": "teach_row_s2_metal_peak_value"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s2_metal_threshold",
+                    "maxclass": "newobj",
+                    "numinlets": 1,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        ""
+                    ],
+                    "patching_rect": [
+                        1210,
+                        6465,
+                        60,
+                        22
+                    ],
+                    "text": "> 0.002",
+                    "varname": "teach_row_s2_metal_threshold"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s2_metal_audible_state",
+                    "maxclass": "newobj",
+                    "numinlets": 2,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        ""
+                    ],
+                    "patching_rect": [
+                        1280,
+                        6465,
+                        65,
+                        22
+                    ],
+                    "text": "pak 0 0",
+                    "varname": "teach_row_s2_metal_audible_state"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s2_metal_audible_expr",
+                    "maxclass": "newobj",
+                    "numinlets": 2,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        ""
+                    ],
+                    "patching_rect": [
+                        1355,
+                        6465,
+                        105,
+                        22
+                    ],
+                    "text": "expr $i1 && $i2",
+                    "varname": "teach_row_s2_metal_audible_expr"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s2_metal_audible_change",
+                    "maxclass": "newobj",
+                    "numinlets": 1,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        ""
+                    ],
+                    "patching_rect": [
+                        1470,
+                        6465,
+                        55,
+                        22
+                    ],
+                    "text": "change",
+                    "varname": "teach_row_s2_metal_audible_change"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s2_metal_audio_light",
+                    "maxclass": "toggle",
+                    "numinlets": 1,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        "int"
+                    ],
+                    "parameter_enable": 0,
+                    "patching_rect": [
+                        1535,
+                        6465,
+                        22,
+                        22
+                    ],
+                    "bgcolor": [
+                        0.22,
+                        0.22,
+                        0.24,
+                        1
+                    ],
+                    "checkedcolor": [
+                        0.18,
+                        0.78,
+                        0.34,
+                        1
+                    ],
+                    "uncheckedcolor": [
+                        0.12,
+                        0.12,
+                        0.13,
+                        1
+                    ],
+                    "varname": "teach_row_s2_metal_audio_light"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s2_recall_label",
+                    "maxclass": "comment",
+                    "numinlets": 1,
+                    "numoutlets": 0,
+                    "patching_rect": [
+                        820,
+                        6504,
+                        255,
+                        22
+                    ],
+                    "text": "S2-05  CLEAR RECALL 清晰召回",
+                    "varname": "teach_row_s2_recall_label",
+                    "fontface": 1
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s2_recall_control_receive",
+                    "maxclass": "newobj",
+                    "numinlets": 0,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        ""
+                    ],
+                    "patching_rect": [
+                        1080,
+                        6504,
+                        145,
+                        22
+                    ],
+                    "text": "r teach_s2_recall_control",
+                    "varname": "teach_row_s2_recall_control_receive"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s2_recall_control_flash",
+                    "maxclass": "button",
+                    "numinlets": 1,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        "bang"
+                    ],
+                    "parameter_enable": 0,
+                    "patching_rect": [
+                        1235,
+                        6504,
+                        22,
+                        22
+                    ],
+                    "bgcolor": [
+                        0.22,
+                        0.22,
+                        0.24,
+                        1
+                    ],
+                    "fgcolor": [
+                        0.72,
+                        0.22,
+                        0.88,
+                        1
+                    ],
+                    "varname": "teach_row_s2_recall_control_flash"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s2_recall_active_receive",
+                    "maxclass": "newobj",
+                    "numinlets": 0,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        ""
+                    ],
+                    "patching_rect": [
+                        1265,
+                        6504,
+                        140,
+                        22
+                    ],
+                    "text": "r teach_s2_recall_active",
+                    "varname": "teach_row_s2_recall_active_receive"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s2_recall_active_light",
+                    "maxclass": "toggle",
+                    "numinlets": 1,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        "int"
+                    ],
+                    "parameter_enable": 0,
+                    "patching_rect": [
+                        1415,
+                        6504,
+                        22,
+                        22
+                    ],
+                    "bgcolor": [
+                        0.22,
+                        0.22,
+                        0.24,
+                        1
+                    ],
+                    "checkedcolor": [
+                        0.96,
+                        0.72,
+                        0.12,
+                        1
+                    ],
+                    "uncheckedcolor": [
+                        0.12,
+                        0.12,
+                        0.13,
+                        1
+                    ],
+                    "varname": "teach_row_s2_recall_active_light"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s2_recall_signal_receive",
+                    "maxclass": "newobj",
+                    "numinlets": 0,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        "signal"
+                    ],
+                    "patching_rect": [
+                        820,
+                        6531,
+                        175,
+                        22
+                    ],
+                    "text": "receive~ teach_s2_recall_sig",
+                    "varname": "teach_row_s2_recall_signal_receive"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s2_recall_meter",
+                    "maxclass": "meter~",
+                    "numinlets": 1,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        "float"
+                    ],
+                    "patching_rect": [
+                        1005,
+                        6531,
+                        18,
+                        28
+                    ],
+                    "varname": "teach_row_s2_recall_meter"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s2_recall_peak",
+                    "maxclass": "newobj",
+                    "numinlets": 1,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        "float"
+                    ],
+                    "patching_rect": [
+                        1035,
+                        6531,
+                        90,
+                        22
+                    ],
+                    "text": "peakamp~ 100",
+                    "varname": "teach_row_s2_recall_peak"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s2_recall_peak_value",
+                    "maxclass": "flonum",
+                    "numinlets": 1,
+                    "numoutlets": 2,
+                    "outlettype": [
+                        "",
+                        "bang"
+                    ],
+                    "parameter_enable": 0,
+                    "patching_rect": [
+                        1135,
+                        6531,
+                        65,
+                        22
+                    ],
+                    "varname": "teach_row_s2_recall_peak_value"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s2_recall_threshold",
+                    "maxclass": "newobj",
+                    "numinlets": 1,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        ""
+                    ],
+                    "patching_rect": [
+                        1210,
+                        6531,
+                        60,
+                        22
+                    ],
+                    "text": "> 0.002",
+                    "varname": "teach_row_s2_recall_threshold"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s2_recall_audible_state",
+                    "maxclass": "newobj",
+                    "numinlets": 2,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        ""
+                    ],
+                    "patching_rect": [
+                        1280,
+                        6531,
+                        65,
+                        22
+                    ],
+                    "text": "pak 0 0",
+                    "varname": "teach_row_s2_recall_audible_state"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s2_recall_audible_expr",
+                    "maxclass": "newobj",
+                    "numinlets": 2,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        ""
+                    ],
+                    "patching_rect": [
+                        1355,
+                        6531,
+                        105,
+                        22
+                    ],
+                    "text": "expr $i1 && $i2",
+                    "varname": "teach_row_s2_recall_audible_expr"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s2_recall_audible_change",
+                    "maxclass": "newobj",
+                    "numinlets": 1,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        ""
+                    ],
+                    "patching_rect": [
+                        1470,
+                        6531,
+                        55,
+                        22
+                    ],
+                    "text": "change",
+                    "varname": "teach_row_s2_recall_audible_change"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s2_recall_audio_light",
+                    "maxclass": "toggle",
+                    "numinlets": 1,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        "int"
+                    ],
+                    "parameter_enable": 0,
+                    "patching_rect": [
+                        1535,
+                        6531,
+                        22,
+                        22
+                    ],
+                    "bgcolor": [
+                        0.22,
+                        0.22,
+                        0.24,
+                        1
+                    ],
+                    "checkedcolor": [
+                        0.18,
+                        0.78,
+                        0.34,
+                        1
+                    ],
+                    "uncheckedcolor": [
+                        0.12,
+                        0.12,
+                        0.13,
+                        1
+                    ],
+                    "varname": "teach_row_s2_recall_audio_light"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s2_debris_label",
+                    "maxclass": "comment",
+                    "numinlets": 1,
+                    "numoutlets": 0,
+                    "patching_rect": [
+                        820,
+                        6570,
+                        255,
+                        22
+                    ],
+                    "text": "S2-06  METAL DEBRIS 金属碎屑",
+                    "varname": "teach_row_s2_debris_label",
+                    "fontface": 1
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s2_debris_control_receive",
+                    "maxclass": "newobj",
+                    "numinlets": 0,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        ""
+                    ],
+                    "patching_rect": [
+                        1080,
+                        6570,
+                        145,
+                        22
+                    ],
+                    "text": "r teach_s2_debris_control",
+                    "varname": "teach_row_s2_debris_control_receive"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s2_debris_control_flash",
+                    "maxclass": "button",
+                    "numinlets": 1,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        "bang"
+                    ],
+                    "parameter_enable": 0,
+                    "patching_rect": [
+                        1235,
+                        6570,
+                        22,
+                        22
+                    ],
+                    "bgcolor": [
+                        0.22,
+                        0.22,
+                        0.24,
+                        1
+                    ],
+                    "fgcolor": [
+                        0.72,
+                        0.22,
+                        0.88,
+                        1
+                    ],
+                    "varname": "teach_row_s2_debris_control_flash"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s2_debris_active_receive",
+                    "maxclass": "newobj",
+                    "numinlets": 0,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        ""
+                    ],
+                    "patching_rect": [
+                        1265,
+                        6570,
+                        140,
+                        22
+                    ],
+                    "text": "r teach_s2_debris_active",
+                    "varname": "teach_row_s2_debris_active_receive"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s2_debris_active_light",
+                    "maxclass": "toggle",
+                    "numinlets": 1,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        "int"
+                    ],
+                    "parameter_enable": 0,
+                    "patching_rect": [
+                        1415,
+                        6570,
+                        22,
+                        22
+                    ],
+                    "bgcolor": [
+                        0.22,
+                        0.22,
+                        0.24,
+                        1
+                    ],
+                    "checkedcolor": [
+                        0.96,
+                        0.72,
+                        0.12,
+                        1
+                    ],
+                    "uncheckedcolor": [
+                        0.12,
+                        0.12,
+                        0.13,
+                        1
+                    ],
+                    "varname": "teach_row_s2_debris_active_light"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s2_debris_signal_receive",
+                    "maxclass": "newobj",
+                    "numinlets": 0,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        "signal"
+                    ],
+                    "patching_rect": [
+                        820,
+                        6597,
+                        175,
+                        22
+                    ],
+                    "text": "receive~ teach_s2_debris_sig",
+                    "varname": "teach_row_s2_debris_signal_receive"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s2_debris_meter",
+                    "maxclass": "meter~",
+                    "numinlets": 1,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        "float"
+                    ],
+                    "patching_rect": [
+                        1005,
+                        6597,
+                        18,
+                        28
+                    ],
+                    "varname": "teach_row_s2_debris_meter"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s2_debris_peak",
+                    "maxclass": "newobj",
+                    "numinlets": 1,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        "float"
+                    ],
+                    "patching_rect": [
+                        1035,
+                        6597,
+                        90,
+                        22
+                    ],
+                    "text": "peakamp~ 100",
+                    "varname": "teach_row_s2_debris_peak"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s2_debris_peak_value",
+                    "maxclass": "flonum",
+                    "numinlets": 1,
+                    "numoutlets": 2,
+                    "outlettype": [
+                        "",
+                        "bang"
+                    ],
+                    "parameter_enable": 0,
+                    "patching_rect": [
+                        1135,
+                        6597,
+                        65,
+                        22
+                    ],
+                    "varname": "teach_row_s2_debris_peak_value"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s2_debris_threshold",
+                    "maxclass": "newobj",
+                    "numinlets": 1,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        ""
+                    ],
+                    "patching_rect": [
+                        1210,
+                        6597,
+                        60,
+                        22
+                    ],
+                    "text": "> 0.002",
+                    "varname": "teach_row_s2_debris_threshold"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s2_debris_audible_state",
+                    "maxclass": "newobj",
+                    "numinlets": 2,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        ""
+                    ],
+                    "patching_rect": [
+                        1280,
+                        6597,
+                        65,
+                        22
+                    ],
+                    "text": "pak 0 0",
+                    "varname": "teach_row_s2_debris_audible_state"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s2_debris_audible_expr",
+                    "maxclass": "newobj",
+                    "numinlets": 2,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        ""
+                    ],
+                    "patching_rect": [
+                        1355,
+                        6597,
+                        105,
+                        22
+                    ],
+                    "text": "expr $i1 && $i2",
+                    "varname": "teach_row_s2_debris_audible_expr"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s2_debris_audible_change",
+                    "maxclass": "newobj",
+                    "numinlets": 1,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        ""
+                    ],
+                    "patching_rect": [
+                        1470,
+                        6597,
+                        55,
+                        22
+                    ],
+                    "text": "change",
+                    "varname": "teach_row_s2_debris_audible_change"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s2_debris_audio_light",
+                    "maxclass": "toggle",
+                    "numinlets": 1,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        "int"
+                    ],
+                    "parameter_enable": 0,
+                    "patching_rect": [
+                        1535,
+                        6597,
+                        22,
+                        22
+                    ],
+                    "bgcolor": [
+                        0.22,
+                        0.22,
+                        0.24,
+                        1
+                    ],
+                    "checkedcolor": [
+                        0.18,
+                        0.78,
+                        0.34,
+                        1
+                    ],
+                    "uncheckedcolor": [
+                        0.12,
+                        0.12,
+                        0.13,
+                        1
+                    ],
+                    "varname": "teach_row_s2_debris_audio_light"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_stage_3_header",
+                    "maxclass": "comment",
+                    "numinlets": 1,
+                    "numoutlets": 0,
+                    "patching_rect": [
+                        1600,
+                        6200,
+                        600,
+                        26
+                    ],
+                    "text": "STAGE 3｜重组／归返",
+                    "varname": "teach_stage_3_header",
+                    "fontface": 1,
+                    "fontsize": 16,
+                    "textcolor": [
+                        0.22,
+                        0.48,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s3_voice_label",
+                    "maxclass": "comment",
+                    "numinlets": 1,
+                    "numoutlets": 0,
+                    "patching_rect": [
+                        1600,
+                        6240,
+                        255,
+                        22
+                    ],
+                    "text": "S3-01  RETURN VOICE 重组语音",
+                    "varname": "teach_row_s3_voice_label",
+                    "fontface": 1
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s3_voice_control_receive",
+                    "maxclass": "newobj",
+                    "numinlets": 0,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        ""
+                    ],
+                    "patching_rect": [
+                        1860,
+                        6240,
+                        145,
+                        22
+                    ],
+                    "text": "r teach_s3_voice_control",
+                    "varname": "teach_row_s3_voice_control_receive"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s3_voice_control_flash",
+                    "maxclass": "button",
+                    "numinlets": 1,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        "bang"
+                    ],
+                    "parameter_enable": 0,
+                    "patching_rect": [
+                        2015,
+                        6240,
+                        22,
+                        22
+                    ],
+                    "bgcolor": [
+                        0.22,
+                        0.22,
+                        0.24,
+                        1
+                    ],
+                    "fgcolor": [
+                        0.72,
+                        0.22,
+                        0.88,
+                        1
+                    ],
+                    "varname": "teach_row_s3_voice_control_flash"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s3_voice_active_receive",
+                    "maxclass": "newobj",
+                    "numinlets": 0,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        ""
+                    ],
+                    "patching_rect": [
+                        2045,
+                        6240,
+                        140,
+                        22
+                    ],
+                    "text": "r teach_s3_voice_active",
+                    "varname": "teach_row_s3_voice_active_receive"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s3_voice_active_light",
+                    "maxclass": "toggle",
+                    "numinlets": 1,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        "int"
+                    ],
+                    "parameter_enable": 0,
+                    "patching_rect": [
+                        2195,
+                        6240,
+                        22,
+                        22
+                    ],
+                    "bgcolor": [
+                        0.22,
+                        0.22,
+                        0.24,
+                        1
+                    ],
+                    "checkedcolor": [
+                        0.96,
+                        0.72,
+                        0.12,
+                        1
+                    ],
+                    "uncheckedcolor": [
+                        0.12,
+                        0.12,
+                        0.13,
+                        1
+                    ],
+                    "varname": "teach_row_s3_voice_active_light"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s3_voice_signal_receive",
+                    "maxclass": "newobj",
+                    "numinlets": 0,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        "signal"
+                    ],
+                    "patching_rect": [
+                        1600,
+                        6267,
+                        175,
+                        22
+                    ],
+                    "text": "receive~ teach_s3_voice_sig",
+                    "varname": "teach_row_s3_voice_signal_receive"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s3_voice_meter",
+                    "maxclass": "meter~",
+                    "numinlets": 1,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        "float"
+                    ],
+                    "patching_rect": [
+                        1785,
+                        6267,
+                        18,
+                        28
+                    ],
+                    "varname": "teach_row_s3_voice_meter"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s3_voice_peak",
+                    "maxclass": "newobj",
+                    "numinlets": 1,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        "float"
+                    ],
+                    "patching_rect": [
+                        1815,
+                        6267,
+                        90,
+                        22
+                    ],
+                    "text": "peakamp~ 100",
+                    "varname": "teach_row_s3_voice_peak"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s3_voice_peak_value",
+                    "maxclass": "flonum",
+                    "numinlets": 1,
+                    "numoutlets": 2,
+                    "outlettype": [
+                        "",
+                        "bang"
+                    ],
+                    "parameter_enable": 0,
+                    "patching_rect": [
+                        1915,
+                        6267,
+                        65,
+                        22
+                    ],
+                    "varname": "teach_row_s3_voice_peak_value"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s3_voice_threshold",
+                    "maxclass": "newobj",
+                    "numinlets": 1,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        ""
+                    ],
+                    "patching_rect": [
+                        1990,
+                        6267,
+                        60,
+                        22
+                    ],
+                    "text": "> 0.002",
+                    "varname": "teach_row_s3_voice_threshold"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s3_voice_audible_state",
+                    "maxclass": "newobj",
+                    "numinlets": 2,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        ""
+                    ],
+                    "patching_rect": [
+                        2060,
+                        6267,
+                        65,
+                        22
+                    ],
+                    "text": "pak 0 0",
+                    "varname": "teach_row_s3_voice_audible_state"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s3_voice_audible_expr",
+                    "maxclass": "newobj",
+                    "numinlets": 2,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        ""
+                    ],
+                    "patching_rect": [
+                        2135,
+                        6267,
+                        105,
+                        22
+                    ],
+                    "text": "expr $i1 && $i2",
+                    "varname": "teach_row_s3_voice_audible_expr"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s3_voice_audible_change",
+                    "maxclass": "newobj",
+                    "numinlets": 1,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        ""
+                    ],
+                    "patching_rect": [
+                        2250,
+                        6267,
+                        55,
+                        22
+                    ],
+                    "text": "change",
+                    "varname": "teach_row_s3_voice_audible_change"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s3_voice_audio_light",
+                    "maxclass": "toggle",
+                    "numinlets": 1,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        "int"
+                    ],
+                    "parameter_enable": 0,
+                    "patching_rect": [
+                        2315,
+                        6267,
+                        22,
+                        22
+                    ],
+                    "bgcolor": [
+                        0.22,
+                        0.22,
+                        0.24,
+                        1
+                    ],
+                    "checkedcolor": [
+                        0.18,
+                        0.78,
+                        0.34,
+                        1
+                    ],
+                    "uncheckedcolor": [
+                        0.12,
+                        0.12,
+                        0.13,
+                        1
+                    ],
+                    "varname": "teach_row_s3_voice_audio_light"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s3_oracle_label",
+                    "maxclass": "comment",
+                    "numinlets": 1,
+                    "numoutlets": 0,
+                    "patching_rect": [
+                        1600,
+                        6306,
+                        255,
+                        22
+                    ],
+                    "text": "S3-02  ORACLE OPEN 神谕显现",
+                    "varname": "teach_row_s3_oracle_label",
+                    "fontface": 1
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s3_oracle_control_receive",
+                    "maxclass": "newobj",
+                    "numinlets": 0,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        ""
+                    ],
+                    "patching_rect": [
+                        1860,
+                        6306,
+                        145,
+                        22
+                    ],
+                    "text": "r teach_s3_oracle_control",
+                    "varname": "teach_row_s3_oracle_control_receive"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s3_oracle_control_flash",
+                    "maxclass": "button",
+                    "numinlets": 1,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        "bang"
+                    ],
+                    "parameter_enable": 0,
+                    "patching_rect": [
+                        2015,
+                        6306,
+                        22,
+                        22
+                    ],
+                    "bgcolor": [
+                        0.22,
+                        0.22,
+                        0.24,
+                        1
+                    ],
+                    "fgcolor": [
+                        0.72,
+                        0.22,
+                        0.88,
+                        1
+                    ],
+                    "varname": "teach_row_s3_oracle_control_flash"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s3_oracle_active_receive",
+                    "maxclass": "newobj",
+                    "numinlets": 0,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        ""
+                    ],
+                    "patching_rect": [
+                        2045,
+                        6306,
+                        140,
+                        22
+                    ],
+                    "text": "r teach_s3_oracle_active",
+                    "varname": "teach_row_s3_oracle_active_receive"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s3_oracle_active_light",
+                    "maxclass": "toggle",
+                    "numinlets": 1,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        "int"
+                    ],
+                    "parameter_enable": 0,
+                    "patching_rect": [
+                        2195,
+                        6306,
+                        22,
+                        22
+                    ],
+                    "bgcolor": [
+                        0.22,
+                        0.22,
+                        0.24,
+                        1
+                    ],
+                    "checkedcolor": [
+                        0.96,
+                        0.72,
+                        0.12,
+                        1
+                    ],
+                    "uncheckedcolor": [
+                        0.12,
+                        0.12,
+                        0.13,
+                        1
+                    ],
+                    "varname": "teach_row_s3_oracle_active_light"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s3_oracle_signal_receive",
+                    "maxclass": "newobj",
+                    "numinlets": 0,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        "signal"
+                    ],
+                    "patching_rect": [
+                        1600,
+                        6333,
+                        175,
+                        22
+                    ],
+                    "text": "receive~ teach_s3_voice_sig",
+                    "varname": "teach_row_s3_oracle_signal_receive"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s3_oracle_meter",
+                    "maxclass": "meter~",
+                    "numinlets": 1,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        "float"
+                    ],
+                    "patching_rect": [
+                        1785,
+                        6333,
+                        18,
+                        28
+                    ],
+                    "varname": "teach_row_s3_oracle_meter"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s3_oracle_peak",
+                    "maxclass": "newobj",
+                    "numinlets": 1,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        "float"
+                    ],
+                    "patching_rect": [
+                        1815,
+                        6333,
+                        90,
+                        22
+                    ],
+                    "text": "peakamp~ 100",
+                    "varname": "teach_row_s3_oracle_peak"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s3_oracle_peak_value",
+                    "maxclass": "flonum",
+                    "numinlets": 1,
+                    "numoutlets": 2,
+                    "outlettype": [
+                        "",
+                        "bang"
+                    ],
+                    "parameter_enable": 0,
+                    "patching_rect": [
+                        1915,
+                        6333,
+                        65,
+                        22
+                    ],
+                    "varname": "teach_row_s3_oracle_peak_value"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s3_oracle_threshold",
+                    "maxclass": "newobj",
+                    "numinlets": 1,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        ""
+                    ],
+                    "patching_rect": [
+                        1990,
+                        6333,
+                        60,
+                        22
+                    ],
+                    "text": "> 0.002",
+                    "varname": "teach_row_s3_oracle_threshold"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s3_oracle_audible_state",
+                    "maxclass": "newobj",
+                    "numinlets": 2,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        ""
+                    ],
+                    "patching_rect": [
+                        2060,
+                        6333,
+                        65,
+                        22
+                    ],
+                    "text": "pak 0 0",
+                    "varname": "teach_row_s3_oracle_audible_state"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s3_oracle_audible_expr",
+                    "maxclass": "newobj",
+                    "numinlets": 2,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        ""
+                    ],
+                    "patching_rect": [
+                        2135,
+                        6333,
+                        105,
+                        22
+                    ],
+                    "text": "expr $i1 && $i2",
+                    "varname": "teach_row_s3_oracle_audible_expr"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s3_oracle_audible_change",
+                    "maxclass": "newobj",
+                    "numinlets": 1,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        ""
+                    ],
+                    "patching_rect": [
+                        2250,
+                        6333,
+                        55,
+                        22
+                    ],
+                    "text": "change",
+                    "varname": "teach_row_s3_oracle_audible_change"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s3_oracle_audio_light",
+                    "maxclass": "toggle",
+                    "numinlets": 1,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        "int"
+                    ],
+                    "parameter_enable": 0,
+                    "patching_rect": [
+                        2315,
+                        6333,
+                        22,
+                        22
+                    ],
+                    "bgcolor": [
+                        0.22,
+                        0.22,
+                        0.24,
+                        1
+                    ],
+                    "checkedcolor": [
+                        0.18,
+                        0.78,
+                        0.34,
+                        1
+                    ],
+                    "uncheckedcolor": [
+                        0.12,
+                        0.12,
+                        0.13,
+                        1
+                    ],
+                    "varname": "teach_row_s3_oracle_audio_light"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s3_recall_label",
+                    "maxclass": "comment",
+                    "numinlets": 1,
+                    "numoutlets": 0,
+                    "patching_rect": [
+                        1600,
+                        6372,
+                        255,
+                        22
+                    ],
+                    "text": "S3-03  CLEAR RECALL 原句召回",
+                    "varname": "teach_row_s3_recall_label",
+                    "fontface": 1
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s3_recall_control_receive",
+                    "maxclass": "newobj",
+                    "numinlets": 0,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        ""
+                    ],
+                    "patching_rect": [
+                        1860,
+                        6372,
+                        145,
+                        22
+                    ],
+                    "text": "r teach_s3_recall_control",
+                    "varname": "teach_row_s3_recall_control_receive"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s3_recall_control_flash",
+                    "maxclass": "button",
+                    "numinlets": 1,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        "bang"
+                    ],
+                    "parameter_enable": 0,
+                    "patching_rect": [
+                        2015,
+                        6372,
+                        22,
+                        22
+                    ],
+                    "bgcolor": [
+                        0.22,
+                        0.22,
+                        0.24,
+                        1
+                    ],
+                    "fgcolor": [
+                        0.72,
+                        0.22,
+                        0.88,
+                        1
+                    ],
+                    "varname": "teach_row_s3_recall_control_flash"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s3_recall_active_receive",
+                    "maxclass": "newobj",
+                    "numinlets": 0,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        ""
+                    ],
+                    "patching_rect": [
+                        2045,
+                        6372,
+                        140,
+                        22
+                    ],
+                    "text": "r teach_s3_recall_active",
+                    "varname": "teach_row_s3_recall_active_receive"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s3_recall_active_light",
+                    "maxclass": "toggle",
+                    "numinlets": 1,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        "int"
+                    ],
+                    "parameter_enable": 0,
+                    "patching_rect": [
+                        2195,
+                        6372,
+                        22,
+                        22
+                    ],
+                    "bgcolor": [
+                        0.22,
+                        0.22,
+                        0.24,
+                        1
+                    ],
+                    "checkedcolor": [
+                        0.96,
+                        0.72,
+                        0.12,
+                        1
+                    ],
+                    "uncheckedcolor": [
+                        0.12,
+                        0.12,
+                        0.13,
+                        1
+                    ],
+                    "varname": "teach_row_s3_recall_active_light"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s3_recall_signal_receive",
+                    "maxclass": "newobj",
+                    "numinlets": 0,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        "signal"
+                    ],
+                    "patching_rect": [
+                        1600,
+                        6399,
+                        175,
+                        22
+                    ],
+                    "text": "receive~ teach_s3_recall_sig",
+                    "varname": "teach_row_s3_recall_signal_receive"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s3_recall_meter",
+                    "maxclass": "meter~",
+                    "numinlets": 1,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        "float"
+                    ],
+                    "patching_rect": [
+                        1785,
+                        6399,
+                        18,
+                        28
+                    ],
+                    "varname": "teach_row_s3_recall_meter"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s3_recall_peak",
+                    "maxclass": "newobj",
+                    "numinlets": 1,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        "float"
+                    ],
+                    "patching_rect": [
+                        1815,
+                        6399,
+                        90,
+                        22
+                    ],
+                    "text": "peakamp~ 100",
+                    "varname": "teach_row_s3_recall_peak"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s3_recall_peak_value",
+                    "maxclass": "flonum",
+                    "numinlets": 1,
+                    "numoutlets": 2,
+                    "outlettype": [
+                        "",
+                        "bang"
+                    ],
+                    "parameter_enable": 0,
+                    "patching_rect": [
+                        1915,
+                        6399,
+                        65,
+                        22
+                    ],
+                    "varname": "teach_row_s3_recall_peak_value"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s3_recall_threshold",
+                    "maxclass": "newobj",
+                    "numinlets": 1,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        ""
+                    ],
+                    "patching_rect": [
+                        1990,
+                        6399,
+                        60,
+                        22
+                    ],
+                    "text": "> 0.002",
+                    "varname": "teach_row_s3_recall_threshold"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s3_recall_audible_state",
+                    "maxclass": "newobj",
+                    "numinlets": 2,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        ""
+                    ],
+                    "patching_rect": [
+                        2060,
+                        6399,
+                        65,
+                        22
+                    ],
+                    "text": "pak 0 0",
+                    "varname": "teach_row_s3_recall_audible_state"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s3_recall_audible_expr",
+                    "maxclass": "newobj",
+                    "numinlets": 2,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        ""
+                    ],
+                    "patching_rect": [
+                        2135,
+                        6399,
+                        105,
+                        22
+                    ],
+                    "text": "expr $i1 && $i2",
+                    "varname": "teach_row_s3_recall_audible_expr"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s3_recall_audible_change",
+                    "maxclass": "newobj",
+                    "numinlets": 1,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        ""
+                    ],
+                    "patching_rect": [
+                        2250,
+                        6399,
+                        55,
+                        22
+                    ],
+                    "text": "change",
+                    "varname": "teach_row_s3_recall_audible_change"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s3_recall_audio_light",
+                    "maxclass": "toggle",
+                    "numinlets": 1,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        "int"
+                    ],
+                    "parameter_enable": 0,
+                    "patching_rect": [
+                        2315,
+                        6399,
+                        22,
+                        22
+                    ],
+                    "bgcolor": [
+                        0.22,
+                        0.22,
+                        0.24,
+                        1
+                    ],
+                    "checkedcolor": [
+                        0.18,
+                        0.78,
+                        0.34,
+                        1
+                    ],
+                    "uncheckedcolor": [
+                        0.12,
+                        0.12,
+                        0.13,
+                        1
+                    ],
+                    "varname": "teach_row_s3_recall_audio_light"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s3_bed_label",
+                    "maxclass": "comment",
+                    "numinlets": 1,
+                    "numoutlets": 0,
+                    "patching_rect": [
+                        1600,
+                        6438,
+                        255,
+                        22
+                    ],
+                    "text": "S3-04  WIND/SAND BED 风沙底噪",
+                    "varname": "teach_row_s3_bed_label",
+                    "fontface": 1
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s3_bed_control_receive",
+                    "maxclass": "newobj",
+                    "numinlets": 0,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        ""
+                    ],
+                    "patching_rect": [
+                        1860,
+                        6438,
+                        145,
+                        22
+                    ],
+                    "text": "r teach_s3_bed_control",
+                    "varname": "teach_row_s3_bed_control_receive"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s3_bed_control_flash",
+                    "maxclass": "button",
+                    "numinlets": 1,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        "bang"
+                    ],
+                    "parameter_enable": 0,
+                    "patching_rect": [
+                        2015,
+                        6438,
+                        22,
+                        22
+                    ],
+                    "bgcolor": [
+                        0.22,
+                        0.22,
+                        0.24,
+                        1
+                    ],
+                    "fgcolor": [
+                        0.72,
+                        0.22,
+                        0.88,
+                        1
+                    ],
+                    "varname": "teach_row_s3_bed_control_flash"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s3_bed_active_receive",
+                    "maxclass": "newobj",
+                    "numinlets": 0,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        ""
+                    ],
+                    "patching_rect": [
+                        2045,
+                        6438,
+                        140,
+                        22
+                    ],
+                    "text": "r teach_s3_bed_active",
+                    "varname": "teach_row_s3_bed_active_receive"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s3_bed_active_light",
+                    "maxclass": "toggle",
+                    "numinlets": 1,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        "int"
+                    ],
+                    "parameter_enable": 0,
+                    "patching_rect": [
+                        2195,
+                        6438,
+                        22,
+                        22
+                    ],
+                    "bgcolor": [
+                        0.22,
+                        0.22,
+                        0.24,
+                        1
+                    ],
+                    "checkedcolor": [
+                        0.96,
+                        0.72,
+                        0.12,
+                        1
+                    ],
+                    "uncheckedcolor": [
+                        0.12,
+                        0.12,
+                        0.13,
+                        1
+                    ],
+                    "varname": "teach_row_s3_bed_active_light"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s3_bed_signal_receive",
+                    "maxclass": "newobj",
+                    "numinlets": 0,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        "signal"
+                    ],
+                    "patching_rect": [
+                        1600,
+                        6465,
+                        175,
+                        22
+                    ],
+                    "text": "receive~ teach_s3_bed_sig",
+                    "varname": "teach_row_s3_bed_signal_receive"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s3_bed_meter",
+                    "maxclass": "meter~",
+                    "numinlets": 1,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        "float"
+                    ],
+                    "patching_rect": [
+                        1785,
+                        6465,
+                        18,
+                        28
+                    ],
+                    "varname": "teach_row_s3_bed_meter"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s3_bed_peak",
+                    "maxclass": "newobj",
+                    "numinlets": 1,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        "float"
+                    ],
+                    "patching_rect": [
+                        1815,
+                        6465,
+                        90,
+                        22
+                    ],
+                    "text": "peakamp~ 100",
+                    "varname": "teach_row_s3_bed_peak"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s3_bed_peak_value",
+                    "maxclass": "flonum",
+                    "numinlets": 1,
+                    "numoutlets": 2,
+                    "outlettype": [
+                        "",
+                        "bang"
+                    ],
+                    "parameter_enable": 0,
+                    "patching_rect": [
+                        1915,
+                        6465,
+                        65,
+                        22
+                    ],
+                    "varname": "teach_row_s3_bed_peak_value"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s3_bed_threshold",
+                    "maxclass": "newobj",
+                    "numinlets": 1,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        ""
+                    ],
+                    "patching_rect": [
+                        1990,
+                        6465,
+                        60,
+                        22
+                    ],
+                    "text": "> 0.002",
+                    "varname": "teach_row_s3_bed_threshold"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s3_bed_audible_state",
+                    "maxclass": "newobj",
+                    "numinlets": 2,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        ""
+                    ],
+                    "patching_rect": [
+                        2060,
+                        6465,
+                        65,
+                        22
+                    ],
+                    "text": "pak 0 0",
+                    "varname": "teach_row_s3_bed_audible_state"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s3_bed_audible_expr",
+                    "maxclass": "newobj",
+                    "numinlets": 2,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        ""
+                    ],
+                    "patching_rect": [
+                        2135,
+                        6465,
+                        105,
+                        22
+                    ],
+                    "text": "expr $i1 && $i2",
+                    "varname": "teach_row_s3_bed_audible_expr"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s3_bed_audible_change",
+                    "maxclass": "newobj",
+                    "numinlets": 1,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        ""
+                    ],
+                    "patching_rect": [
+                        2250,
+                        6465,
+                        55,
+                        22
+                    ],
+                    "text": "change",
+                    "varname": "teach_row_s3_bed_audible_change"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s3_bed_audio_light",
+                    "maxclass": "toggle",
+                    "numinlets": 1,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        "int"
+                    ],
+                    "parameter_enable": 0,
+                    "patching_rect": [
+                        2315,
+                        6465,
+                        22,
+                        22
+                    ],
+                    "bgcolor": [
+                        0.22,
+                        0.22,
+                        0.24,
+                        1
+                    ],
+                    "checkedcolor": [
+                        0.18,
+                        0.78,
+                        0.34,
+                        1
+                    ],
+                    "uncheckedcolor": [
+                        0.12,
+                        0.12,
+                        0.13,
+                        1
+                    ],
+                    "varname": "teach_row_s3_bed_audio_light"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s3_wave_label",
+                    "maxclass": "comment",
+                    "numinlets": 1,
+                    "numoutlets": 0,
+                    "patching_rect": [
+                        1600,
+                        6504,
+                        255,
+                        22
+                    ],
+                    "text": "S3-05  SAND WAVE 沙浪事件",
+                    "varname": "teach_row_s3_wave_label",
+                    "fontface": 1
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s3_wave_control_receive",
+                    "maxclass": "newobj",
+                    "numinlets": 0,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        ""
+                    ],
+                    "patching_rect": [
+                        1860,
+                        6504,
+                        145,
+                        22
+                    ],
+                    "text": "r teach_s3_wave_control",
+                    "varname": "teach_row_s3_wave_control_receive"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s3_wave_control_flash",
+                    "maxclass": "button",
+                    "numinlets": 1,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        "bang"
+                    ],
+                    "parameter_enable": 0,
+                    "patching_rect": [
+                        2015,
+                        6504,
+                        22,
+                        22
+                    ],
+                    "bgcolor": [
+                        0.22,
+                        0.22,
+                        0.24,
+                        1
+                    ],
+                    "fgcolor": [
+                        0.72,
+                        0.22,
+                        0.88,
+                        1
+                    ],
+                    "varname": "teach_row_s3_wave_control_flash"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s3_wave_active_receive",
+                    "maxclass": "newobj",
+                    "numinlets": 0,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        ""
+                    ],
+                    "patching_rect": [
+                        2045,
+                        6504,
+                        140,
+                        22
+                    ],
+                    "text": "r teach_s3_wave_active",
+                    "varname": "teach_row_s3_wave_active_receive"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s3_wave_active_light",
+                    "maxclass": "toggle",
+                    "numinlets": 1,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        "int"
+                    ],
+                    "parameter_enable": 0,
+                    "patching_rect": [
+                        2195,
+                        6504,
+                        22,
+                        22
+                    ],
+                    "bgcolor": [
+                        0.22,
+                        0.22,
+                        0.24,
+                        1
+                    ],
+                    "checkedcolor": [
+                        0.96,
+                        0.72,
+                        0.12,
+                        1
+                    ],
+                    "uncheckedcolor": [
+                        0.12,
+                        0.12,
+                        0.13,
+                        1
+                    ],
+                    "varname": "teach_row_s3_wave_active_light"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s3_wave_signal_receive",
+                    "maxclass": "newobj",
+                    "numinlets": 0,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        "signal"
+                    ],
+                    "patching_rect": [
+                        1600,
+                        6531,
+                        175,
+                        22
+                    ],
+                    "text": "receive~ teach_s3_wave_sig",
+                    "varname": "teach_row_s3_wave_signal_receive"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s3_wave_meter",
+                    "maxclass": "meter~",
+                    "numinlets": 1,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        "float"
+                    ],
+                    "patching_rect": [
+                        1785,
+                        6531,
+                        18,
+                        28
+                    ],
+                    "varname": "teach_row_s3_wave_meter"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s3_wave_peak",
+                    "maxclass": "newobj",
+                    "numinlets": 1,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        "float"
+                    ],
+                    "patching_rect": [
+                        1815,
+                        6531,
+                        90,
+                        22
+                    ],
+                    "text": "peakamp~ 100",
+                    "varname": "teach_row_s3_wave_peak"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s3_wave_peak_value",
+                    "maxclass": "flonum",
+                    "numinlets": 1,
+                    "numoutlets": 2,
+                    "outlettype": [
+                        "",
+                        "bang"
+                    ],
+                    "parameter_enable": 0,
+                    "patching_rect": [
+                        1915,
+                        6531,
+                        65,
+                        22
+                    ],
+                    "varname": "teach_row_s3_wave_peak_value"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s3_wave_threshold",
+                    "maxclass": "newobj",
+                    "numinlets": 1,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        ""
+                    ],
+                    "patching_rect": [
+                        1990,
+                        6531,
+                        60,
+                        22
+                    ],
+                    "text": "> 0.002",
+                    "varname": "teach_row_s3_wave_threshold"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s3_wave_audible_state",
+                    "maxclass": "newobj",
+                    "numinlets": 2,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        ""
+                    ],
+                    "patching_rect": [
+                        2060,
+                        6531,
+                        65,
+                        22
+                    ],
+                    "text": "pak 0 0",
+                    "varname": "teach_row_s3_wave_audible_state"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s3_wave_audible_expr",
+                    "maxclass": "newobj",
+                    "numinlets": 2,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        ""
+                    ],
+                    "patching_rect": [
+                        2135,
+                        6531,
+                        105,
+                        22
+                    ],
+                    "text": "expr $i1 && $i2",
+                    "varname": "teach_row_s3_wave_audible_expr"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s3_wave_audible_change",
+                    "maxclass": "newobj",
+                    "numinlets": 1,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        ""
+                    ],
+                    "patching_rect": [
+                        2250,
+                        6531,
+                        55,
+                        22
+                    ],
+                    "text": "change",
+                    "varname": "teach_row_s3_wave_audible_change"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_row_s3_wave_audio_light",
+                    "maxclass": "toggle",
+                    "numinlets": 1,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        "int"
+                    ],
+                    "parameter_enable": 0,
+                    "patching_rect": [
+                        2315,
+                        6531,
+                        22,
+                        22
+                    ],
+                    "bgcolor": [
+                        0.22,
+                        0.22,
+                        0.24,
+                        1
+                    ],
+                    "checkedcolor": [
+                        0.18,
+                        0.78,
+                        0.34,
+                        1
+                    ],
+                    "uncheckedcolor": [
+                        0.12,
+                        0.12,
+                        0.13,
+                        1
+                    ],
+                    "varname": "teach_row_s3_wave_audio_light"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_local_s1_voice_label",
+                    "maxclass": "comment",
+                    "numinlets": 1,
+                    "numoutlets": 0,
+                    "patching_rect": [
+                        1364,
+                        2029,
+                        35,
+                        18
+                    ],
+                    "text": "状态",
+                    "varname": "teach_local_s1_voice_label",
+                    "fontsize": 10
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_local_s1_voice_control_flash",
+                    "maxclass": "button",
+                    "numinlets": 1,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        "bang"
+                    ],
+                    "parameter_enable": 0,
+                    "patching_rect": [
+                        1404,
+                        2029,
+                        16,
+                        16
+                    ],
+                    "bgcolor": [
+                        0.22,
+                        0.22,
+                        0.24,
+                        1
+                    ],
+                    "fgcolor": [
+                        0.72,
+                        0.22,
+                        0.88,
+                        1
+                    ],
+                    "varname": "teach_local_s1_voice_control_flash"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_local_s1_voice_active_light",
+                    "maxclass": "toggle",
+                    "numinlets": 1,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        "int"
+                    ],
+                    "parameter_enable": 0,
+                    "patching_rect": [
+                        1426,
+                        2029,
+                        16,
+                        16
+                    ],
+                    "bgcolor": [
+                        0.22,
+                        0.22,
+                        0.24,
+                        1
+                    ],
+                    "checkedcolor": [
+                        0.96,
+                        0.72,
+                        0.12,
+                        1
+                    ],
+                    "uncheckedcolor": [
+                        0.12,
+                        0.12,
+                        0.13,
+                        1
+                    ],
+                    "varname": "teach_local_s1_voice_active_light"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_local_s1_voice_audio_light",
+                    "maxclass": "toggle",
+                    "numinlets": 1,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        "int"
+                    ],
+                    "parameter_enable": 0,
+                    "patching_rect": [
+                        1448,
+                        2029,
+                        16,
+                        16
+                    ],
+                    "bgcolor": [
+                        0.22,
+                        0.22,
+                        0.24,
+                        1
+                    ],
+                    "checkedcolor": [
+                        0.18,
+                        0.78,
+                        0.34,
+                        1
+                    ],
+                    "uncheckedcolor": [
+                        0.12,
+                        0.12,
+                        0.13,
+                        1
+                    ],
+                    "varname": "teach_local_s1_voice_audio_light"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_local_s1_voice_peak_label",
+                    "maxclass": "comment",
+                    "numinlets": 1,
+                    "numoutlets": 0,
+                    "patching_rect": [
+                        1470,
+                        2029,
+                        16,
+                        18
+                    ],
+                    "text": "峰",
+                    "varname": "teach_local_s1_voice_peak_label",
+                    "fontsize": 10
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_local_s1_voice_peak_value",
+                    "maxclass": "flonum",
+                    "numinlets": 1,
+                    "numoutlets": 2,
+                    "outlettype": [
+                        "",
+                        "bang"
+                    ],
+                    "parameter_enable": 0,
+                    "patching_rect": [
+                        1488,
+                        2029,
+                        60,
+                        18
+                    ],
+                    "varname": "teach_local_s1_voice_peak_value"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_local_s1_reverse_label",
+                    "maxclass": "comment",
+                    "numinlets": 1,
+                    "numoutlets": 0,
+                    "patching_rect": [
+                        946,
+                        1948,
+                        35,
+                        18
+                    ],
+                    "text": "状态",
+                    "varname": "teach_local_s1_reverse_label",
+                    "fontsize": 10
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_local_s1_reverse_control_flash",
+                    "maxclass": "button",
+                    "numinlets": 1,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        "bang"
+                    ],
+                    "parameter_enable": 0,
+                    "patching_rect": [
+                        986,
+                        1948,
+                        16,
+                        16
+                    ],
+                    "bgcolor": [
+                        0.22,
+                        0.22,
+                        0.24,
+                        1
+                    ],
+                    "fgcolor": [
+                        0.72,
+                        0.22,
+                        0.88,
+                        1
+                    ],
+                    "varname": "teach_local_s1_reverse_control_flash"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_local_s1_reverse_active_light",
+                    "maxclass": "toggle",
+                    "numinlets": 1,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        "int"
+                    ],
+                    "parameter_enable": 0,
+                    "patching_rect": [
+                        1008,
+                        1948,
+                        16,
+                        16
+                    ],
+                    "bgcolor": [
+                        0.22,
+                        0.22,
+                        0.24,
+                        1
+                    ],
+                    "checkedcolor": [
+                        0.96,
+                        0.72,
+                        0.12,
+                        1
+                    ],
+                    "uncheckedcolor": [
+                        0.12,
+                        0.12,
+                        0.13,
+                        1
+                    ],
+                    "varname": "teach_local_s1_reverse_active_light"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_local_s1_reverse_audio_light",
+                    "maxclass": "toggle",
+                    "numinlets": 1,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        "int"
+                    ],
+                    "parameter_enable": 0,
+                    "patching_rect": [
+                        1030,
+                        1948,
+                        16,
+                        16
+                    ],
+                    "bgcolor": [
+                        0.22,
+                        0.22,
+                        0.24,
+                        1
+                    ],
+                    "checkedcolor": [
+                        0.18,
+                        0.78,
+                        0.34,
+                        1
+                    ],
+                    "uncheckedcolor": [
+                        0.12,
+                        0.12,
+                        0.13,
+                        1
+                    ],
+                    "varname": "teach_local_s1_reverse_audio_light"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_local_s1_reverse_peak_label",
+                    "maxclass": "comment",
+                    "numinlets": 1,
+                    "numoutlets": 0,
+                    "patching_rect": [
+                        1052,
+                        1948,
+                        16,
+                        18
+                    ],
+                    "text": "峰",
+                    "varname": "teach_local_s1_reverse_peak_label",
+                    "fontsize": 10
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_local_s1_reverse_peak_value",
+                    "maxclass": "flonum",
+                    "numinlets": 1,
+                    "numoutlets": 2,
+                    "outlettype": [
+                        "",
+                        "bang"
+                    ],
+                    "parameter_enable": 0,
+                    "patching_rect": [
+                        1070,
+                        1948,
+                        60,
+                        18
+                    ],
+                    "varname": "teach_local_s1_reverse_peak_value"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_local_s1_lurch_label",
+                    "maxclass": "comment",
+                    "numinlets": 1,
+                    "numoutlets": 0,
+                    "patching_rect": [
+                        678,
+                        2004,
+                        35,
+                        18
+                    ],
+                    "text": "状态",
+                    "varname": "teach_local_s1_lurch_label",
+                    "fontsize": 10
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_local_s1_lurch_control_flash",
+                    "maxclass": "button",
+                    "numinlets": 1,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        "bang"
+                    ],
+                    "parameter_enable": 0,
+                    "patching_rect": [
+                        718,
+                        2004,
+                        16,
+                        16
+                    ],
+                    "bgcolor": [
+                        0.22,
+                        0.22,
+                        0.24,
+                        1
+                    ],
+                    "fgcolor": [
+                        0.72,
+                        0.22,
+                        0.88,
+                        1
+                    ],
+                    "varname": "teach_local_s1_lurch_control_flash"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_local_s1_lurch_active_light",
+                    "maxclass": "toggle",
+                    "numinlets": 1,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        "int"
+                    ],
+                    "parameter_enable": 0,
+                    "patching_rect": [
+                        740,
+                        2004,
+                        16,
+                        16
+                    ],
+                    "bgcolor": [
+                        0.22,
+                        0.22,
+                        0.24,
+                        1
+                    ],
+                    "checkedcolor": [
+                        0.96,
+                        0.72,
+                        0.12,
+                        1
+                    ],
+                    "uncheckedcolor": [
+                        0.12,
+                        0.12,
+                        0.13,
+                        1
+                    ],
+                    "varname": "teach_local_s1_lurch_active_light"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_local_s1_lurch_audio_light",
+                    "maxclass": "toggle",
+                    "numinlets": 1,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        "int"
+                    ],
+                    "parameter_enable": 0,
+                    "patching_rect": [
+                        762,
+                        2004,
+                        16,
+                        16
+                    ],
+                    "bgcolor": [
+                        0.22,
+                        0.22,
+                        0.24,
+                        1
+                    ],
+                    "checkedcolor": [
+                        0.18,
+                        0.78,
+                        0.34,
+                        1
+                    ],
+                    "uncheckedcolor": [
+                        0.12,
+                        0.12,
+                        0.13,
+                        1
+                    ],
+                    "varname": "teach_local_s1_lurch_audio_light"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_local_s1_lurch_peak_label",
+                    "maxclass": "comment",
+                    "numinlets": 1,
+                    "numoutlets": 0,
+                    "patching_rect": [
+                        784,
+                        2004,
+                        16,
+                        18
+                    ],
+                    "text": "峰",
+                    "varname": "teach_local_s1_lurch_peak_label",
+                    "fontsize": 10
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_local_s1_lurch_peak_value",
+                    "maxclass": "flonum",
+                    "numinlets": 1,
+                    "numoutlets": 2,
+                    "outlettype": [
+                        "",
+                        "bang"
+                    ],
+                    "parameter_enable": 0,
+                    "patching_rect": [
+                        802,
+                        2004,
+                        60,
+                        18
+                    ],
+                    "varname": "teach_local_s1_lurch_peak_value"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_local_s1_bed_label",
+                    "maxclass": "comment",
+                    "numinlets": 1,
+                    "numoutlets": 0,
+                    "patching_rect": [
+                        308,
+                        2201,
+                        35,
+                        18
+                    ],
+                    "text": "状态",
+                    "varname": "teach_local_s1_bed_label",
+                    "fontsize": 10
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_local_s1_bed_control_flash",
+                    "maxclass": "button",
+                    "numinlets": 1,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        "bang"
+                    ],
+                    "parameter_enable": 0,
+                    "patching_rect": [
+                        348,
+                        2201,
+                        16,
+                        16
+                    ],
+                    "bgcolor": [
+                        0.22,
+                        0.22,
+                        0.24,
+                        1
+                    ],
+                    "fgcolor": [
+                        0.72,
+                        0.22,
+                        0.88,
+                        1
+                    ],
+                    "varname": "teach_local_s1_bed_control_flash"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_local_s1_bed_active_light",
+                    "maxclass": "toggle",
+                    "numinlets": 1,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        "int"
+                    ],
+                    "parameter_enable": 0,
+                    "patching_rect": [
+                        370,
+                        2201,
+                        16,
+                        16
+                    ],
+                    "bgcolor": [
+                        0.22,
+                        0.22,
+                        0.24,
+                        1
+                    ],
+                    "checkedcolor": [
+                        0.96,
+                        0.72,
+                        0.12,
+                        1
+                    ],
+                    "uncheckedcolor": [
+                        0.12,
+                        0.12,
+                        0.13,
+                        1
+                    ],
+                    "varname": "teach_local_s1_bed_active_light"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_local_s1_bed_audio_light",
+                    "maxclass": "toggle",
+                    "numinlets": 1,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        "int"
+                    ],
+                    "parameter_enable": 0,
+                    "patching_rect": [
+                        392,
+                        2201,
+                        16,
+                        16
+                    ],
+                    "bgcolor": [
+                        0.22,
+                        0.22,
+                        0.24,
+                        1
+                    ],
+                    "checkedcolor": [
+                        0.18,
+                        0.78,
+                        0.34,
+                        1
+                    ],
+                    "uncheckedcolor": [
+                        0.12,
+                        0.12,
+                        0.13,
+                        1
+                    ],
+                    "varname": "teach_local_s1_bed_audio_light"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_local_s1_bed_peak_label",
+                    "maxclass": "comment",
+                    "numinlets": 1,
+                    "numoutlets": 0,
+                    "patching_rect": [
+                        414,
+                        2201,
+                        16,
+                        18
+                    ],
+                    "text": "峰",
+                    "varname": "teach_local_s1_bed_peak_label",
+                    "fontsize": 10
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_local_s1_bed_peak_value",
+                    "maxclass": "flonum",
+                    "numinlets": 1,
+                    "numoutlets": 2,
+                    "outlettype": [
+                        "",
+                        "bang"
+                    ],
+                    "parameter_enable": 0,
+                    "patching_rect": [
+                        432,
+                        2201,
+                        60,
+                        18
+                    ],
+                    "varname": "teach_local_s1_bed_peak_value"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_local_s2_grains_label",
+                    "maxclass": "comment",
+                    "numinlets": 1,
+                    "numoutlets": 0,
+                    "patching_rect": [
+                        792,
+                        2633,
+                        35,
+                        18
+                    ],
+                    "text": "状态",
+                    "varname": "teach_local_s2_grains_label",
+                    "fontsize": 10
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_local_s2_grains_control_flash",
+                    "maxclass": "button",
+                    "numinlets": 1,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        "bang"
+                    ],
+                    "parameter_enable": 0,
+                    "patching_rect": [
+                        832,
+                        2633,
+                        16,
+                        16
+                    ],
+                    "bgcolor": [
+                        0.22,
+                        0.22,
+                        0.24,
+                        1
+                    ],
+                    "fgcolor": [
+                        0.72,
+                        0.22,
+                        0.88,
+                        1
+                    ],
+                    "varname": "teach_local_s2_grains_control_flash"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_local_s2_grains_active_light",
+                    "maxclass": "toggle",
+                    "numinlets": 1,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        "int"
+                    ],
+                    "parameter_enable": 0,
+                    "patching_rect": [
+                        854,
+                        2633,
+                        16,
+                        16
+                    ],
+                    "bgcolor": [
+                        0.22,
+                        0.22,
+                        0.24,
+                        1
+                    ],
+                    "checkedcolor": [
+                        0.96,
+                        0.72,
+                        0.12,
+                        1
+                    ],
+                    "uncheckedcolor": [
+                        0.12,
+                        0.12,
+                        0.13,
+                        1
+                    ],
+                    "varname": "teach_local_s2_grains_active_light"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_local_s2_grains_audio_light",
+                    "maxclass": "toggle",
+                    "numinlets": 1,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        "int"
+                    ],
+                    "parameter_enable": 0,
+                    "patching_rect": [
+                        876,
+                        2633,
+                        16,
+                        16
+                    ],
+                    "bgcolor": [
+                        0.22,
+                        0.22,
+                        0.24,
+                        1
+                    ],
+                    "checkedcolor": [
+                        0.18,
+                        0.78,
+                        0.34,
+                        1
+                    ],
+                    "uncheckedcolor": [
+                        0.12,
+                        0.12,
+                        0.13,
+                        1
+                    ],
+                    "varname": "teach_local_s2_grains_audio_light"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_local_s2_grains_peak_label",
+                    "maxclass": "comment",
+                    "numinlets": 1,
+                    "numoutlets": 0,
+                    "patching_rect": [
+                        898,
+                        2633,
+                        16,
+                        18
+                    ],
+                    "text": "峰",
+                    "varname": "teach_local_s2_grains_peak_label",
+                    "fontsize": 10
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_local_s2_grains_peak_value",
+                    "maxclass": "flonum",
+                    "numinlets": 1,
+                    "numoutlets": 2,
+                    "outlettype": [
+                        "",
+                        "bang"
+                    ],
+                    "parameter_enable": 0,
+                    "patching_rect": [
+                        916,
+                        2633,
+                        60,
+                        18
+                    ],
+                    "varname": "teach_local_s2_grains_peak_value"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_local_s2_storm_label",
+                    "maxclass": "comment",
+                    "numinlets": 1,
+                    "numoutlets": 0,
+                    "patching_rect": [
+                        135,
+                        2780,
+                        35,
+                        18
+                    ],
+                    "text": "状态",
+                    "varname": "teach_local_s2_storm_label",
+                    "fontsize": 10
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_local_s2_storm_control_flash",
+                    "maxclass": "button",
+                    "numinlets": 1,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        "bang"
+                    ],
+                    "parameter_enable": 0,
+                    "patching_rect": [
+                        175,
+                        2780,
+                        16,
+                        16
+                    ],
+                    "bgcolor": [
+                        0.22,
+                        0.22,
+                        0.24,
+                        1
+                    ],
+                    "fgcolor": [
+                        0.72,
+                        0.22,
+                        0.88,
+                        1
+                    ],
+                    "varname": "teach_local_s2_storm_control_flash"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_local_s2_storm_active_light",
+                    "maxclass": "toggle",
+                    "numinlets": 1,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        "int"
+                    ],
+                    "parameter_enable": 0,
+                    "patching_rect": [
+                        197,
+                        2780,
+                        16,
+                        16
+                    ],
+                    "bgcolor": [
+                        0.22,
+                        0.22,
+                        0.24,
+                        1
+                    ],
+                    "checkedcolor": [
+                        0.96,
+                        0.72,
+                        0.12,
+                        1
+                    ],
+                    "uncheckedcolor": [
+                        0.12,
+                        0.12,
+                        0.13,
+                        1
+                    ],
+                    "varname": "teach_local_s2_storm_active_light"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_local_s2_storm_audio_light",
+                    "maxclass": "toggle",
+                    "numinlets": 1,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        "int"
+                    ],
+                    "parameter_enable": 0,
+                    "patching_rect": [
+                        219,
+                        2780,
+                        16,
+                        16
+                    ],
+                    "bgcolor": [
+                        0.22,
+                        0.22,
+                        0.24,
+                        1
+                    ],
+                    "checkedcolor": [
+                        0.18,
+                        0.78,
+                        0.34,
+                        1
+                    ],
+                    "uncheckedcolor": [
+                        0.12,
+                        0.12,
+                        0.13,
+                        1
+                    ],
+                    "varname": "teach_local_s2_storm_audio_light"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_local_s2_storm_peak_label",
+                    "maxclass": "comment",
+                    "numinlets": 1,
+                    "numoutlets": 0,
+                    "patching_rect": [
+                        241,
+                        2780,
+                        16,
+                        18
+                    ],
+                    "text": "峰",
+                    "varname": "teach_local_s2_storm_peak_label",
+                    "fontsize": 10
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_local_s2_storm_peak_value",
+                    "maxclass": "flonum",
+                    "numinlets": 1,
+                    "numoutlets": 2,
+                    "outlettype": [
+                        "",
+                        "bang"
+                    ],
+                    "parameter_enable": 0,
+                    "patching_rect": [
+                        259,
+                        2780,
+                        60,
+                        18
+                    ],
+                    "varname": "teach_local_s2_storm_peak_value"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_local_s2_hold_label",
+                    "maxclass": "comment",
+                    "numinlets": 1,
+                    "numoutlets": 0,
+                    "patching_rect": [
+                        1041,
+                        2710,
+                        35,
+                        18
+                    ],
+                    "text": "状态",
+                    "varname": "teach_local_s2_hold_label",
+                    "fontsize": 10
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_local_s2_hold_control_flash",
+                    "maxclass": "button",
+                    "numinlets": 1,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        "bang"
+                    ],
+                    "parameter_enable": 0,
+                    "patching_rect": [
+                        1081,
+                        2710,
+                        16,
+                        16
+                    ],
+                    "bgcolor": [
+                        0.22,
+                        0.22,
+                        0.24,
+                        1
+                    ],
+                    "fgcolor": [
+                        0.72,
+                        0.22,
+                        0.88,
+                        1
+                    ],
+                    "varname": "teach_local_s2_hold_control_flash"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_local_s2_hold_active_light",
+                    "maxclass": "toggle",
+                    "numinlets": 1,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        "int"
+                    ],
+                    "parameter_enable": 0,
+                    "patching_rect": [
+                        1103,
+                        2710,
+                        16,
+                        16
+                    ],
+                    "bgcolor": [
+                        0.22,
+                        0.22,
+                        0.24,
+                        1
+                    ],
+                    "checkedcolor": [
+                        0.96,
+                        0.72,
+                        0.12,
+                        1
+                    ],
+                    "uncheckedcolor": [
+                        0.12,
+                        0.12,
+                        0.13,
+                        1
+                    ],
+                    "varname": "teach_local_s2_hold_active_light"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_local_s2_hold_audio_light",
+                    "maxclass": "toggle",
+                    "numinlets": 1,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        "int"
+                    ],
+                    "parameter_enable": 0,
+                    "patching_rect": [
+                        1125,
+                        2710,
+                        16,
+                        16
+                    ],
+                    "bgcolor": [
+                        0.22,
+                        0.22,
+                        0.24,
+                        1
+                    ],
+                    "checkedcolor": [
+                        0.18,
+                        0.78,
+                        0.34,
+                        1
+                    ],
+                    "uncheckedcolor": [
+                        0.12,
+                        0.12,
+                        0.13,
+                        1
+                    ],
+                    "varname": "teach_local_s2_hold_audio_light"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_local_s2_hold_peak_label",
+                    "maxclass": "comment",
+                    "numinlets": 1,
+                    "numoutlets": 0,
+                    "patching_rect": [
+                        1147,
+                        2710,
+                        16,
+                        18
+                    ],
+                    "text": "峰",
+                    "varname": "teach_local_s2_hold_peak_label",
+                    "fontsize": 10
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_local_s2_hold_peak_value",
+                    "maxclass": "flonum",
+                    "numinlets": 1,
+                    "numoutlets": 2,
+                    "outlettype": [
+                        "",
+                        "bang"
+                    ],
+                    "parameter_enable": 0,
+                    "patching_rect": [
+                        1165,
+                        2710,
+                        60,
+                        18
+                    ],
+                    "varname": "teach_local_s2_hold_peak_value"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_local_s2_metal_label",
+                    "maxclass": "comment",
+                    "numinlets": 1,
+                    "numoutlets": 0,
+                    "patching_rect": [
+                        308,
+                        3025,
+                        35,
+                        18
+                    ],
+                    "text": "状态",
+                    "varname": "teach_local_s2_metal_label",
+                    "fontsize": 10
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_local_s2_metal_control_flash",
+                    "maxclass": "button",
+                    "numinlets": 1,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        "bang"
+                    ],
+                    "parameter_enable": 0,
+                    "patching_rect": [
+                        348,
+                        3025,
+                        16,
+                        16
+                    ],
+                    "bgcolor": [
+                        0.22,
+                        0.22,
+                        0.24,
+                        1
+                    ],
+                    "fgcolor": [
+                        0.72,
+                        0.22,
+                        0.88,
+                        1
+                    ],
+                    "varname": "teach_local_s2_metal_control_flash"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_local_s2_metal_active_light",
+                    "maxclass": "toggle",
+                    "numinlets": 1,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        "int"
+                    ],
+                    "parameter_enable": 0,
+                    "patching_rect": [
+                        370,
+                        3025,
+                        16,
+                        16
+                    ],
+                    "bgcolor": [
+                        0.22,
+                        0.22,
+                        0.24,
+                        1
+                    ],
+                    "checkedcolor": [
+                        0.96,
+                        0.72,
+                        0.12,
+                        1
+                    ],
+                    "uncheckedcolor": [
+                        0.12,
+                        0.12,
+                        0.13,
+                        1
+                    ],
+                    "varname": "teach_local_s2_metal_active_light"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_local_s2_metal_audio_light",
+                    "maxclass": "toggle",
+                    "numinlets": 1,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        "int"
+                    ],
+                    "parameter_enable": 0,
+                    "patching_rect": [
+                        392,
+                        3025,
+                        16,
+                        16
+                    ],
+                    "bgcolor": [
+                        0.22,
+                        0.22,
+                        0.24,
+                        1
+                    ],
+                    "checkedcolor": [
+                        0.18,
+                        0.78,
+                        0.34,
+                        1
+                    ],
+                    "uncheckedcolor": [
+                        0.12,
+                        0.12,
+                        0.13,
+                        1
+                    ],
+                    "varname": "teach_local_s2_metal_audio_light"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_local_s2_metal_peak_label",
+                    "maxclass": "comment",
+                    "numinlets": 1,
+                    "numoutlets": 0,
+                    "patching_rect": [
+                        414,
+                        3025,
+                        16,
+                        18
+                    ],
+                    "text": "峰",
+                    "varname": "teach_local_s2_metal_peak_label",
+                    "fontsize": 10
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_local_s2_metal_peak_value",
+                    "maxclass": "flonum",
+                    "numinlets": 1,
+                    "numoutlets": 2,
+                    "outlettype": [
+                        "",
+                        "bang"
+                    ],
+                    "parameter_enable": 0,
+                    "patching_rect": [
+                        432,
+                        3025,
+                        60,
+                        18
+                    ],
+                    "varname": "teach_local_s2_metal_peak_value"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_local_s2_recall_label",
+                    "maxclass": "comment",
+                    "numinlets": 1,
+                    "numoutlets": 0,
+                    "patching_rect": [
+                        1507,
+                        2640,
+                        35,
+                        18
+                    ],
+                    "text": "状态",
+                    "varname": "teach_local_s2_recall_label",
+                    "fontsize": 10
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_local_s2_recall_control_flash",
+                    "maxclass": "button",
+                    "numinlets": 1,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        "bang"
+                    ],
+                    "parameter_enable": 0,
+                    "patching_rect": [
+                        1547,
+                        2640,
+                        16,
+                        16
+                    ],
+                    "bgcolor": [
+                        0.22,
+                        0.22,
+                        0.24,
+                        1
+                    ],
+                    "fgcolor": [
+                        0.72,
+                        0.22,
+                        0.88,
+                        1
+                    ],
+                    "varname": "teach_local_s2_recall_control_flash"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_local_s2_recall_active_light",
+                    "maxclass": "toggle",
+                    "numinlets": 1,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        "int"
+                    ],
+                    "parameter_enable": 0,
+                    "patching_rect": [
+                        1569,
+                        2640,
+                        16,
+                        16
+                    ],
+                    "bgcolor": [
+                        0.22,
+                        0.22,
+                        0.24,
+                        1
+                    ],
+                    "checkedcolor": [
+                        0.96,
+                        0.72,
+                        0.12,
+                        1
+                    ],
+                    "uncheckedcolor": [
+                        0.12,
+                        0.12,
+                        0.13,
+                        1
+                    ],
+                    "varname": "teach_local_s2_recall_active_light"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_local_s2_recall_audio_light",
+                    "maxclass": "toggle",
+                    "numinlets": 1,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        "int"
+                    ],
+                    "parameter_enable": 0,
+                    "patching_rect": [
+                        1591,
+                        2640,
+                        16,
+                        16
+                    ],
+                    "bgcolor": [
+                        0.22,
+                        0.22,
+                        0.24,
+                        1
+                    ],
+                    "checkedcolor": [
+                        0.18,
+                        0.78,
+                        0.34,
+                        1
+                    ],
+                    "uncheckedcolor": [
+                        0.12,
+                        0.12,
+                        0.13,
+                        1
+                    ],
+                    "varname": "teach_local_s2_recall_audio_light"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_local_s2_recall_peak_label",
+                    "maxclass": "comment",
+                    "numinlets": 1,
+                    "numoutlets": 0,
+                    "patching_rect": [
+                        1613,
+                        2640,
+                        16,
+                        18
+                    ],
+                    "text": "峰",
+                    "varname": "teach_local_s2_recall_peak_label",
+                    "fontsize": 10
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_local_s2_recall_peak_value",
+                    "maxclass": "flonum",
+                    "numinlets": 1,
+                    "numoutlets": 2,
+                    "outlettype": [
+                        "",
+                        "bang"
+                    ],
+                    "parameter_enable": 0,
+                    "patching_rect": [
+                        1631,
+                        2640,
+                        60,
+                        18
+                    ],
+                    "varname": "teach_local_s2_recall_peak_value"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_local_s2_debris_label",
+                    "maxclass": "comment",
+                    "numinlets": 1,
+                    "numoutlets": 0,
+                    "patching_rect": [
+                        308,
+                        3414,
+                        35,
+                        18
+                    ],
+                    "text": "状态",
+                    "varname": "teach_local_s2_debris_label",
+                    "fontsize": 10
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_local_s2_debris_control_flash",
+                    "maxclass": "button",
+                    "numinlets": 1,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        "bang"
+                    ],
+                    "parameter_enable": 0,
+                    "patching_rect": [
+                        348,
+                        3414,
+                        16,
+                        16
+                    ],
+                    "bgcolor": [
+                        0.22,
+                        0.22,
+                        0.24,
+                        1
+                    ],
+                    "fgcolor": [
+                        0.72,
+                        0.22,
+                        0.88,
+                        1
+                    ],
+                    "varname": "teach_local_s2_debris_control_flash"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_local_s2_debris_active_light",
+                    "maxclass": "toggle",
+                    "numinlets": 1,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        "int"
+                    ],
+                    "parameter_enable": 0,
+                    "patching_rect": [
+                        370,
+                        3414,
+                        16,
+                        16
+                    ],
+                    "bgcolor": [
+                        0.22,
+                        0.22,
+                        0.24,
+                        1
+                    ],
+                    "checkedcolor": [
+                        0.96,
+                        0.72,
+                        0.12,
+                        1
+                    ],
+                    "uncheckedcolor": [
+                        0.12,
+                        0.12,
+                        0.13,
+                        1
+                    ],
+                    "varname": "teach_local_s2_debris_active_light"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_local_s2_debris_audio_light",
+                    "maxclass": "toggle",
+                    "numinlets": 1,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        "int"
+                    ],
+                    "parameter_enable": 0,
+                    "patching_rect": [
+                        392,
+                        3414,
+                        16,
+                        16
+                    ],
+                    "bgcolor": [
+                        0.22,
+                        0.22,
+                        0.24,
+                        1
+                    ],
+                    "checkedcolor": [
+                        0.18,
+                        0.78,
+                        0.34,
+                        1
+                    ],
+                    "uncheckedcolor": [
+                        0.12,
+                        0.12,
+                        0.13,
+                        1
+                    ],
+                    "varname": "teach_local_s2_debris_audio_light"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_local_s2_debris_peak_label",
+                    "maxclass": "comment",
+                    "numinlets": 1,
+                    "numoutlets": 0,
+                    "patching_rect": [
+                        414,
+                        3414,
+                        16,
+                        18
+                    ],
+                    "text": "峰",
+                    "varname": "teach_local_s2_debris_peak_label",
+                    "fontsize": 10
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_local_s2_debris_peak_value",
+                    "maxclass": "flonum",
+                    "numinlets": 1,
+                    "numoutlets": 2,
+                    "outlettype": [
+                        "",
+                        "bang"
+                    ],
+                    "parameter_enable": 0,
+                    "patching_rect": [
+                        432,
+                        3414,
+                        60,
+                        18
+                    ],
+                    "varname": "teach_local_s2_debris_peak_value"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_local_s3_voice_label",
+                    "maxclass": "comment",
+                    "numinlets": 1,
+                    "numoutlets": 0,
+                    "patching_rect": [
+                        924,
+                        4170,
+                        35,
+                        18
+                    ],
+                    "text": "状态",
+                    "varname": "teach_local_s3_voice_label",
+                    "fontsize": 10
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_local_s3_voice_control_flash",
+                    "maxclass": "button",
+                    "numinlets": 1,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        "bang"
+                    ],
+                    "parameter_enable": 0,
+                    "patching_rect": [
+                        964,
+                        4170,
+                        16,
+                        16
+                    ],
+                    "bgcolor": [
+                        0.22,
+                        0.22,
+                        0.24,
+                        1
+                    ],
+                    "fgcolor": [
+                        0.72,
+                        0.22,
+                        0.88,
+                        1
+                    ],
+                    "varname": "teach_local_s3_voice_control_flash"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_local_s3_voice_active_light",
+                    "maxclass": "toggle",
+                    "numinlets": 1,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        "int"
+                    ],
+                    "parameter_enable": 0,
+                    "patching_rect": [
+                        986,
+                        4170,
+                        16,
+                        16
+                    ],
+                    "bgcolor": [
+                        0.22,
+                        0.22,
+                        0.24,
+                        1
+                    ],
+                    "checkedcolor": [
+                        0.96,
+                        0.72,
+                        0.12,
+                        1
+                    ],
+                    "uncheckedcolor": [
+                        0.12,
+                        0.12,
+                        0.13,
+                        1
+                    ],
+                    "varname": "teach_local_s3_voice_active_light"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_local_s3_voice_audio_light",
+                    "maxclass": "toggle",
+                    "numinlets": 1,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        "int"
+                    ],
+                    "parameter_enable": 0,
+                    "patching_rect": [
+                        1008,
+                        4170,
+                        16,
+                        16
+                    ],
+                    "bgcolor": [
+                        0.22,
+                        0.22,
+                        0.24,
+                        1
+                    ],
+                    "checkedcolor": [
+                        0.18,
+                        0.78,
+                        0.34,
+                        1
+                    ],
+                    "uncheckedcolor": [
+                        0.12,
+                        0.12,
+                        0.13,
+                        1
+                    ],
+                    "varname": "teach_local_s3_voice_audio_light"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_local_s3_voice_peak_label",
+                    "maxclass": "comment",
+                    "numinlets": 1,
+                    "numoutlets": 0,
+                    "patching_rect": [
+                        1030,
+                        4170,
+                        16,
+                        18
+                    ],
+                    "text": "峰",
+                    "varname": "teach_local_s3_voice_peak_label",
+                    "fontsize": 10
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_local_s3_voice_peak_value",
+                    "maxclass": "flonum",
+                    "numinlets": 1,
+                    "numoutlets": 2,
+                    "outlettype": [
+                        "",
+                        "bang"
+                    ],
+                    "parameter_enable": 0,
+                    "patching_rect": [
+                        1048,
+                        4170,
+                        60,
+                        18
+                    ],
+                    "varname": "teach_local_s3_voice_peak_value"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_local_s3_oracle_label",
+                    "maxclass": "comment",
+                    "numinlets": 1,
+                    "numoutlets": 0,
+                    "patching_rect": [
+                        1628,
+                        3970,
+                        35,
+                        18
+                    ],
+                    "text": "状态",
+                    "varname": "teach_local_s3_oracle_label",
+                    "fontsize": 10
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_local_s3_oracle_control_flash",
+                    "maxclass": "button",
+                    "numinlets": 1,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        "bang"
+                    ],
+                    "parameter_enable": 0,
+                    "patching_rect": [
+                        1668,
+                        3970,
+                        16,
+                        16
+                    ],
+                    "bgcolor": [
+                        0.22,
+                        0.22,
+                        0.24,
+                        1
+                    ],
+                    "fgcolor": [
+                        0.72,
+                        0.22,
+                        0.88,
+                        1
+                    ],
+                    "varname": "teach_local_s3_oracle_control_flash"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_local_s3_oracle_active_light",
+                    "maxclass": "toggle",
+                    "numinlets": 1,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        "int"
+                    ],
+                    "parameter_enable": 0,
+                    "patching_rect": [
+                        1690,
+                        3970,
+                        16,
+                        16
+                    ],
+                    "bgcolor": [
+                        0.22,
+                        0.22,
+                        0.24,
+                        1
+                    ],
+                    "checkedcolor": [
+                        0.96,
+                        0.72,
+                        0.12,
+                        1
+                    ],
+                    "uncheckedcolor": [
+                        0.12,
+                        0.12,
+                        0.13,
+                        1
+                    ],
+                    "varname": "teach_local_s3_oracle_active_light"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_local_s3_oracle_audio_light",
+                    "maxclass": "toggle",
+                    "numinlets": 1,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        "int"
+                    ],
+                    "parameter_enable": 0,
+                    "patching_rect": [
+                        1712,
+                        3970,
+                        16,
+                        16
+                    ],
+                    "bgcolor": [
+                        0.22,
+                        0.22,
+                        0.24,
+                        1
+                    ],
+                    "checkedcolor": [
+                        0.18,
+                        0.78,
+                        0.34,
+                        1
+                    ],
+                    "uncheckedcolor": [
+                        0.12,
+                        0.12,
+                        0.13,
+                        1
+                    ],
+                    "varname": "teach_local_s3_oracle_audio_light"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_local_s3_oracle_peak_label",
+                    "maxclass": "comment",
+                    "numinlets": 1,
+                    "numoutlets": 0,
+                    "patching_rect": [
+                        1734,
+                        3970,
+                        16,
+                        18
+                    ],
+                    "text": "峰",
+                    "varname": "teach_local_s3_oracle_peak_label",
+                    "fontsize": 10
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_local_s3_oracle_peak_value",
+                    "maxclass": "flonum",
+                    "numinlets": 1,
+                    "numoutlets": 2,
+                    "outlettype": [
+                        "",
+                        "bang"
+                    ],
+                    "parameter_enable": 0,
+                    "patching_rect": [
+                        1752,
+                        3970,
+                        60,
+                        18
+                    ],
+                    "varname": "teach_local_s3_oracle_peak_value"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_local_s3_recall_label",
+                    "maxclass": "comment",
+                    "numinlets": 1,
+                    "numoutlets": 0,
+                    "patching_rect": [
+                        1628,
+                        4042,
+                        35,
+                        18
+                    ],
+                    "text": "状态",
+                    "varname": "teach_local_s3_recall_label",
+                    "fontsize": 10
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_local_s3_recall_control_flash",
+                    "maxclass": "button",
+                    "numinlets": 1,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        "bang"
+                    ],
+                    "parameter_enable": 0,
+                    "patching_rect": [
+                        1668,
+                        4042,
+                        16,
+                        16
+                    ],
+                    "bgcolor": [
+                        0.22,
+                        0.22,
+                        0.24,
+                        1
+                    ],
+                    "fgcolor": [
+                        0.72,
+                        0.22,
+                        0.88,
+                        1
+                    ],
+                    "varname": "teach_local_s3_recall_control_flash"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_local_s3_recall_active_light",
+                    "maxclass": "toggle",
+                    "numinlets": 1,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        "int"
+                    ],
+                    "parameter_enable": 0,
+                    "patching_rect": [
+                        1690,
+                        4042,
+                        16,
+                        16
+                    ],
+                    "bgcolor": [
+                        0.22,
+                        0.22,
+                        0.24,
+                        1
+                    ],
+                    "checkedcolor": [
+                        0.96,
+                        0.72,
+                        0.12,
+                        1
+                    ],
+                    "uncheckedcolor": [
+                        0.12,
+                        0.12,
+                        0.13,
+                        1
+                    ],
+                    "varname": "teach_local_s3_recall_active_light"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_local_s3_recall_audio_light",
+                    "maxclass": "toggle",
+                    "numinlets": 1,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        "int"
+                    ],
+                    "parameter_enable": 0,
+                    "patching_rect": [
+                        1712,
+                        4042,
+                        16,
+                        16
+                    ],
+                    "bgcolor": [
+                        0.22,
+                        0.22,
+                        0.24,
+                        1
+                    ],
+                    "checkedcolor": [
+                        0.18,
+                        0.78,
+                        0.34,
+                        1
+                    ],
+                    "uncheckedcolor": [
+                        0.12,
+                        0.12,
+                        0.13,
+                        1
+                    ],
+                    "varname": "teach_local_s3_recall_audio_light"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_local_s3_recall_peak_label",
+                    "maxclass": "comment",
+                    "numinlets": 1,
+                    "numoutlets": 0,
+                    "patching_rect": [
+                        1734,
+                        4042,
+                        16,
+                        18
+                    ],
+                    "text": "峰",
+                    "varname": "teach_local_s3_recall_peak_label",
+                    "fontsize": 10
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_local_s3_recall_peak_value",
+                    "maxclass": "flonum",
+                    "numinlets": 1,
+                    "numoutlets": 2,
+                    "outlettype": [
+                        "",
+                        "bang"
+                    ],
+                    "parameter_enable": 0,
+                    "patching_rect": [
+                        1752,
+                        4042,
+                        60,
+                        18
+                    ],
+                    "varname": "teach_local_s3_recall_peak_value"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_local_s3_bed_label",
+                    "maxclass": "comment",
+                    "numinlets": 1,
+                    "numoutlets": 0,
+                    "patching_rect": [
+                        308,
+                        4279,
+                        35,
+                        18
+                    ],
+                    "text": "状态",
+                    "varname": "teach_local_s3_bed_label",
+                    "fontsize": 10
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_local_s3_bed_control_flash",
+                    "maxclass": "button",
+                    "numinlets": 1,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        "bang"
+                    ],
+                    "parameter_enable": 0,
+                    "patching_rect": [
+                        348,
+                        4279,
+                        16,
+                        16
+                    ],
+                    "bgcolor": [
+                        0.22,
+                        0.22,
+                        0.24,
+                        1
+                    ],
+                    "fgcolor": [
+                        0.72,
+                        0.22,
+                        0.88,
+                        1
+                    ],
+                    "varname": "teach_local_s3_bed_control_flash"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_local_s3_bed_active_light",
+                    "maxclass": "toggle",
+                    "numinlets": 1,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        "int"
+                    ],
+                    "parameter_enable": 0,
+                    "patching_rect": [
+                        370,
+                        4279,
+                        16,
+                        16
+                    ],
+                    "bgcolor": [
+                        0.22,
+                        0.22,
+                        0.24,
+                        1
+                    ],
+                    "checkedcolor": [
+                        0.96,
+                        0.72,
+                        0.12,
+                        1
+                    ],
+                    "uncheckedcolor": [
+                        0.12,
+                        0.12,
+                        0.13,
+                        1
+                    ],
+                    "varname": "teach_local_s3_bed_active_light"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_local_s3_bed_audio_light",
+                    "maxclass": "toggle",
+                    "numinlets": 1,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        "int"
+                    ],
+                    "parameter_enable": 0,
+                    "patching_rect": [
+                        392,
+                        4279,
+                        16,
+                        16
+                    ],
+                    "bgcolor": [
+                        0.22,
+                        0.22,
+                        0.24,
+                        1
+                    ],
+                    "checkedcolor": [
+                        0.18,
+                        0.78,
+                        0.34,
+                        1
+                    ],
+                    "uncheckedcolor": [
+                        0.12,
+                        0.12,
+                        0.13,
+                        1
+                    ],
+                    "varname": "teach_local_s3_bed_audio_light"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_local_s3_bed_peak_label",
+                    "maxclass": "comment",
+                    "numinlets": 1,
+                    "numoutlets": 0,
+                    "patching_rect": [
+                        414,
+                        4279,
+                        16,
+                        18
+                    ],
+                    "text": "峰",
+                    "varname": "teach_local_s3_bed_peak_label",
+                    "fontsize": 10
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_local_s3_bed_peak_value",
+                    "maxclass": "flonum",
+                    "numinlets": 1,
+                    "numoutlets": 2,
+                    "outlettype": [
+                        "",
+                        "bang"
+                    ],
+                    "parameter_enable": 0,
+                    "patching_rect": [
+                        432,
+                        4279,
+                        60,
+                        18
+                    ],
+                    "varname": "teach_local_s3_bed_peak_value"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_local_s3_wave_label",
+                    "maxclass": "comment",
+                    "numinlets": 1,
+                    "numoutlets": 0,
+                    "patching_rect": [
+                        1065,
+                        4680,
+                        35,
+                        18
+                    ],
+                    "text": "状态",
+                    "varname": "teach_local_s3_wave_label",
+                    "fontsize": 10
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_local_s3_wave_control_flash",
+                    "maxclass": "button",
+                    "numinlets": 1,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        "bang"
+                    ],
+                    "parameter_enable": 0,
+                    "patching_rect": [
+                        1105,
+                        4680,
+                        16,
+                        16
+                    ],
+                    "bgcolor": [
+                        0.22,
+                        0.22,
+                        0.24,
+                        1
+                    ],
+                    "fgcolor": [
+                        0.72,
+                        0.22,
+                        0.88,
+                        1
+                    ],
+                    "varname": "teach_local_s3_wave_control_flash"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_local_s3_wave_active_light",
+                    "maxclass": "toggle",
+                    "numinlets": 1,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        "int"
+                    ],
+                    "parameter_enable": 0,
+                    "patching_rect": [
+                        1127,
+                        4680,
+                        16,
+                        16
+                    ],
+                    "bgcolor": [
+                        0.22,
+                        0.22,
+                        0.24,
+                        1
+                    ],
+                    "checkedcolor": [
+                        0.96,
+                        0.72,
+                        0.12,
+                        1
+                    ],
+                    "uncheckedcolor": [
+                        0.12,
+                        0.12,
+                        0.13,
+                        1
+                    ],
+                    "varname": "teach_local_s3_wave_active_light"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_local_s3_wave_audio_light",
+                    "maxclass": "toggle",
+                    "numinlets": 1,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        "int"
+                    ],
+                    "parameter_enable": 0,
+                    "patching_rect": [
+                        1149,
+                        4680,
+                        16,
+                        16
+                    ],
+                    "bgcolor": [
+                        0.22,
+                        0.22,
+                        0.24,
+                        1
+                    ],
+                    "checkedcolor": [
+                        0.18,
+                        0.78,
+                        0.34,
+                        1
+                    ],
+                    "uncheckedcolor": [
+                        0.12,
+                        0.12,
+                        0.13,
+                        1
+                    ],
+                    "varname": "teach_local_s3_wave_audio_light"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_local_s3_wave_peak_label",
+                    "maxclass": "comment",
+                    "numinlets": 1,
+                    "numoutlets": 0,
+                    "patching_rect": [
+                        1171,
+                        4680,
+                        16,
+                        18
+                    ],
+                    "text": "峰",
+                    "varname": "teach_local_s3_wave_peak_label",
+                    "fontsize": 10
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_local_s3_wave_peak_value",
+                    "maxclass": "flonum",
+                    "numinlets": 1,
+                    "numoutlets": 2,
+                    "outlettype": [
+                        "",
+                        "bang"
+                    ],
+                    "parameter_enable": 0,
+                    "patching_rect": [
+                        1189,
+                        4680,
+                        60,
+                        18
+                    ],
+                    "varname": "teach_local_s3_wave_peak_value"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_output_header",
+                    "maxclass": "comment",
+                    "numinlets": 1,
+                    "numoutlets": 0,
+                    "patching_rect": [
+                        40,
+                        6660,
+                        1200,
+                        26
+                    ],
+                    "text": "舞台／总输出：这里确认“模块有声”是否真的经过场景增益到达扬声器",
+                    "varname": "teach_output_header",
+                    "fontface": 1,
+                    "fontsize": 16,
+                    "textcolor": [
+                        0.22,
+                        0.48,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_output_s1_label",
+                    "maxclass": "comment",
+                    "numinlets": 1,
+                    "numoutlets": 0,
+                    "patching_rect": [
+                        40,
+                        6700,
+                        150,
+                        22
+                    ],
+                    "text": "STAGE 1 OUT",
+                    "varname": "teach_output_s1_label",
+                    "fontface": 1
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_output_s1_receive",
+                    "maxclass": "newobj",
+                    "numinlets": 0,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        "signal"
+                    ],
+                    "patching_rect": [
+                        40,
+                        6728,
+                        180,
+                        22
+                    ],
+                    "text": "receive~ nostos_s1_l",
+                    "varname": "teach_output_s1_receive"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_output_s1_meter",
+                    "maxclass": "meter~",
+                    "numinlets": 1,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        "float"
+                    ],
+                    "patching_rect": [
+                        230,
+                        6700,
+                        18,
+                        80
+                    ],
+                    "varname": "teach_output_s1_meter"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_output_s1_peak",
+                    "maxclass": "newobj",
+                    "numinlets": 1,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        "float"
+                    ],
+                    "patching_rect": [
+                        40,
+                        6760,
+                        90,
+                        22
+                    ],
+                    "text": "peakamp~ 100",
+                    "varname": "teach_output_s1_peak"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_output_s1_value",
+                    "maxclass": "flonum",
+                    "numinlets": 1,
+                    "numoutlets": 2,
+                    "outlettype": [
+                        "",
+                        "bang"
+                    ],
+                    "parameter_enable": 0,
+                    "patching_rect": [
+                        145,
+                        6760,
+                        65,
+                        22
+                    ],
+                    "varname": "teach_output_s1_value"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_output_s2_l_label",
+                    "maxclass": "comment",
+                    "numinlets": 1,
+                    "numoutlets": 0,
+                    "patching_rect": [
+                        410,
+                        6700,
+                        150,
+                        22
+                    ],
+                    "text": "STAGE 2 L",
+                    "varname": "teach_output_s2_l_label",
+                    "fontface": 1
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_output_s2_l_receive",
+                    "maxclass": "newobj",
+                    "numinlets": 0,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        "signal"
+                    ],
+                    "patching_rect": [
+                        410,
+                        6728,
+                        180,
+                        22
+                    ],
+                    "text": "receive~ nostos_s2_l",
+                    "varname": "teach_output_s2_l_receive"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_output_s2_l_meter",
+                    "maxclass": "meter~",
+                    "numinlets": 1,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        "float"
+                    ],
+                    "patching_rect": [
+                        600,
+                        6700,
+                        18,
+                        80
+                    ],
+                    "varname": "teach_output_s2_l_meter"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_output_s2_l_peak",
+                    "maxclass": "newobj",
+                    "numinlets": 1,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        "float"
+                    ],
+                    "patching_rect": [
+                        410,
+                        6760,
+                        90,
+                        22
+                    ],
+                    "text": "peakamp~ 100",
+                    "varname": "teach_output_s2_l_peak"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_output_s2_l_value",
+                    "maxclass": "flonum",
+                    "numinlets": 1,
+                    "numoutlets": 2,
+                    "outlettype": [
+                        "",
+                        "bang"
+                    ],
+                    "parameter_enable": 0,
+                    "patching_rect": [
+                        515,
+                        6760,
+                        65,
+                        22
+                    ],
+                    "varname": "teach_output_s2_l_value"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_output_s2_r_label",
+                    "maxclass": "comment",
+                    "numinlets": 1,
+                    "numoutlets": 0,
+                    "patching_rect": [
+                        780,
+                        6700,
+                        150,
+                        22
+                    ],
+                    "text": "STAGE 2 R",
+                    "varname": "teach_output_s2_r_label",
+                    "fontface": 1
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_output_s2_r_receive",
+                    "maxclass": "newobj",
+                    "numinlets": 0,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        "signal"
+                    ],
+                    "patching_rect": [
+                        780,
+                        6728,
+                        180,
+                        22
+                    ],
+                    "text": "receive~ nostos_s2_r",
+                    "varname": "teach_output_s2_r_receive"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_output_s2_r_meter",
+                    "maxclass": "meter~",
+                    "numinlets": 1,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        "float"
+                    ],
+                    "patching_rect": [
+                        970,
+                        6700,
+                        18,
+                        80
+                    ],
+                    "varname": "teach_output_s2_r_meter"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_output_s2_r_peak",
+                    "maxclass": "newobj",
+                    "numinlets": 1,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        "float"
+                    ],
+                    "patching_rect": [
+                        780,
+                        6760,
+                        90,
+                        22
+                    ],
+                    "text": "peakamp~ 100",
+                    "varname": "teach_output_s2_r_peak"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_output_s2_r_value",
+                    "maxclass": "flonum",
+                    "numinlets": 1,
+                    "numoutlets": 2,
+                    "outlettype": [
+                        "",
+                        "bang"
+                    ],
+                    "parameter_enable": 0,
+                    "patching_rect": [
+                        885,
+                        6760,
+                        65,
+                        22
+                    ],
+                    "varname": "teach_output_s2_r_value"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_output_s3_label",
+                    "maxclass": "comment",
+                    "numinlets": 1,
+                    "numoutlets": 0,
+                    "patching_rect": [
+                        1150,
+                        6700,
+                        150,
+                        22
+                    ],
+                    "text": "STAGE 3 OUT",
+                    "varname": "teach_output_s3_label",
+                    "fontface": 1
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_output_s3_receive",
+                    "maxclass": "newobj",
+                    "numinlets": 0,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        "signal"
+                    ],
+                    "patching_rect": [
+                        1150,
+                        6728,
+                        180,
+                        22
+                    ],
+                    "text": "receive~ nostos_s3_l",
+                    "varname": "teach_output_s3_receive"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_output_s3_meter",
+                    "maxclass": "meter~",
+                    "numinlets": 1,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        "float"
+                    ],
+                    "patching_rect": [
+                        1340,
+                        6700,
+                        18,
+                        80
+                    ],
+                    "varname": "teach_output_s3_meter"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_output_s3_peak",
+                    "maxclass": "newobj",
+                    "numinlets": 1,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        "float"
+                    ],
+                    "patching_rect": [
+                        1150,
+                        6760,
+                        90,
+                        22
+                    ],
+                    "text": "peakamp~ 100",
+                    "varname": "teach_output_s3_peak"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_output_s3_value",
+                    "maxclass": "flonum",
+                    "numinlets": 1,
+                    "numoutlets": 2,
+                    "outlettype": [
+                        "",
+                        "bang"
+                    ],
+                    "parameter_enable": 0,
+                    "patching_rect": [
+                        1255,
+                        6760,
+                        65,
+                        22
+                    ],
+                    "varname": "teach_output_s3_value"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_output_master_l_label",
+                    "maxclass": "comment",
+                    "numinlets": 1,
+                    "numoutlets": 0,
+                    "patching_rect": [
+                        1520,
+                        6700,
+                        150,
+                        22
+                    ],
+                    "text": "MASTER L",
+                    "varname": "teach_output_master_l_label",
+                    "fontface": 1
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_output_master_l_receive",
+                    "maxclass": "newobj",
+                    "numinlets": 0,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        "signal"
+                    ],
+                    "patching_rect": [
+                        1520,
+                        6728,
+                        180,
+                        22
+                    ],
+                    "text": "receive~ teach_master_l_sig",
+                    "varname": "teach_output_master_l_receive"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_output_master_l_meter",
+                    "maxclass": "meter~",
+                    "numinlets": 1,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        "float"
+                    ],
+                    "patching_rect": [
+                        1710,
+                        6700,
+                        18,
+                        80
+                    ],
+                    "varname": "teach_output_master_l_meter"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_output_master_l_peak",
+                    "maxclass": "newobj",
+                    "numinlets": 1,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        "float"
+                    ],
+                    "patching_rect": [
+                        1520,
+                        6760,
+                        90,
+                        22
+                    ],
+                    "text": "peakamp~ 100",
+                    "varname": "teach_output_master_l_peak"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_output_master_l_value",
+                    "maxclass": "flonum",
+                    "numinlets": 1,
+                    "numoutlets": 2,
+                    "outlettype": [
+                        "",
+                        "bang"
+                    ],
+                    "parameter_enable": 0,
+                    "patching_rect": [
+                        1625,
+                        6760,
+                        65,
+                        22
+                    ],
+                    "varname": "teach_output_master_l_value"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_output_master_r_label",
+                    "maxclass": "comment",
+                    "numinlets": 1,
+                    "numoutlets": 0,
+                    "patching_rect": [
+                        1890,
+                        6700,
+                        150,
+                        22
+                    ],
+                    "text": "MASTER R",
+                    "varname": "teach_output_master_r_label",
+                    "fontface": 1
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_output_master_r_receive",
+                    "maxclass": "newobj",
+                    "numinlets": 0,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        "signal"
+                    ],
+                    "patching_rect": [
+                        1890,
+                        6728,
+                        180,
+                        22
+                    ],
+                    "text": "receive~ teach_master_r_sig",
+                    "varname": "teach_output_master_r_receive"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_output_master_r_meter",
+                    "maxclass": "meter~",
+                    "numinlets": 1,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        "float"
+                    ],
+                    "patching_rect": [
+                        2080,
+                        6700,
+                        18,
+                        80
+                    ],
+                    "varname": "teach_output_master_r_meter"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_output_master_r_peak",
+                    "maxclass": "newobj",
+                    "numinlets": 1,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        "float"
+                    ],
+                    "patching_rect": [
+                        1890,
+                        6760,
+                        90,
+                        22
+                    ],
+                    "text": "peakamp~ 100",
+                    "varname": "teach_output_master_r_peak"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_output_master_r_value",
+                    "maxclass": "flonum",
+                    "numinlets": 1,
+                    "numoutlets": 2,
+                    "outlettype": [
+                        "",
+                        "bang"
+                    ],
+                    "parameter_enable": 0,
+                    "patching_rect": [
+                        1995,
+                        6760,
+                        65,
+                        22
+                    ],
+                    "varname": "teach_output_master_r_value"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_signal_taps_header",
+                    "maxclass": "comment",
+                    "numinlets": 1,
+                    "numoutlets": 0,
+                    "patching_rect": [
+                        40,
+                        6840,
+                        1200,
+                        24
+                    ],
+                    "text": "内部只读监听总线（隐藏连线只为保持主流程清楚；源对象见右侧说明）",
+                    "varname": "teach_signal_taps_header",
+                    "fontface": 1,
+                    "textcolor": [
+                        0.22,
+                        0.48,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_tap_s1_voice_gain",
+                    "maxclass": "newobj",
+                    "numinlets": 2,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        "signal"
+                    ],
+                    "patching_rect": [
+                        40,
+                        6880,
+                        40,
+                        22
+                    ],
+                    "text": "*~ 1.",
+                    "varname": "teach_tap_s1_voice_gain"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_tap_s1_voice_send",
+                    "maxclass": "newobj",
+                    "numinlets": 1,
+                    "numoutlets": 0,
+                    "outlettype": [],
+                    "patching_rect": [
+                        90,
+                        6880,
+                        190,
+                        22
+                    ],
+                    "text": "send~ teach_s1_voice_sig",
+                    "varname": "teach_tap_s1_voice_send"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_tap_s1_voice_source",
+                    "maxclass": "comment",
+                    "numinlets": 1,
+                    "numoutlets": 0,
+                    "patching_rect": [
+                        290,
+                        6880,
+                        270,
+                        22
+                    ],
+                    "text": "← s1_auto_gain",
+                    "varname": "teach_tap_s1_voice_source"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_tap_s1_bed_gain",
+                    "maxclass": "newobj",
+                    "numinlets": 2,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        "signal"
+                    ],
+                    "patching_rect": [
+                        610,
+                        6880,
+                        40,
+                        22
+                    ],
+                    "text": "*~ 1.",
+                    "varname": "teach_tap_s1_bed_gain"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_tap_s1_bed_send",
+                    "maxclass": "newobj",
+                    "numinlets": 1,
+                    "numoutlets": 0,
+                    "outlettype": [],
+                    "patching_rect": [
+                        660,
+                        6880,
+                        190,
+                        22
+                    ],
+                    "text": "send~ teach_s1_bed_sig",
+                    "varname": "teach_tap_s1_bed_send"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_tap_s1_bed_source",
+                    "maxclass": "comment",
+                    "numinlets": 1,
+                    "numoutlets": 0,
+                    "patching_rect": [
+                        860,
+                        6880,
+                        270,
+                        22
+                    ],
+                    "text": "← s1_bed_user_gain",
+                    "varname": "teach_tap_s1_bed_source"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_tap_s2_grain_gain",
+                    "maxclass": "newobj",
+                    "numinlets": 2,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        "signal"
+                    ],
+                    "patching_rect": [
+                        1180,
+                        6880,
+                        40,
+                        22
+                    ],
+                    "text": "*~ 1.",
+                    "varname": "teach_tap_s2_grain_gain"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_tap_s2_grain_send",
+                    "maxclass": "newobj",
+                    "numinlets": 1,
+                    "numoutlets": 0,
+                    "outlettype": [],
+                    "patching_rect": [
+                        1230,
+                        6880,
+                        190,
+                        22
+                    ],
+                    "text": "send~ teach_s2_grain_sig",
+                    "varname": "teach_tap_s2_grain_send"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_tap_s2_grain_source",
+                    "maxclass": "comment",
+                    "numinlets": 1,
+                    "numoutlets": 0,
+                    "patching_rect": [
+                        1430,
+                        6880,
+                        270,
+                        22
+                    ],
+                    "text": "← s2_slice_level × s2_voice_line",
+                    "varname": "teach_tap_s2_grain_source"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_tap_s2_recall_gain",
+                    "maxclass": "newobj",
+                    "numinlets": 2,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        "signal"
+                    ],
+                    "patching_rect": [
+                        1750,
+                        6880,
+                        40,
+                        22
+                    ],
+                    "text": "*~ 1.",
+                    "varname": "teach_tap_s2_recall_gain"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_tap_s2_recall_send",
+                    "maxclass": "newobj",
+                    "numinlets": 1,
+                    "numoutlets": 0,
+                    "outlettype": [],
+                    "patching_rect": [
+                        1800,
+                        6880,
+                        190,
+                        22
+                    ],
+                    "text": "send~ teach_s2_recall_sig",
+                    "varname": "teach_tap_s2_recall_send"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_tap_s2_recall_source",
+                    "maxclass": "comment",
+                    "numinlets": 1,
+                    "numoutlets": 0,
+                    "patching_rect": [
+                        2000,
+                        6880,
+                        270,
+                        22
+                    ],
+                    "text": "← s2_recall_level × s2_voice_line",
+                    "varname": "teach_tap_s2_recall_source"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_tap_s2_hold_gain",
+                    "maxclass": "newobj",
+                    "numinlets": 2,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        "signal"
+                    ],
+                    "patching_rect": [
+                        40,
+                        6925,
+                        40,
+                        22
+                    ],
+                    "text": "*~ 1.",
+                    "varname": "teach_tap_s2_hold_gain"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_tap_s2_hold_send",
+                    "maxclass": "newobj",
+                    "numinlets": 1,
+                    "numoutlets": 0,
+                    "outlettype": [],
+                    "patching_rect": [
+                        90,
+                        6925,
+                        190,
+                        22
+                    ],
+                    "text": "send~ teach_s2_hold_sig",
+                    "varname": "teach_tap_s2_hold_send"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_tap_s2_hold_source",
+                    "maxclass": "comment",
+                    "numinlets": 1,
+                    "numoutlets": 0,
+                    "patching_rect": [
+                        290,
+                        6925,
+                        270,
+                        22
+                    ],
+                    "text": "← s2_hold_level × s2_voice_line",
+                    "varname": "teach_tap_s2_hold_source"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_tap_s2_metal_gain",
+                    "maxclass": "newobj",
+                    "numinlets": 2,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        "signal"
+                    ],
+                    "patching_rect": [
+                        610,
+                        6925,
+                        40,
+                        22
+                    ],
+                    "text": "*~ 1.",
+                    "varname": "teach_tap_s2_metal_gain"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_tap_s2_metal_send",
+                    "maxclass": "newobj",
+                    "numinlets": 1,
+                    "numoutlets": 0,
+                    "outlettype": [],
+                    "patching_rect": [
+                        660,
+                        6925,
+                        190,
+                        22
+                    ],
+                    "text": "send~ teach_s2_metal_sig",
+                    "varname": "teach_tap_s2_metal_send"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_tap_s2_metal_source",
+                    "maxclass": "comment",
+                    "numinlets": 1,
+                    "numoutlets": 0,
+                    "patching_rect": [
+                        860,
+                        6925,
+                        270,
+                        22
+                    ],
+                    "text": "← s2_metal_level × s2_bed_line",
+                    "varname": "teach_tap_s2_metal_source"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_tap_s2_debris_gain",
+                    "maxclass": "newobj",
+                    "numinlets": 2,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        "signal"
+                    ],
+                    "patching_rect": [
+                        1180,
+                        6925,
+                        40,
+                        22
+                    ],
+                    "text": "*~ 1.",
+                    "varname": "teach_tap_s2_debris_gain"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_tap_s2_debris_send",
+                    "maxclass": "newobj",
+                    "numinlets": 1,
+                    "numoutlets": 0,
+                    "outlettype": [],
+                    "patching_rect": [
+                        1230,
+                        6925,
+                        190,
+                        22
+                    ],
+                    "text": "send~ teach_s2_debris_sig",
+                    "varname": "teach_tap_s2_debris_send"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_tap_s2_debris_source",
+                    "maxclass": "comment",
+                    "numinlets": 1,
+                    "numoutlets": 0,
+                    "patching_rect": [
+                        1430,
+                        6925,
+                        270,
+                        22
+                    ],
+                    "text": "← s2_bed_particle_event_mix × s2_bed_line",
+                    "varname": "teach_tap_s2_debris_source"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_tap_s3_voice_gain",
+                    "maxclass": "newobj",
+                    "numinlets": 2,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        "signal"
+                    ],
+                    "patching_rect": [
+                        1750,
+                        6925,
+                        40,
+                        22
+                    ],
+                    "text": "*~ 1.",
+                    "varname": "teach_tap_s3_voice_gain"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_tap_s3_voice_send",
+                    "maxclass": "newobj",
+                    "numinlets": 1,
+                    "numoutlets": 0,
+                    "outlettype": [],
+                    "patching_rect": [
+                        1800,
+                        6925,
+                        190,
+                        22
+                    ],
+                    "text": "send~ teach_s3_voice_sig",
+                    "varname": "teach_tap_s3_voice_send"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_tap_s3_voice_source",
+                    "maxclass": "comment",
+                    "numinlets": 1,
+                    "numoutlets": 0,
+                    "patching_rect": [
+                        2000,
+                        6925,
+                        270,
+                        22
+                    ],
+                    "text": "← s3_auto_gain",
+                    "varname": "teach_tap_s3_voice_source"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_tap_s3_recall_gain",
+                    "maxclass": "newobj",
+                    "numinlets": 2,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        "signal"
+                    ],
+                    "patching_rect": [
+                        40,
+                        6970,
+                        40,
+                        22
+                    ],
+                    "text": "*~ 1.",
+                    "varname": "teach_tap_s3_recall_gain"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_tap_s3_recall_send",
+                    "maxclass": "newobj",
+                    "numinlets": 1,
+                    "numoutlets": 0,
+                    "outlettype": [],
+                    "patching_rect": [
+                        90,
+                        6970,
+                        190,
+                        22
+                    ],
+                    "text": "send~ teach_s3_recall_sig",
+                    "varname": "teach_tap_s3_recall_send"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_tap_s3_recall_source",
+                    "maxclass": "comment",
+                    "numinlets": 1,
+                    "numoutlets": 0,
+                    "patching_rect": [
+                        290,
+                        6970,
+                        270,
+                        22
+                    ],
+                    "text": "← s3_recall_level",
+                    "varname": "teach_tap_s3_recall_source"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_tap_s3_bed_gain",
+                    "maxclass": "newobj",
+                    "numinlets": 2,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        "signal"
+                    ],
+                    "patching_rect": [
+                        610,
+                        6970,
+                        40,
+                        22
+                    ],
+                    "text": "*~ 1.",
+                    "varname": "teach_tap_s3_bed_gain"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_tap_s3_bed_send",
+                    "maxclass": "newobj",
+                    "numinlets": 1,
+                    "numoutlets": 0,
+                    "outlettype": [],
+                    "patching_rect": [
+                        660,
+                        6970,
+                        190,
+                        22
+                    ],
+                    "text": "send~ teach_s3_bed_sig",
+                    "varname": "teach_tap_s3_bed_send"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_tap_s3_bed_source",
+                    "maxclass": "comment",
+                    "numinlets": 1,
+                    "numoutlets": 0,
+                    "patching_rect": [
+                        860,
+                        6970,
+                        270,
+                        22
+                    ],
+                    "text": "← s3_bed_add_sand × s3_bed_line",
+                    "varname": "teach_tap_s3_bed_source"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_tap_s3_wave_gain",
+                    "maxclass": "newobj",
+                    "numinlets": 2,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        "signal"
+                    ],
+                    "patching_rect": [
+                        1180,
+                        6970,
+                        40,
+                        22
+                    ],
+                    "text": "*~ 1.",
+                    "varname": "teach_tap_s3_wave_gain"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_tap_s3_wave_send",
+                    "maxclass": "newobj",
+                    "numinlets": 1,
+                    "numoutlets": 0,
+                    "outlettype": [],
+                    "patching_rect": [
+                        1230,
+                        6970,
+                        190,
+                        22
+                    ],
+                    "text": "send~ teach_s3_wave_sig",
+                    "varname": "teach_tap_s3_wave_send"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_tap_s3_wave_source",
+                    "maxclass": "comment",
+                    "numinlets": 1,
+                    "numoutlets": 0,
+                    "patching_rect": [
+                        1430,
+                        6970,
+                        270,
+                        22
+                    ],
+                    "text": "← s3_bed_particle_level × s3_bed_line",
+                    "varname": "teach_tap_s3_wave_source"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_tap_master_l_gain",
+                    "maxclass": "newobj",
+                    "numinlets": 2,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        "signal"
+                    ],
+                    "patching_rect": [
+                        1750,
+                        6970,
+                        40,
+                        22
+                    ],
+                    "text": "*~ 1.",
+                    "varname": "teach_tap_master_l_gain"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_tap_master_l_send",
+                    "maxclass": "newobj",
+                    "numinlets": 1,
+                    "numoutlets": 0,
+                    "outlettype": [],
+                    "patching_rect": [
+                        1800,
+                        6970,
+                        190,
+                        22
+                    ],
+                    "text": "send~ teach_master_l_sig",
+                    "varname": "teach_tap_master_l_send"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_tap_master_l_source",
+                    "maxclass": "comment",
+                    "numinlets": 1,
+                    "numoutlets": 0,
+                    "patching_rect": [
+                        2000,
+                        6970,
+                        270,
+                        22
+                    ],
+                    "text": "← out_gain_l",
+                    "varname": "teach_tap_master_l_source"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_tap_master_r_gain",
+                    "maxclass": "newobj",
+                    "numinlets": 2,
+                    "numoutlets": 1,
+                    "outlettype": [
+                        "signal"
+                    ],
+                    "patching_rect": [
+                        40,
+                        7015,
+                        40,
+                        22
+                    ],
+                    "text": "*~ 1.",
+                    "varname": "teach_tap_master_r_gain"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_tap_master_r_send",
+                    "maxclass": "newobj",
+                    "numinlets": 1,
+                    "numoutlets": 0,
+                    "outlettype": [],
+                    "patching_rect": [
+                        90,
+                        7015,
+                        190,
+                        22
+                    ],
+                    "text": "send~ teach_master_r_sig",
+                    "varname": "teach_tap_master_r_send"
+                }
+            },
+            {
+                "box": {
+                    "id": "teach_tap_master_r_source",
+                    "maxclass": "comment",
+                    "numinlets": 1,
+                    "numoutlets": 0,
+                    "patching_rect": [
+                        290,
+                        7015,
+                        270,
+                        22
+                    ],
+                    "text": "← out_gain_r",
+                    "varname": "teach_tap_master_r_source"
                 }
             }
         ],
@@ -21214,6 +36640,3506 @@
                     ],
                     "destination": [
                         "osc_sync_select",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_state_stage_receive",
+                        0
+                    ],
+                    "destination": [
+                        "teach_state_stage_value",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_state_timer_receive",
+                        0
+                    ],
+                    "destination": [
+                        "teach_state_timer_value",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_state_transform_receive",
+                        0
+                    ],
+                    "destination": [
+                        "teach_state_transform_value",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_state_density_receive",
+                        0
+                    ],
+                    "destination": [
+                        "teach_state_density_value",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_state_voice_receive",
+                        0
+                    ],
+                    "destination": [
+                        "teach_state_voice_value",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_state_bed_receive",
+                        0
+                    ],
+                    "destination": [
+                        "teach_state_bed_value",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_state_master_receive",
+                        0
+                    ],
+                    "destination": [
+                        "teach_state_master_value",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_state_mute_receive",
+                        0
+                    ],
+                    "destination": [
+                        "teach_state_mute_value",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_last_event_receive",
+                        0
+                    ],
+                    "destination": [
+                        "teach_last_event_display",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s1_voice_control_receive",
+                        0
+                    ],
+                    "destination": [
+                        "teach_row_s1_voice_control_flash",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s1_voice_active_receive",
+                        0
+                    ],
+                    "destination": [
+                        "teach_row_s1_voice_active_light",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s1_voice_signal_receive",
+                        0
+                    ],
+                    "destination": [
+                        "teach_row_s1_voice_meter",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s1_voice_signal_receive",
+                        0
+                    ],
+                    "destination": [
+                        "teach_row_s1_voice_peak",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s1_voice_peak",
+                        0
+                    ],
+                    "destination": [
+                        "teach_row_s1_voice_peak_value",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s1_voice_peak",
+                        0
+                    ],
+                    "destination": [
+                        "teach_row_s1_voice_threshold",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s1_voice_threshold",
+                        0
+                    ],
+                    "destination": [
+                        "teach_row_s1_voice_audible_state",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s1_voice_active_receive",
+                        0
+                    ],
+                    "destination": [
+                        "teach_row_s1_voice_audible_state",
+                        1
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s1_voice_audible_state",
+                        0
+                    ],
+                    "destination": [
+                        "teach_row_s1_voice_audible_expr",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s1_voice_audible_expr",
+                        0
+                    ],
+                    "destination": [
+                        "teach_row_s1_voice_audible_change",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s1_voice_audible_change",
+                        0
+                    ],
+                    "destination": [
+                        "teach_row_s1_voice_audio_light",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s1_reverse_control_receive",
+                        0
+                    ],
+                    "destination": [
+                        "teach_row_s1_reverse_control_flash",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s1_reverse_active_receive",
+                        0
+                    ],
+                    "destination": [
+                        "teach_row_s1_reverse_active_light",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s1_reverse_signal_receive",
+                        0
+                    ],
+                    "destination": [
+                        "teach_row_s1_reverse_meter",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s1_reverse_signal_receive",
+                        0
+                    ],
+                    "destination": [
+                        "teach_row_s1_reverse_peak",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s1_reverse_peak",
+                        0
+                    ],
+                    "destination": [
+                        "teach_row_s1_reverse_peak_value",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s1_reverse_peak",
+                        0
+                    ],
+                    "destination": [
+                        "teach_row_s1_reverse_threshold",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s1_reverse_threshold",
+                        0
+                    ],
+                    "destination": [
+                        "teach_row_s1_reverse_audible_state",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s1_reverse_active_receive",
+                        0
+                    ],
+                    "destination": [
+                        "teach_row_s1_reverse_audible_state",
+                        1
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s1_reverse_audible_state",
+                        0
+                    ],
+                    "destination": [
+                        "teach_row_s1_reverse_audible_expr",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s1_reverse_audible_expr",
+                        0
+                    ],
+                    "destination": [
+                        "teach_row_s1_reverse_audible_change",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s1_reverse_audible_change",
+                        0
+                    ],
+                    "destination": [
+                        "teach_row_s1_reverse_audio_light",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s1_lurch_control_receive",
+                        0
+                    ],
+                    "destination": [
+                        "teach_row_s1_lurch_control_flash",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s1_lurch_active_receive",
+                        0
+                    ],
+                    "destination": [
+                        "teach_row_s1_lurch_active_light",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s1_lurch_signal_receive",
+                        0
+                    ],
+                    "destination": [
+                        "teach_row_s1_lurch_meter",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s1_lurch_signal_receive",
+                        0
+                    ],
+                    "destination": [
+                        "teach_row_s1_lurch_peak",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s1_lurch_peak",
+                        0
+                    ],
+                    "destination": [
+                        "teach_row_s1_lurch_peak_value",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s1_lurch_peak",
+                        0
+                    ],
+                    "destination": [
+                        "teach_row_s1_lurch_threshold",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s1_lurch_threshold",
+                        0
+                    ],
+                    "destination": [
+                        "teach_row_s1_lurch_audible_state",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s1_lurch_active_receive",
+                        0
+                    ],
+                    "destination": [
+                        "teach_row_s1_lurch_audible_state",
+                        1
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s1_lurch_audible_state",
+                        0
+                    ],
+                    "destination": [
+                        "teach_row_s1_lurch_audible_expr",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s1_lurch_audible_expr",
+                        0
+                    ],
+                    "destination": [
+                        "teach_row_s1_lurch_audible_change",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s1_lurch_audible_change",
+                        0
+                    ],
+                    "destination": [
+                        "teach_row_s1_lurch_audio_light",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s1_bed_control_receive",
+                        0
+                    ],
+                    "destination": [
+                        "teach_row_s1_bed_control_flash",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s1_bed_active_receive",
+                        0
+                    ],
+                    "destination": [
+                        "teach_row_s1_bed_active_light",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s1_bed_signal_receive",
+                        0
+                    ],
+                    "destination": [
+                        "teach_row_s1_bed_meter",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s1_bed_signal_receive",
+                        0
+                    ],
+                    "destination": [
+                        "teach_row_s1_bed_peak",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s1_bed_peak",
+                        0
+                    ],
+                    "destination": [
+                        "teach_row_s1_bed_peak_value",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s1_bed_peak",
+                        0
+                    ],
+                    "destination": [
+                        "teach_row_s1_bed_threshold",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s1_bed_threshold",
+                        0
+                    ],
+                    "destination": [
+                        "teach_row_s1_bed_audible_state",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s1_bed_active_receive",
+                        0
+                    ],
+                    "destination": [
+                        "teach_row_s1_bed_audible_state",
+                        1
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s1_bed_audible_state",
+                        0
+                    ],
+                    "destination": [
+                        "teach_row_s1_bed_audible_expr",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s1_bed_audible_expr",
+                        0
+                    ],
+                    "destination": [
+                        "teach_row_s1_bed_audible_change",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s1_bed_audible_change",
+                        0
+                    ],
+                    "destination": [
+                        "teach_row_s1_bed_audio_light",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s2_grains_control_receive",
+                        0
+                    ],
+                    "destination": [
+                        "teach_row_s2_grains_control_flash",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s2_grains_active_receive",
+                        0
+                    ],
+                    "destination": [
+                        "teach_row_s2_grains_active_light",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s2_grains_signal_receive",
+                        0
+                    ],
+                    "destination": [
+                        "teach_row_s2_grains_meter",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s2_grains_signal_receive",
+                        0
+                    ],
+                    "destination": [
+                        "teach_row_s2_grains_peak",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s2_grains_peak",
+                        0
+                    ],
+                    "destination": [
+                        "teach_row_s2_grains_peak_value",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s2_grains_peak",
+                        0
+                    ],
+                    "destination": [
+                        "teach_row_s2_grains_threshold",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s2_grains_threshold",
+                        0
+                    ],
+                    "destination": [
+                        "teach_row_s2_grains_audible_state",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s2_grains_active_receive",
+                        0
+                    ],
+                    "destination": [
+                        "teach_row_s2_grains_audible_state",
+                        1
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s2_grains_audible_state",
+                        0
+                    ],
+                    "destination": [
+                        "teach_row_s2_grains_audible_expr",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s2_grains_audible_expr",
+                        0
+                    ],
+                    "destination": [
+                        "teach_row_s2_grains_audible_change",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s2_grains_audible_change",
+                        0
+                    ],
+                    "destination": [
+                        "teach_row_s2_grains_audio_light",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s2_storm_control_receive",
+                        0
+                    ],
+                    "destination": [
+                        "teach_row_s2_storm_control_flash",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s2_storm_active_receive",
+                        0
+                    ],
+                    "destination": [
+                        "teach_row_s2_storm_active_light",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s2_storm_signal_receive",
+                        0
+                    ],
+                    "destination": [
+                        "teach_row_s2_storm_meter",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s2_storm_signal_receive",
+                        0
+                    ],
+                    "destination": [
+                        "teach_row_s2_storm_peak",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s2_storm_peak",
+                        0
+                    ],
+                    "destination": [
+                        "teach_row_s2_storm_peak_value",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s2_storm_peak",
+                        0
+                    ],
+                    "destination": [
+                        "teach_row_s2_storm_threshold",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s2_storm_threshold",
+                        0
+                    ],
+                    "destination": [
+                        "teach_row_s2_storm_audible_state",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s2_storm_active_receive",
+                        0
+                    ],
+                    "destination": [
+                        "teach_row_s2_storm_audible_state",
+                        1
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s2_storm_audible_state",
+                        0
+                    ],
+                    "destination": [
+                        "teach_row_s2_storm_audible_expr",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s2_storm_audible_expr",
+                        0
+                    ],
+                    "destination": [
+                        "teach_row_s2_storm_audible_change",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s2_storm_audible_change",
+                        0
+                    ],
+                    "destination": [
+                        "teach_row_s2_storm_audio_light",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s2_hold_control_receive",
+                        0
+                    ],
+                    "destination": [
+                        "teach_row_s2_hold_control_flash",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s2_hold_active_receive",
+                        0
+                    ],
+                    "destination": [
+                        "teach_row_s2_hold_active_light",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s2_hold_signal_receive",
+                        0
+                    ],
+                    "destination": [
+                        "teach_row_s2_hold_meter",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s2_hold_signal_receive",
+                        0
+                    ],
+                    "destination": [
+                        "teach_row_s2_hold_peak",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s2_hold_peak",
+                        0
+                    ],
+                    "destination": [
+                        "teach_row_s2_hold_peak_value",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s2_hold_peak",
+                        0
+                    ],
+                    "destination": [
+                        "teach_row_s2_hold_threshold",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s2_hold_threshold",
+                        0
+                    ],
+                    "destination": [
+                        "teach_row_s2_hold_audible_state",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s2_hold_active_receive",
+                        0
+                    ],
+                    "destination": [
+                        "teach_row_s2_hold_audible_state",
+                        1
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s2_hold_audible_state",
+                        0
+                    ],
+                    "destination": [
+                        "teach_row_s2_hold_audible_expr",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s2_hold_audible_expr",
+                        0
+                    ],
+                    "destination": [
+                        "teach_row_s2_hold_audible_change",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s2_hold_audible_change",
+                        0
+                    ],
+                    "destination": [
+                        "teach_row_s2_hold_audio_light",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s2_metal_control_receive",
+                        0
+                    ],
+                    "destination": [
+                        "teach_row_s2_metal_control_flash",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s2_metal_active_receive",
+                        0
+                    ],
+                    "destination": [
+                        "teach_row_s2_metal_active_light",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s2_metal_signal_receive",
+                        0
+                    ],
+                    "destination": [
+                        "teach_row_s2_metal_meter",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s2_metal_signal_receive",
+                        0
+                    ],
+                    "destination": [
+                        "teach_row_s2_metal_peak",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s2_metal_peak",
+                        0
+                    ],
+                    "destination": [
+                        "teach_row_s2_metal_peak_value",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s2_metal_peak",
+                        0
+                    ],
+                    "destination": [
+                        "teach_row_s2_metal_threshold",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s2_metal_threshold",
+                        0
+                    ],
+                    "destination": [
+                        "teach_row_s2_metal_audible_state",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s2_metal_active_receive",
+                        0
+                    ],
+                    "destination": [
+                        "teach_row_s2_metal_audible_state",
+                        1
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s2_metal_audible_state",
+                        0
+                    ],
+                    "destination": [
+                        "teach_row_s2_metal_audible_expr",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s2_metal_audible_expr",
+                        0
+                    ],
+                    "destination": [
+                        "teach_row_s2_metal_audible_change",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s2_metal_audible_change",
+                        0
+                    ],
+                    "destination": [
+                        "teach_row_s2_metal_audio_light",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s2_recall_control_receive",
+                        0
+                    ],
+                    "destination": [
+                        "teach_row_s2_recall_control_flash",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s2_recall_active_receive",
+                        0
+                    ],
+                    "destination": [
+                        "teach_row_s2_recall_active_light",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s2_recall_signal_receive",
+                        0
+                    ],
+                    "destination": [
+                        "teach_row_s2_recall_meter",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s2_recall_signal_receive",
+                        0
+                    ],
+                    "destination": [
+                        "teach_row_s2_recall_peak",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s2_recall_peak",
+                        0
+                    ],
+                    "destination": [
+                        "teach_row_s2_recall_peak_value",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s2_recall_peak",
+                        0
+                    ],
+                    "destination": [
+                        "teach_row_s2_recall_threshold",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s2_recall_threshold",
+                        0
+                    ],
+                    "destination": [
+                        "teach_row_s2_recall_audible_state",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s2_recall_active_receive",
+                        0
+                    ],
+                    "destination": [
+                        "teach_row_s2_recall_audible_state",
+                        1
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s2_recall_audible_state",
+                        0
+                    ],
+                    "destination": [
+                        "teach_row_s2_recall_audible_expr",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s2_recall_audible_expr",
+                        0
+                    ],
+                    "destination": [
+                        "teach_row_s2_recall_audible_change",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s2_recall_audible_change",
+                        0
+                    ],
+                    "destination": [
+                        "teach_row_s2_recall_audio_light",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s2_debris_control_receive",
+                        0
+                    ],
+                    "destination": [
+                        "teach_row_s2_debris_control_flash",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s2_debris_active_receive",
+                        0
+                    ],
+                    "destination": [
+                        "teach_row_s2_debris_active_light",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s2_debris_signal_receive",
+                        0
+                    ],
+                    "destination": [
+                        "teach_row_s2_debris_meter",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s2_debris_signal_receive",
+                        0
+                    ],
+                    "destination": [
+                        "teach_row_s2_debris_peak",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s2_debris_peak",
+                        0
+                    ],
+                    "destination": [
+                        "teach_row_s2_debris_peak_value",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s2_debris_peak",
+                        0
+                    ],
+                    "destination": [
+                        "teach_row_s2_debris_threshold",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s2_debris_threshold",
+                        0
+                    ],
+                    "destination": [
+                        "teach_row_s2_debris_audible_state",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s2_debris_active_receive",
+                        0
+                    ],
+                    "destination": [
+                        "teach_row_s2_debris_audible_state",
+                        1
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s2_debris_audible_state",
+                        0
+                    ],
+                    "destination": [
+                        "teach_row_s2_debris_audible_expr",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s2_debris_audible_expr",
+                        0
+                    ],
+                    "destination": [
+                        "teach_row_s2_debris_audible_change",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s2_debris_audible_change",
+                        0
+                    ],
+                    "destination": [
+                        "teach_row_s2_debris_audio_light",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s3_voice_control_receive",
+                        0
+                    ],
+                    "destination": [
+                        "teach_row_s3_voice_control_flash",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s3_voice_active_receive",
+                        0
+                    ],
+                    "destination": [
+                        "teach_row_s3_voice_active_light",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s3_voice_signal_receive",
+                        0
+                    ],
+                    "destination": [
+                        "teach_row_s3_voice_meter",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s3_voice_signal_receive",
+                        0
+                    ],
+                    "destination": [
+                        "teach_row_s3_voice_peak",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s3_voice_peak",
+                        0
+                    ],
+                    "destination": [
+                        "teach_row_s3_voice_peak_value",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s3_voice_peak",
+                        0
+                    ],
+                    "destination": [
+                        "teach_row_s3_voice_threshold",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s3_voice_threshold",
+                        0
+                    ],
+                    "destination": [
+                        "teach_row_s3_voice_audible_state",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s3_voice_active_receive",
+                        0
+                    ],
+                    "destination": [
+                        "teach_row_s3_voice_audible_state",
+                        1
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s3_voice_audible_state",
+                        0
+                    ],
+                    "destination": [
+                        "teach_row_s3_voice_audible_expr",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s3_voice_audible_expr",
+                        0
+                    ],
+                    "destination": [
+                        "teach_row_s3_voice_audible_change",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s3_voice_audible_change",
+                        0
+                    ],
+                    "destination": [
+                        "teach_row_s3_voice_audio_light",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s3_oracle_control_receive",
+                        0
+                    ],
+                    "destination": [
+                        "teach_row_s3_oracle_control_flash",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s3_oracle_active_receive",
+                        0
+                    ],
+                    "destination": [
+                        "teach_row_s3_oracle_active_light",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s3_oracle_signal_receive",
+                        0
+                    ],
+                    "destination": [
+                        "teach_row_s3_oracle_meter",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s3_oracle_signal_receive",
+                        0
+                    ],
+                    "destination": [
+                        "teach_row_s3_oracle_peak",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s3_oracle_peak",
+                        0
+                    ],
+                    "destination": [
+                        "teach_row_s3_oracle_peak_value",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s3_oracle_peak",
+                        0
+                    ],
+                    "destination": [
+                        "teach_row_s3_oracle_threshold",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s3_oracle_threshold",
+                        0
+                    ],
+                    "destination": [
+                        "teach_row_s3_oracle_audible_state",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s3_oracle_active_receive",
+                        0
+                    ],
+                    "destination": [
+                        "teach_row_s3_oracle_audible_state",
+                        1
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s3_oracle_audible_state",
+                        0
+                    ],
+                    "destination": [
+                        "teach_row_s3_oracle_audible_expr",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s3_oracle_audible_expr",
+                        0
+                    ],
+                    "destination": [
+                        "teach_row_s3_oracle_audible_change",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s3_oracle_audible_change",
+                        0
+                    ],
+                    "destination": [
+                        "teach_row_s3_oracle_audio_light",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s3_recall_control_receive",
+                        0
+                    ],
+                    "destination": [
+                        "teach_row_s3_recall_control_flash",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s3_recall_active_receive",
+                        0
+                    ],
+                    "destination": [
+                        "teach_row_s3_recall_active_light",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s3_recall_signal_receive",
+                        0
+                    ],
+                    "destination": [
+                        "teach_row_s3_recall_meter",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s3_recall_signal_receive",
+                        0
+                    ],
+                    "destination": [
+                        "teach_row_s3_recall_peak",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s3_recall_peak",
+                        0
+                    ],
+                    "destination": [
+                        "teach_row_s3_recall_peak_value",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s3_recall_peak",
+                        0
+                    ],
+                    "destination": [
+                        "teach_row_s3_recall_threshold",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s3_recall_threshold",
+                        0
+                    ],
+                    "destination": [
+                        "teach_row_s3_recall_audible_state",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s3_recall_active_receive",
+                        0
+                    ],
+                    "destination": [
+                        "teach_row_s3_recall_audible_state",
+                        1
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s3_recall_audible_state",
+                        0
+                    ],
+                    "destination": [
+                        "teach_row_s3_recall_audible_expr",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s3_recall_audible_expr",
+                        0
+                    ],
+                    "destination": [
+                        "teach_row_s3_recall_audible_change",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s3_recall_audible_change",
+                        0
+                    ],
+                    "destination": [
+                        "teach_row_s3_recall_audio_light",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s3_bed_control_receive",
+                        0
+                    ],
+                    "destination": [
+                        "teach_row_s3_bed_control_flash",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s3_bed_active_receive",
+                        0
+                    ],
+                    "destination": [
+                        "teach_row_s3_bed_active_light",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s3_bed_signal_receive",
+                        0
+                    ],
+                    "destination": [
+                        "teach_row_s3_bed_meter",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s3_bed_signal_receive",
+                        0
+                    ],
+                    "destination": [
+                        "teach_row_s3_bed_peak",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s3_bed_peak",
+                        0
+                    ],
+                    "destination": [
+                        "teach_row_s3_bed_peak_value",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s3_bed_peak",
+                        0
+                    ],
+                    "destination": [
+                        "teach_row_s3_bed_threshold",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s3_bed_threshold",
+                        0
+                    ],
+                    "destination": [
+                        "teach_row_s3_bed_audible_state",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s3_bed_active_receive",
+                        0
+                    ],
+                    "destination": [
+                        "teach_row_s3_bed_audible_state",
+                        1
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s3_bed_audible_state",
+                        0
+                    ],
+                    "destination": [
+                        "teach_row_s3_bed_audible_expr",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s3_bed_audible_expr",
+                        0
+                    ],
+                    "destination": [
+                        "teach_row_s3_bed_audible_change",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s3_bed_audible_change",
+                        0
+                    ],
+                    "destination": [
+                        "teach_row_s3_bed_audio_light",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s3_wave_control_receive",
+                        0
+                    ],
+                    "destination": [
+                        "teach_row_s3_wave_control_flash",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s3_wave_active_receive",
+                        0
+                    ],
+                    "destination": [
+                        "teach_row_s3_wave_active_light",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s3_wave_signal_receive",
+                        0
+                    ],
+                    "destination": [
+                        "teach_row_s3_wave_meter",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s3_wave_signal_receive",
+                        0
+                    ],
+                    "destination": [
+                        "teach_row_s3_wave_peak",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s3_wave_peak",
+                        0
+                    ],
+                    "destination": [
+                        "teach_row_s3_wave_peak_value",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s3_wave_peak",
+                        0
+                    ],
+                    "destination": [
+                        "teach_row_s3_wave_threshold",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s3_wave_threshold",
+                        0
+                    ],
+                    "destination": [
+                        "teach_row_s3_wave_audible_state",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s3_wave_active_receive",
+                        0
+                    ],
+                    "destination": [
+                        "teach_row_s3_wave_audible_state",
+                        1
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s3_wave_audible_state",
+                        0
+                    ],
+                    "destination": [
+                        "teach_row_s3_wave_audible_expr",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s3_wave_audible_expr",
+                        0
+                    ],
+                    "destination": [
+                        "teach_row_s3_wave_audible_change",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s3_wave_audible_change",
+                        0
+                    ],
+                    "destination": [
+                        "teach_row_s3_wave_audio_light",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s1_voice_control_receive",
+                        0
+                    ],
+                    "destination": [
+                        "teach_local_s1_voice_control_flash",
+                        0
+                    ],
+                    "hidden": 1
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s1_voice_active_receive",
+                        0
+                    ],
+                    "destination": [
+                        "teach_local_s1_voice_active_light",
+                        0
+                    ],
+                    "hidden": 1
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s1_voice_audible_change",
+                        0
+                    ],
+                    "destination": [
+                        "teach_local_s1_voice_audio_light",
+                        0
+                    ],
+                    "hidden": 1
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s1_voice_peak",
+                        0
+                    ],
+                    "destination": [
+                        "teach_local_s1_voice_peak_value",
+                        0
+                    ],
+                    "hidden": 1
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s1_reverse_control_receive",
+                        0
+                    ],
+                    "destination": [
+                        "teach_local_s1_reverse_control_flash",
+                        0
+                    ],
+                    "hidden": 1
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s1_reverse_active_receive",
+                        0
+                    ],
+                    "destination": [
+                        "teach_local_s1_reverse_active_light",
+                        0
+                    ],
+                    "hidden": 1
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s1_reverse_audible_change",
+                        0
+                    ],
+                    "destination": [
+                        "teach_local_s1_reverse_audio_light",
+                        0
+                    ],
+                    "hidden": 1
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s1_reverse_peak",
+                        0
+                    ],
+                    "destination": [
+                        "teach_local_s1_reverse_peak_value",
+                        0
+                    ],
+                    "hidden": 1
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s1_lurch_control_receive",
+                        0
+                    ],
+                    "destination": [
+                        "teach_local_s1_lurch_control_flash",
+                        0
+                    ],
+                    "hidden": 1
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s1_lurch_active_receive",
+                        0
+                    ],
+                    "destination": [
+                        "teach_local_s1_lurch_active_light",
+                        0
+                    ],
+                    "hidden": 1
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s1_lurch_audible_change",
+                        0
+                    ],
+                    "destination": [
+                        "teach_local_s1_lurch_audio_light",
+                        0
+                    ],
+                    "hidden": 1
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s1_lurch_peak",
+                        0
+                    ],
+                    "destination": [
+                        "teach_local_s1_lurch_peak_value",
+                        0
+                    ],
+                    "hidden": 1
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s1_bed_control_receive",
+                        0
+                    ],
+                    "destination": [
+                        "teach_local_s1_bed_control_flash",
+                        0
+                    ],
+                    "hidden": 1
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s1_bed_active_receive",
+                        0
+                    ],
+                    "destination": [
+                        "teach_local_s1_bed_active_light",
+                        0
+                    ],
+                    "hidden": 1
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s1_bed_audible_change",
+                        0
+                    ],
+                    "destination": [
+                        "teach_local_s1_bed_audio_light",
+                        0
+                    ],
+                    "hidden": 1
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s1_bed_peak",
+                        0
+                    ],
+                    "destination": [
+                        "teach_local_s1_bed_peak_value",
+                        0
+                    ],
+                    "hidden": 1
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s2_grains_control_receive",
+                        0
+                    ],
+                    "destination": [
+                        "teach_local_s2_grains_control_flash",
+                        0
+                    ],
+                    "hidden": 1
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s2_grains_active_receive",
+                        0
+                    ],
+                    "destination": [
+                        "teach_local_s2_grains_active_light",
+                        0
+                    ],
+                    "hidden": 1
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s2_grains_audible_change",
+                        0
+                    ],
+                    "destination": [
+                        "teach_local_s2_grains_audio_light",
+                        0
+                    ],
+                    "hidden": 1
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s2_grains_peak",
+                        0
+                    ],
+                    "destination": [
+                        "teach_local_s2_grains_peak_value",
+                        0
+                    ],
+                    "hidden": 1
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s2_storm_control_receive",
+                        0
+                    ],
+                    "destination": [
+                        "teach_local_s2_storm_control_flash",
+                        0
+                    ],
+                    "hidden": 1
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s2_storm_active_receive",
+                        0
+                    ],
+                    "destination": [
+                        "teach_local_s2_storm_active_light",
+                        0
+                    ],
+                    "hidden": 1
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s2_storm_audible_change",
+                        0
+                    ],
+                    "destination": [
+                        "teach_local_s2_storm_audio_light",
+                        0
+                    ],
+                    "hidden": 1
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s2_storm_peak",
+                        0
+                    ],
+                    "destination": [
+                        "teach_local_s2_storm_peak_value",
+                        0
+                    ],
+                    "hidden": 1
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s2_hold_control_receive",
+                        0
+                    ],
+                    "destination": [
+                        "teach_local_s2_hold_control_flash",
+                        0
+                    ],
+                    "hidden": 1
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s2_hold_active_receive",
+                        0
+                    ],
+                    "destination": [
+                        "teach_local_s2_hold_active_light",
+                        0
+                    ],
+                    "hidden": 1
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s2_hold_audible_change",
+                        0
+                    ],
+                    "destination": [
+                        "teach_local_s2_hold_audio_light",
+                        0
+                    ],
+                    "hidden": 1
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s2_hold_peak",
+                        0
+                    ],
+                    "destination": [
+                        "teach_local_s2_hold_peak_value",
+                        0
+                    ],
+                    "hidden": 1
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s2_metal_control_receive",
+                        0
+                    ],
+                    "destination": [
+                        "teach_local_s2_metal_control_flash",
+                        0
+                    ],
+                    "hidden": 1
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s2_metal_active_receive",
+                        0
+                    ],
+                    "destination": [
+                        "teach_local_s2_metal_active_light",
+                        0
+                    ],
+                    "hidden": 1
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s2_metal_audible_change",
+                        0
+                    ],
+                    "destination": [
+                        "teach_local_s2_metal_audio_light",
+                        0
+                    ],
+                    "hidden": 1
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s2_metal_peak",
+                        0
+                    ],
+                    "destination": [
+                        "teach_local_s2_metal_peak_value",
+                        0
+                    ],
+                    "hidden": 1
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s2_recall_control_receive",
+                        0
+                    ],
+                    "destination": [
+                        "teach_local_s2_recall_control_flash",
+                        0
+                    ],
+                    "hidden": 1
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s2_recall_active_receive",
+                        0
+                    ],
+                    "destination": [
+                        "teach_local_s2_recall_active_light",
+                        0
+                    ],
+                    "hidden": 1
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s2_recall_audible_change",
+                        0
+                    ],
+                    "destination": [
+                        "teach_local_s2_recall_audio_light",
+                        0
+                    ],
+                    "hidden": 1
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s2_recall_peak",
+                        0
+                    ],
+                    "destination": [
+                        "teach_local_s2_recall_peak_value",
+                        0
+                    ],
+                    "hidden": 1
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s2_debris_control_receive",
+                        0
+                    ],
+                    "destination": [
+                        "teach_local_s2_debris_control_flash",
+                        0
+                    ],
+                    "hidden": 1
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s2_debris_active_receive",
+                        0
+                    ],
+                    "destination": [
+                        "teach_local_s2_debris_active_light",
+                        0
+                    ],
+                    "hidden": 1
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s2_debris_audible_change",
+                        0
+                    ],
+                    "destination": [
+                        "teach_local_s2_debris_audio_light",
+                        0
+                    ],
+                    "hidden": 1
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s2_debris_peak",
+                        0
+                    ],
+                    "destination": [
+                        "teach_local_s2_debris_peak_value",
+                        0
+                    ],
+                    "hidden": 1
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s3_voice_control_receive",
+                        0
+                    ],
+                    "destination": [
+                        "teach_local_s3_voice_control_flash",
+                        0
+                    ],
+                    "hidden": 1
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s3_voice_active_receive",
+                        0
+                    ],
+                    "destination": [
+                        "teach_local_s3_voice_active_light",
+                        0
+                    ],
+                    "hidden": 1
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s3_voice_audible_change",
+                        0
+                    ],
+                    "destination": [
+                        "teach_local_s3_voice_audio_light",
+                        0
+                    ],
+                    "hidden": 1
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s3_voice_peak",
+                        0
+                    ],
+                    "destination": [
+                        "teach_local_s3_voice_peak_value",
+                        0
+                    ],
+                    "hidden": 1
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s3_oracle_control_receive",
+                        0
+                    ],
+                    "destination": [
+                        "teach_local_s3_oracle_control_flash",
+                        0
+                    ],
+                    "hidden": 1
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s3_oracle_active_receive",
+                        0
+                    ],
+                    "destination": [
+                        "teach_local_s3_oracle_active_light",
+                        0
+                    ],
+                    "hidden": 1
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s3_oracle_audible_change",
+                        0
+                    ],
+                    "destination": [
+                        "teach_local_s3_oracle_audio_light",
+                        0
+                    ],
+                    "hidden": 1
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s3_oracle_peak",
+                        0
+                    ],
+                    "destination": [
+                        "teach_local_s3_oracle_peak_value",
+                        0
+                    ],
+                    "hidden": 1
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s3_recall_control_receive",
+                        0
+                    ],
+                    "destination": [
+                        "teach_local_s3_recall_control_flash",
+                        0
+                    ],
+                    "hidden": 1
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s3_recall_active_receive",
+                        0
+                    ],
+                    "destination": [
+                        "teach_local_s3_recall_active_light",
+                        0
+                    ],
+                    "hidden": 1
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s3_recall_audible_change",
+                        0
+                    ],
+                    "destination": [
+                        "teach_local_s3_recall_audio_light",
+                        0
+                    ],
+                    "hidden": 1
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s3_recall_peak",
+                        0
+                    ],
+                    "destination": [
+                        "teach_local_s3_recall_peak_value",
+                        0
+                    ],
+                    "hidden": 1
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s3_bed_control_receive",
+                        0
+                    ],
+                    "destination": [
+                        "teach_local_s3_bed_control_flash",
+                        0
+                    ],
+                    "hidden": 1
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s3_bed_active_receive",
+                        0
+                    ],
+                    "destination": [
+                        "teach_local_s3_bed_active_light",
+                        0
+                    ],
+                    "hidden": 1
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s3_bed_audible_change",
+                        0
+                    ],
+                    "destination": [
+                        "teach_local_s3_bed_audio_light",
+                        0
+                    ],
+                    "hidden": 1
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s3_bed_peak",
+                        0
+                    ],
+                    "destination": [
+                        "teach_local_s3_bed_peak_value",
+                        0
+                    ],
+                    "hidden": 1
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s3_wave_control_receive",
+                        0
+                    ],
+                    "destination": [
+                        "teach_local_s3_wave_control_flash",
+                        0
+                    ],
+                    "hidden": 1
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s3_wave_active_receive",
+                        0
+                    ],
+                    "destination": [
+                        "teach_local_s3_wave_active_light",
+                        0
+                    ],
+                    "hidden": 1
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s3_wave_audible_change",
+                        0
+                    ],
+                    "destination": [
+                        "teach_local_s3_wave_audio_light",
+                        0
+                    ],
+                    "hidden": 1
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_row_s3_wave_peak",
+                        0
+                    ],
+                    "destination": [
+                        "teach_local_s3_wave_peak_value",
+                        0
+                    ],
+                    "hidden": 1
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_output_s1_receive",
+                        0
+                    ],
+                    "destination": [
+                        "teach_output_s1_meter",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_output_s1_receive",
+                        0
+                    ],
+                    "destination": [
+                        "teach_output_s1_peak",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_output_s1_peak",
+                        0
+                    ],
+                    "destination": [
+                        "teach_output_s1_value",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_output_s2_l_receive",
+                        0
+                    ],
+                    "destination": [
+                        "teach_output_s2_l_meter",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_output_s2_l_receive",
+                        0
+                    ],
+                    "destination": [
+                        "teach_output_s2_l_peak",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_output_s2_l_peak",
+                        0
+                    ],
+                    "destination": [
+                        "teach_output_s2_l_value",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_output_s2_r_receive",
+                        0
+                    ],
+                    "destination": [
+                        "teach_output_s2_r_meter",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_output_s2_r_receive",
+                        0
+                    ],
+                    "destination": [
+                        "teach_output_s2_r_peak",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_output_s2_r_peak",
+                        0
+                    ],
+                    "destination": [
+                        "teach_output_s2_r_value",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_output_s3_receive",
+                        0
+                    ],
+                    "destination": [
+                        "teach_output_s3_meter",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_output_s3_receive",
+                        0
+                    ],
+                    "destination": [
+                        "teach_output_s3_peak",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_output_s3_peak",
+                        0
+                    ],
+                    "destination": [
+                        "teach_output_s3_value",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_output_master_l_receive",
+                        0
+                    ],
+                    "destination": [
+                        "teach_output_master_l_meter",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_output_master_l_receive",
+                        0
+                    ],
+                    "destination": [
+                        "teach_output_master_l_peak",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_output_master_l_peak",
+                        0
+                    ],
+                    "destination": [
+                        "teach_output_master_l_value",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_output_master_r_receive",
+                        0
+                    ],
+                    "destination": [
+                        "teach_output_master_r_meter",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_output_master_r_receive",
+                        0
+                    ],
+                    "destination": [
+                        "teach_output_master_r_peak",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_output_master_r_peak",
+                        0
+                    ],
+                    "destination": [
+                        "teach_output_master_r_value",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "s1_auto_gain",
+                        0
+                    ],
+                    "destination": [
+                        "teach_tap_s1_voice_gain",
+                        0
+                    ],
+                    "hidden": 1
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_tap_s1_voice_gain",
+                        0
+                    ],
+                    "destination": [
+                        "teach_tap_s1_voice_send",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "s1_bed_user_gain",
+                        0
+                    ],
+                    "destination": [
+                        "teach_tap_s1_bed_gain",
+                        0
+                    ],
+                    "hidden": 1
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_tap_s1_bed_gain",
+                        0
+                    ],
+                    "destination": [
+                        "teach_tap_s1_bed_send",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "s2_slice_level",
+                        0
+                    ],
+                    "destination": [
+                        "teach_tap_s2_grain_gain",
+                        0
+                    ],
+                    "hidden": 1
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "s2_voice_line",
+                        0
+                    ],
+                    "destination": [
+                        "teach_tap_s2_grain_gain",
+                        1
+                    ],
+                    "hidden": 1
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_tap_s2_grain_gain",
+                        0
+                    ],
+                    "destination": [
+                        "teach_tap_s2_grain_send",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "s2_recall_level",
+                        0
+                    ],
+                    "destination": [
+                        "teach_tap_s2_recall_gain",
+                        0
+                    ],
+                    "hidden": 1
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "s2_voice_line",
+                        0
+                    ],
+                    "destination": [
+                        "teach_tap_s2_recall_gain",
+                        1
+                    ],
+                    "hidden": 1
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_tap_s2_recall_gain",
+                        0
+                    ],
+                    "destination": [
+                        "teach_tap_s2_recall_send",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "s2_hold_level",
+                        0
+                    ],
+                    "destination": [
+                        "teach_tap_s2_hold_gain",
+                        0
+                    ],
+                    "hidden": 1
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "s2_voice_line",
+                        0
+                    ],
+                    "destination": [
+                        "teach_tap_s2_hold_gain",
+                        1
+                    ],
+                    "hidden": 1
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_tap_s2_hold_gain",
+                        0
+                    ],
+                    "destination": [
+                        "teach_tap_s2_hold_send",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "obj-distinct-bed-12",
+                        0
+                    ],
+                    "destination": [
+                        "teach_tap_s2_metal_gain",
+                        0
+                    ],
+                    "hidden": 1
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "s2_bed_line",
+                        0
+                    ],
+                    "destination": [
+                        "teach_tap_s2_metal_gain",
+                        1
+                    ],
+                    "hidden": 1
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_tap_s2_metal_gain",
+                        0
+                    ],
+                    "destination": [
+                        "teach_tap_s2_metal_send",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "obj-bed-particle-16",
+                        0
+                    ],
+                    "destination": [
+                        "teach_tap_s2_debris_gain",
+                        0
+                    ],
+                    "hidden": 1
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "s2_bed_line",
+                        0
+                    ],
+                    "destination": [
+                        "teach_tap_s2_debris_gain",
+                        1
+                    ],
+                    "hidden": 1
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_tap_s2_debris_gain",
+                        0
+                    ],
+                    "destination": [
+                        "teach_tap_s2_debris_send",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "s3_auto_gain",
+                        0
+                    ],
+                    "destination": [
+                        "teach_tap_s3_voice_gain",
+                        0
+                    ],
+                    "hidden": 1
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_tap_s3_voice_gain",
+                        0
+                    ],
+                    "destination": [
+                        "teach_tap_s3_voice_send",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "s3_recall_level",
+                        0
+                    ],
+                    "destination": [
+                        "teach_tap_s3_recall_gain",
+                        0
+                    ],
+                    "hidden": 1
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_tap_s3_recall_gain",
+                        0
+                    ],
+                    "destination": [
+                        "teach_tap_s3_recall_send",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "obj-distinct-bed-20",
+                        0
+                    ],
+                    "destination": [
+                        "teach_tap_s3_bed_gain",
+                        0
+                    ],
+                    "hidden": 1
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "s3_bed_line",
+                        0
+                    ],
+                    "destination": [
+                        "teach_tap_s3_bed_gain",
+                        1
+                    ],
+                    "hidden": 1
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_tap_s3_bed_gain",
+                        0
+                    ],
+                    "destination": [
+                        "teach_tap_s3_bed_send",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "obj-distinct-bed-29",
+                        0
+                    ],
+                    "destination": [
+                        "teach_tap_s3_wave_gain",
+                        0
+                    ],
+                    "hidden": 1
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "s3_bed_line",
+                        0
+                    ],
+                    "destination": [
+                        "teach_tap_s3_wave_gain",
+                        1
+                    ],
+                    "hidden": 1
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_tap_s3_wave_gain",
+                        0
+                    ],
+                    "destination": [
+                        "teach_tap_s3_wave_send",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "out_gain_l",
+                        0
+                    ],
+                    "destination": [
+                        "teach_tap_master_l_gain",
+                        0
+                    ],
+                    "hidden": 1
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_tap_master_l_gain",
+                        0
+                    ],
+                    "destination": [
+                        "teach_tap_master_l_send",
+                        0
+                    ]
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "out_gain_r",
+                        0
+                    ],
+                    "destination": [
+                        "teach_tap_master_r_gain",
+                        0
+                    ],
+                    "hidden": 1
+                }
+            },
+            {
+                "patchline": {
+                    "source": [
+                        "teach_tap_master_r_gain",
+                        0
+                    ],
+                    "destination": [
+                        "teach_tap_master_r_send",
                         0
                     ]
                 }

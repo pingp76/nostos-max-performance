@@ -42,6 +42,7 @@ Stage 2“破碎／漂流”的工程视图：四声部语音粒子、割裂金�
 - EVENT A／B、HOLD和BED PARTICLE提供即时可听的现场事件。
 - 所有声音汇入唯一的MASTER、限幅与MUTE安全输出链。
 - TouchOSC通过UDP 9000控制Max，Max通过UDP 9001返回状态。
+- 工程视图提供15个模块的教学监视器，可区分控制到达、模块工作与真实音频输出。
 - 不使用第三方Max音频external；MCP开发集成是可选功能。
 
 ## 运行要求
@@ -67,13 +68,26 @@ Stage 2“破碎／漂流”的工程视图：四声部语音粒子、割裂金�
 > [!CAUTION]
 > 首次运行请降低物理扬声器音量。若出现过响、尖锐反馈或异常声音，立即按MUTE；不要绕过主输出安全链。
 
+## 教学监视器
+
+主Patch工程视图最下方提供B版教学监视器。每一行的编号与上方真实声音模块入口的蓝色编号一致：例如底部`S2-02 PARTICLE STORM`亮起时，可向上找到`S2-02`入口和相连的四声部粒子链。
+
+每个编号入口旁还带有一组联动的`状态`小灯和`峰`数值。它与第8栏显示完全同步，因此不必一直在顶部组件区和底部监视器之间来回滚动：听到效果后，可直接寻找亮起的局部黄灯或绿灯，并就地读取0—1线性输出峰值。
+
+- 紫灯闪烁：控制消息刚刚到达。
+- 黄灯常亮：模块开关已开启，或一次事件仍处于预定作用时间内。
+- 绿灯亮起：黄灯有效期间，监听支路检测到了真实音频。
+- `meter~`与右侧数值：显示该模块的输出和0—1线性峰值。
+
+监视器还显示当前Stage、计时、宏观参数、最近动作，以及三个Stage和MASTER的实际输出。所有监听均为单向只读旁路，不参与原有混音；它只用于学习和排错，也不会出现在Presentation Mode或TouchOSC界面中。
+
 ## TouchOSC 设置
 
 1. 在TouchOSC打开`nostos_full.tosc`。
 2. 将Connection 1设为UDP并启用。
 3. Host填写运行Max的电脑局域网IP。
 4. Send Port设为`9000`，Receive Port设为`9001`。
-5. 在Max工程视图底部的“iPad IP”文本框输入iPad局域网IP，按Enter或点击“应用IP”。
+5. 在Max工程视图顶部、录音波形右侧的“TouchOSC 回传目标”文本框输入iPad局域网IP，按Enter或点击“应用IP”。
 6. 在TouchOSC点击`SYNC FROM MAX`；状态应由`WAITING`变成`ONLINE`。
 
 场景与计时器通过`/nostos/state/transport <stage> <seconds>`每500 ms组合回传。切换Stage后，TouchOSC上的场景与计时显示通常应在半秒内更新。
@@ -104,9 +118,10 @@ Stage 2“破碎／漂流”的工程视图：四声部语音粒子、割裂金�
 
 ```bash
 node tools/validate_touchosc_feedback.js
+node tools/validate_teaching_monitor.js
 ```
 
-验证器检查Max对象的Scripting Name、重复名称、断裂连线，以及TouchOSC布局中的节点ID与场景／计时反馈脚本。项目要求每个Max对象都具有唯一、稳定、语义化的Scripting Name。
+验证器检查Max对象的Scripting Name、重复名称、断裂连线、教学监视器的15个模块行、只读边界和布局，以及TouchOSC节点ID与场景／计时反馈脚本。项目要求每个Max对象都具有唯一、稳定、语义化的Scripting Name。
 
 若要启用AI代理运行时检查，请按上游说明安装`maxmsp-mcp`。同一个Max实例只保留一个监听UDP 7400的MCP host；普通演出不要求启动MCP客户端。
 
